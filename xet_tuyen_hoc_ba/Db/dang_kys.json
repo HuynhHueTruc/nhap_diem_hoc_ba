@@ -1,0 +1,2591 @@
+[{
+  "_id": {
+    "$oid": "6165aa53c8f67628cc49213b"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165aa53c8f67628cc49213b"
+  },
+  "ten_nganh": "Luật",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Luật Tư pháp"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165ac5bc88deafecd55174d"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165ac5bc88deafecd55174b"
+  },
+  "ten_nganh": "Bảo vệ thực vật",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165acffc88deafecd551751"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165acffc88deafecd55174f"
+  },
+  "ten_nganh": "Không có",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Không có"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165ad4ac88deafecd551755"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165ad49c88deafecd551753"
+  },
+  "ten_nganh": "Bảo vệ thực vật",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165addfc88deafecd551759"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165addfc88deafecd551757"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165ae3fc88deafecd55175d"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165ae3fc88deafecd55175b"
+  },
+  "ten_nganh": "Thú y",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165af4cc88deafecd551761"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165af4cc88deafecd55175f"
+  },
+  "ten_nganh": "Luật",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Luật thương mại"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165afa0c88deafecd551765"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165afa0c88deafecd551763"
+  },
+  "ten_nganh": "Luật",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Luật Thương mại"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165afe8c88deafecd551769"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165afe8c88deafecd551767"
+  },
+  "ten_nganh": "Luật",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Luật Hành chính"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b060c88deafecd55176d"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165b060c88deafecd55176b"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b581c88deafecd551771"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165b581c88deafecd55176f"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b617c88deafecd551775"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165b617c88deafecd551773"
+  },
+  "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b668c88deafecd551779"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165b668c88deafecd551777"
+  },
+  "ten_nganh": "Không có",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Không có"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b6b6c88deafecd55177d"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165b6b6c88deafecd55177b"
+  },
+  "ten_nganh": "Thú y",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b6fdc88deafecd551781"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165b6fdc88deafecd55177f"
+  },
+  "ten_nganh": "Công nghệ thông tin",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Tin học ứng dụng"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b73fc88deafecd551785"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165b73fc88deafecd551783"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b7a4c88deafecd551789"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165b7a4c88deafecd551787"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b7ecc88deafecd55178d"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165b7ecc88deafecd55178b"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b87dc88deafecd551791"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165b87dc88deafecd55178f"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b8d8c88deafecd551795"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165b8d8c88deafecd551793"
+  },
+  "ten_nganh": "Luật",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Luật Tư pháp"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616633b63575a3ebf2e20f9b"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616633b63575a3ebf2e20f99"
+  },
+  "ten_nganh": "Bảo vệ thực vật",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61663434cd4238852e9ddc08"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61663434cd4238852e9ddc06"
+  },
+  "ten_nganh": "Bảo vệ thực vật",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166a973cd4238852e9ddc0c"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166a973cd4238852e9ddc0a"
+  },
+  "ten_nganh": "Kinh doanh quốc tế",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166a9efcd4238852e9ddc10"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166a9efcd4238852e9ddc0e"
+  },
+  "ten_nganh": "Luật",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Luật Hành chính"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166aa39cd4238852e9ddc14"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166aa39cd4238852e9ddc12"
+  },
+  "ten_nganh": "Kỹ thuật xây dựng",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166aaa9cd4238852e9ddc18"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166aaa9cd4238852e9ddc16"
+  },
+  "ten_nganh": "Kỹ thuật cơ khí",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Cơ khí chế tạo máy"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166aae7cd4238852e9ddc1c"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166aae7cd4238852e9ddc1a"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Phiên dịch - Biên dịch tiếng Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ab28cd4238852e9ddc20"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ab28cd4238852e9ddc1e"
+  },
+  "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ab65cd4238852e9ddc24"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ab65cd4238852e9ddc22"
+  },
+  "ten_nganh": "Sư phạm tiếng Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166abb1cd4238852e9ddc28"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166abb1cd4238852e9ddc26"
+  },
+  "ten_nganh": "Luật",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Luật Tư pháp"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ac35cd4238852e9ddc2c"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ac35cd4238852e9ddc2a"
+  },
+  "ten_nganh": "Kỹ thuật xây dựng",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ac6ccd4238852e9ddc30"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ac6ccd4238852e9ddc2e"
+  },
+  "ten_nganh": "Công nghệ thực phẩm",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166acb1cd4238852e9ddc34"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166acb1cd4238852e9ddc32"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166acf6cd4238852e9ddc38"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166acf6cd4238852e9ddc36"
+  },
+  "ten_nganh": "Thú y",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ad7fcd4238852e9ddc40"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ad7fcd4238852e9ddc3e"
+  },
+  "ten_nganh": "Luật",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Luật Hành chính"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166adb9cd4238852e9ddc44"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166adb9cd4238852e9ddc42"
+  },
+  "ten_nganh": "Sư phạm Ngữ văn",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166adf4cd4238852e9ddc48"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166adf4cd4238852e9ddc46"
+  },
+  "ten_nganh": "Quản lý tài nguyên và môi trường",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ae43cd4238852e9ddc4c"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ae43cd4238852e9ddc4a"
+  },
+  "ten_nganh": "Tài chính - Ngân hàng",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ae8ccd4238852e9ddc50"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ae8ccd4238852e9ddc4e"
+  },
+  "ten_nganh": "Tài chính - Ngân hàng",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e34e43f8917a04cd51ed"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e34d43f8917a04cd51eb"
+  },
+  "ten_nganh": "Tài chính - Ngân hàng",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e40b43f8917a04cd51f1"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e40b43f8917a04cd51ef"
+  },
+  "ten_nganh": "Luật",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Luật Tư pháp"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e48243f8917a04cd51f5"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e48243f8917a04cd51f3"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e50b43f8917a04cd51f9"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e50b43f8917a04cd51f7"
+  },
+  "ten_nganh": "Việt Nam học",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Hướng dẫn viên du lịch"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e55b43f8917a04cd51fd"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e55b43f8917a04cd51fb"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e5ab43f8917a04cd5201"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e5ab43f8917a04cd51ff"
+  },
+  "ten_nganh": "Quản lý đất đai",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e5f943f8917a04cd5205"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e5f943f8917a04cd5203"
+  },
+  "ten_nganh": "Bảo vệ thực vật",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e64943f8917a04cd5209"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e64943f8917a04cd5207"
+  },
+  "ten_nganh": "Kế tóan",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e67e43f8917a04cd520d"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e67e43f8917a04cd520b"
+  },
+  "ten_nganh": "Luật",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Luật Tư pháp"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e6e843f8917a04cd5211"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e6e843f8917a04cd520f"
+  },
+  "ten_nganh": "Luật",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Luật Tư pháp"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e72743f8917a04cd5215"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e72743f8917a04cd5213"
+  },
+  "ten_nganh": "Kỹ thuật phần mềm",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e7c943f8917a04cd521a"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e7c943f8917a04cd5218"
+  },
+  "ten_nganh": "Việt Nam học",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Hướng dẫn viên du lịch"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e81643f8917a04cd521e"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e81643f8917a04cd521c"
+  },
+  "ten_nganh": "Luật",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Luật Tư pháp"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e85d43f8917a04cd5222"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e85d43f8917a04cd5220"
+  },
+  "ten_nganh": "Sư phạm tiếng Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e89b43f8917a04cd5226"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e89b43f8917a04cd5224"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e8e843f8917a04cd522a"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e8e843f8917a04cd5228"
+  },
+  "ten_nganh": "Mạng máy tính và truyền thông dữ liệu",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e94943f8917a04cd522e"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e94943f8917a04cd522c"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e9b243f8917a04cd5232"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e9b243f8917a04cd5230"
+  },
+  "ten_nganh": "Sư phạm tiếng Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e9fa43f8917a04cd5236"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e9fa43f8917a04cd5234"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ea3543f8917a04cd523a"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ea3543f8917a04cd5238"
+  },
+  "ten_nganh": "Luật",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Luật Tư pháp"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ea7543f8917a04cd523e"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ea7543f8917a04cd523c"
+  },
+  "ten_nganh": "Công nghệ thông tin",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166eabe43f8917a04cd5242"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166eabe43f8917a04cd5240"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ecee43f8917a04cd5246"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ecee43f8917a04cd5244"
+  },
+  "ten_nganh": "Luật",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Luật Hành chính"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ed2843f8917a04cd524a"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ed2843f8917a04cd5248"
+  },
+  "ten_nganh": "Kỹ thuật điện",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166edd543f8917a04cd524e"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166edd543f8917a04cd524c"
+  },
+  "ten_nganh": "Sư phạm tiếng Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ee4843f8917a04cd5252"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ee4843f8917a04cd5250"
+  },
+  "ten_nganh": "Kinh doanh quốc tế",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ef4743f8917a04cd5256"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ef4743f8917a04cd5254"
+  },
+  "ten_nganh": "Công nghệ thông tin",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166efbb43f8917a04cd525a"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166efbb43f8917a04cd5258"
+  },
+  "ten_nganh": "Không có",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Không có"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f07643f8917a04cd525e"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f07643f8917a04cd525c"
+  },
+  "ten_nganh": "Kinh doanh quốc tế",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f0b443f8917a04cd5262"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f0b343f8917a04cd5260"
+  },
+  "ten_nganh": "Công nghệ thực phẩm",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f0e943f8917a04cd5266"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f0e943f8917a04cd5264"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f1a243f8917a04cd526a"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f1a243f8917a04cd5268"
+  },
+  "ten_nganh": "Tài chính - Ngân hàng",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f1da43f8917a04cd526e"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f1da43f8917a04cd526c"
+  },
+  "ten_nganh": "Tài chính - Ngân hàng",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f20f43f8917a04cd5272"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f20f43f8917a04cd5270"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f27d43f8917a04cd5277"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f27d43f8917a04cd5275"
+  },
+  "ten_nganh": "Kỹ thuật xây dựng",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f2f843f8917a04cd527b"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f2f843f8917a04cd5279"
+  },
+  "ten_nganh": "Luật",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Luật Thương mại"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f33443f8917a04cd527f"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f33443f8917a04cd527d"
+  },
+  "ten_nganh": "Luật",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Luật Thương mại"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f38043f8917a04cd5283"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f38043f8917a04cd5281"
+  },
+  "ten_nganh": "Kế tóan",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f3c143f8917a04cd5287"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f3c143f8917a04cd5285"
+  },
+  "ten_nganh": "Kế tóan",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f3fb43f8917a04cd528b"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f3fb43f8917a04cd5289"
+  },
+  "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f43843f8917a04cd528f"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f43843f8917a04cd528d"
+  },
+  "ten_nganh": "Sư phạm Toán học",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f47743f8917a04cd5293"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f47743f8917a04cd5291"
+  },
+  "ten_nganh": "Sư phạm Toán học",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f4c543f8917a04cd5297"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f4c543f8917a04cd5295"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f4ff43f8917a04cd529b"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f4ff43f8917a04cd5299"
+  },
+  "ten_nganh": "Kế tóan",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f56943f8917a04cd529f"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f56943f8917a04cd529d"
+  },
+  "ten_nganh": "Bảo vệ thực vật",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f82b43f8917a04cd52a3"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f82b43f8917a04cd52a1"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f89043f8917a04cd52a7"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f89043f8917a04cd52a5"
+  },
+  "ten_nganh": "Không có",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Không có"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f8eb43f8917a04cd52ab"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f8eb43f8917a04cd52a9"
+  },
+  "ten_nganh": "Kế tóan",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f93743f8917a04cd52af"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f93743f8917a04cd52ad"
+  },
+  "ten_nganh": "Công nghệ thông tin",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Công nghệ thông tin"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f98743f8917a04cd52b3"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f98743f8917a04cd52b1"
+  },
+  "ten_nganh": "Kế tóan",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f9c443f8917a04cd52b7"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f9c443f8917a04cd52b5"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f9fd43f8917a04cd52bb"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f9fd43f8917a04cd52b9"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fa3643f8917a04cd52bf"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fa3643f8917a04cd52bd"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fa7f43f8917a04cd52c3"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fa7f43f8917a04cd52c1"
+  },
+  "ten_nganh": "Kinh tế",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166face43f8917a04cd52c7"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166face43f8917a04cd52c5"
+  },
+  "ten_nganh": "Luật",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Luật Hành chính"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fb3343f8917a04cd52cb"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fb3343f8917a04cd52c9"
+  },
+  "ten_nganh": "Sư phạm Toán học",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fb6c43f8917a04cd52cf"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fb6c43f8917a04cd52cd"
+  },
+  "ten_nganh": "Luật",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Luật Thương mại"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fbc343f8917a04cd52d3"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fbc343f8917a04cd52d1"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fc0243f8917a04cd52d7"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fc0243f8917a04cd52d5"
+  },
+  "ten_nganh": "Kế tóan",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fc4643f8917a04cd52db"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fc4643f8917a04cd52d9"
+  },
+  "ten_nganh": "Không có",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Không có"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fc8943f8917a04cd52df"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fc8943f8917a04cd52dd"
+  },
+  "ten_nganh": "Kỹ thuật xây dựng",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fcdd43f8917a04cd52e3"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fcdd43f8917a04cd52e1"
+  },
+  "ten_nganh": "Không có",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Không có"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fd1943f8917a04cd52e7"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fd1943f8917a04cd52e5"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fd4f43f8917a04cd52eb"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fd4f43f8917a04cd52e9"
+  },
+  "ten_nganh": "Kế tóan",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fd9243f8917a04cd52ef"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fd9243f8917a04cd52ed"
+  },
+  "ten_nganh": "Kỹ thuật xây dựng",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fdce43f8917a04cd52f3"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fdce43f8917a04cd52f1"
+  },
+  "ten_nganh": "Luật",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Luật Thương mại"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fe0443f8917a04cd52f7"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fe0443f8917a04cd52f5"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fe3a43f8917a04cd52fb"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fe3a43f8917a04cd52f9"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fe7d43f8917a04cd52ff"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fe7d43f8917a04cd52fd"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166feb943f8917a04cd5303"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166feb943f8917a04cd5301"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ff1e43f8917a04cd5307"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ff1e43f8917a04cd5305"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ff5543f8917a04cd530b"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ff5543f8917a04cd5309"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ff8d43f8917a04cd530f"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ff8d43f8917a04cd530d"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ffc443f8917a04cd5313"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ffc443f8917a04cd5311"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fff743f8917a04cd5317"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fff743f8917a04cd5315"
+  },
+  "ten_nganh": "Công nghệ thông tin",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Tin học ứng dụng"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167002f43f8917a04cd531b"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167002f43f8917a04cd5319"
+  },
+  "ten_nganh": "Luật",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Luật Tư pháp"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167006943f8917a04cd531f"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167006943f8917a04cd531d"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616700a443f8917a04cd5323"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616700a443f8917a04cd5321"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616700e443f8917a04cd5327"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616700e443f8917a04cd5325"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616701a143f8917a04cd532b"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616701a143f8917a04cd5329"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616701dd43f8917a04cd532f"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616701dd43f8917a04cd532d"
+  },
+  "ten_nganh": "Xã hội học",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167021a43f8917a04cd5333"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167021a43f8917a04cd5331"
+  },
+  "ten_nganh": "Luật",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Luật Thương mại"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167025043f8917a04cd5337"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167025043f8917a04cd5335"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167028943f8917a04cd533b"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167028943f8917a04cd5339"
+  },
+  "ten_nganh": "Kỹ thuật xây dựng",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616702bc43f8917a04cd533f"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616702bc43f8917a04cd533d"
+  },
+  "ten_nganh": "Thú y",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616702f743f8917a04cd5343"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616702f743f8917a04cd5341"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167032b43f8917a04cd5347"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167032b43f8917a04cd5345"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167036643f8917a04cd534b"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167036643f8917a04cd5349"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616703a043f8917a04cd534f"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616703a043f8917a04cd534d"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616703df43f8917a04cd5353"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616703df43f8917a04cd5351"
+  },
+  "ten_nganh": "Giáo dục Tiểu học",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167041a43f8917a04cd5357"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167041a43f8917a04cd5355"
+  },
+  "ten_nganh": "Quản lý tài nguyên và môi trường",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167045343f8917a04cd535b"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167045343f8917a04cd5359"
+  },
+  "ten_nganh": "Kỹ thuật xây dựng",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167048143f8917a04cd535f"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167048143f8917a04cd535d"
+  },
+  "ten_nganh": "Kỹ thuật xây dựng",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616704b543f8917a04cd5363"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616704b543f8917a04cd5361"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616704e643f8917a04cd5367"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616704e643f8917a04cd5365"
+  },
+  "ten_nganh": "Luật",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Luật Tư pháp"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167051d43f8917a04cd536b"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167051d43f8917a04cd5369"
+  },
+  "ten_nganh": "Giáo dục Tiểu học",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167058343f8917a04cd536f"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167058343f8917a04cd536d"
+  },
+  "ten_nganh": "Marketing",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616705ea43f8917a04cd5373"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616705ea43f8917a04cd5371"
+  },
+  "ten_nganh": "Sư phạm Toán học",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167062543f8917a04cd5377"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167062543f8917a04cd5375"
+  },
+  "ten_nganh": "Sư phạm Toán học",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167066f43f8917a04cd537b"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167066f43f8917a04cd5379"
+  },
+  "ten_nganh": "Luật",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Luật Tư pháp"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616706b543f8917a04cd537f"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616706b543f8917a04cd537d"
+  },
+  "ten_nganh": "Luật",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Luật Hành chính"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616706f843f8917a04cd5383"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616706f843f8917a04cd5381"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167073243f8917a04cd5387"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167073243f8917a04cd5385"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167076f43f8917a04cd538b"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167076f43f8917a04cd5389"
+  },
+  "ten_nganh": "Giáo dục Tiểu học",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616707a143f8917a04cd538f"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616707a143f8917a04cd538d"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616707e243f8917a04cd5393"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616707e243f8917a04cd5391"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167081f43f8917a04cd5397"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167081f43f8917a04cd5395"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167085b43f8917a04cd539b"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167085b43f8917a04cd5399"
+  },
+  "ten_nganh": "Kinh doanh quốc tế",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616708a843f8917a04cd539f"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616708a843f8917a04cd539d"
+  },
+  "ten_nganh": "Marketing",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616708fe43f8917a04cd53a3"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616708fe43f8917a04cd53a1"
+  },
+  "ten_nganh": "Tài chính - Ngân hàng",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167095a43f8917a04cd53a7"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167095a43f8917a04cd53a5"
+  },
+  "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616709cb43f8917a04cd53ab"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616709cb43f8917a04cd53a9"
+  },
+  "ten_nganh": "Kế tóan",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670a0443f8917a04cd53af"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61670a0443f8917a04cd53ad"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670ae943f8917a04cd53b3"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61670ae943f8917a04cd53b1"
+  },
+  "ten_nganh": "Kỹ thuật môi trường",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670bb543f8917a04cd53b8"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61670bb543f8917a04cd53b6"
+  },
+  "ten_nganh": "Việt Nam học",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Hướng dẫn viên du lịch"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670c7f43f8917a04cd53bc"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61670c7f43f8917a04cd53ba"
+  },
+  "ten_nganh": "Kinh doanh quốc tế",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670cdb43f8917a04cd53c0"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61670cdb43f8917a04cd53be"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670d1843f8917a04cd53c4"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61670d1843f8917a04cd53c2"
+  },
+  "ten_nganh": "Việt Nam học",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Hướng dẫn viên du lịch"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670e2d43f8917a04cd53c8"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61670e2d43f8917a04cd53c6"
+  },
+  "ten_nganh": "Kỹ thuật xây dựng",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670f0143f8917a04cd53ce"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61670f0143f8917a04cd53cc"
+  },
+  "ten_nganh": "Kinh tế",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670f3443f8917a04cd53d2"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61670f3443f8917a04cd53d0"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670faa43f8917a04cd53d6"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61670faa43f8917a04cd53d4"
+  },
+  "ten_nganh": "Việt Nam học",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Hướng dẫn viên du lịch"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670ff843f8917a04cd53da"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61670ff843f8917a04cd53d8"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167103843f8917a04cd53de"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167103843f8917a04cd53dc"
+  },
+  "ten_nganh": "Luật",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Luật Tư pháp"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167108343f8917a04cd53e2"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167108343f8917a04cd53e0"
+  },
+  "ten_nganh": "Sư phạm tiếng Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616710e043f8917a04cd53e6"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616710e043f8917a04cd53e4"
+  },
+  "ten_nganh": "Sư phạm tiếng Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167113143f8917a04cd53ea"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167113143f8917a04cd53e8"
+  },
+  "ten_nganh": "Sư phạm tiếng Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616713c036a4176baf36a688"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616713c036a4176baf36a686"
+  },
+  "ten_nganh": "Luật",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Luật Thương mại"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61678f8c1c414fe1310cb05c"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61678f8c1c414fe1310cb05a"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61678fdc1c414fe1310cb060"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61678fdb1c414fe1310cb05e"
+  },
+  "ten_nganh": "Kỹ thuật xây dựng",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616790561c414fe1310cb064"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616790561c414fe1310cb062"
+  },
+  "ten_nganh": "Marketing",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167908b1c414fe1310cb068"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167908b1c414fe1310cb066"
+  },
+  "ten_nganh": "Sư phạm Toán học",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616790bb1c414fe1310cb06c"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616790bb1c414fe1310cb06a"
+  },
+  "ten_nganh": "Công nghệ thông tin",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616796361c414fe1310cb070"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616796361c414fe1310cb06e"
+  },
+  "ten_nganh": "Việt Nam học",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Hướng dẫn viên du lịch"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616796841c414fe1310cb074"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616796841c414fe1310cb072"
+  },
+  "ten_nganh": "Marketing",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167d7a11c414fe1310cb078"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167d7a11c414fe1310cb076"
+  },
+  "ten_nganh": "Kế tóan",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167d7f81c414fe1310cb07c"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167d7f81c414fe1310cb07a"
+  },
+  "ten_nganh": "Kế tóan",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61699ef1e0bd0187d1041f99"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61699ef1e0bd0187d1041f97"
+  },
+  "ten_nganh": "Luật",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Luật Tư pháp"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616ae387333889b6d2f111a8"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616ae387333889b6d2f111a6"
+  },
+  "ten_nganh": "Marketing",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616ae3e3333889b6d2f111ac"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616ae3e3333889b6d2f111aa"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616ae43f333889b6d2f111b0"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616ae43f333889b6d2f111ae"
+  },
+  "ten_nganh": "Marketing",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616ae484333889b6d2f111b4"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616ae484333889b6d2f111b2"
+  },
+  "ten_nganh": "Tài chính - Ngân hàng",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616ae4ec333889b6d2f111b8"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616ae4eb333889b6d2f111b6"
+  },
+  "ten_nganh": "Sư phạm tiếng Anh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616ae52f333889b6d2f111bc"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616ae52f333889b6d2f111ba"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": ""
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616ae6729f46b908e4a7c523"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616ae6729f46b908e4a7c521"
+  },
+  "ten_nganh": "Luật",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Luật Thương mại"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616d216c7576047b29e94fe2"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616d216c7576047b29e94fe0"
+  },
+  "ten_nganh": "Luật",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Luật Thương mại"
+    }
+  ],
+  "__v": 0
+}]

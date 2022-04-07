@@ -1,0 +1,5923 @@
+[{
+  "_id": {
+    "$oid": "6165aa53c8f67628cc49213b"
+  },
+  "so_ho_so": "1",
+  "ho_ten": "Nguyễn Thị Trúc Linh",
+  "ngay_sinh": {
+    "$date": "2000-01-20T00:00:00Z"
+  },
+  "cmnd_cccd": "312413506",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6165aa8fc0aceb28ccdc7303"
+      },
+      "xa_phuong": "Xã Mỹ Phong",
+      "huyen_quan": "Thành phố Mỹ Tho",
+      "tinh_thanhpho": "Tỉnh Tiền Giang"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Tiền Giang",
+  "dien_thoai": "0989280725",
+  "email": "nguyenthitruclinhtmp@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-12T15:32:31Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-12T15:32:31Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165ac5bc88deafecd55174b"
+  },
+  "so_ho_so": "2",
+  "ho_ten": "Đoàn Tấn Lợi",
+  "ngay_sinh": {
+    "$date": "2000-11-15T00:00:00Z"
+  },
+  "cmnd_cccd": "352630851",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6165ac5b0a41ef3c98311077"
+      },
+      "xa_phuong": "Xã Hòa Bình",
+      "huyen_quan": "Huyện Chợ Mới",
+      "tinh_thanhpho": "Tỉnh An Giang"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh An Giang",
+  "dien_thoai": "0384772299",
+  "email": "doantanloiagg20@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-12T15:40:11Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-12T15:40:11Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165acffc88deafecd55174f"
+  },
+  "so_ho_so": "3",
+  "ho_ten": "Nguyễn Trần Tuấn Vinh",
+  "ngay_sinh": {
+    "$date": "2000-09-02T00:00:00Z"
+  },
+  "cmnd_cccd": "341981928",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6165acff0a41ef3c98311081"
+      },
+      "xa_phuong": "Phường 1",
+      "huyen_quan": "Thành phố Sa Đéc",
+      "tinh_thanhpho": "Tỉnh Đồng Tháp"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Đồng Tháp",
+  "dien_thoai": "0763907896",
+  "email": "ltthntav2802@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-12T15:42:55Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-12T15:42:55Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165ad49c88deafecd551753"
+  },
+  "so_ho_so": "4",
+  "ho_ten": "Phạm Thành Nam",
+  "ngay_sinh": {
+    "$date": "2000-09-17T00:00:00Z"
+  },
+  "cmnd_cccd": "341964398",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6165ad490a41ef3c9831108b"
+      },
+      "xa_phuong": "Xã Định Yên",
+      "huyen_quan": "Huyện Lấp Vò",
+      "tinh_thanhpho": "Tỉnh Đồng Tháp"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Đồng Tháp",
+  "dien_thoai": "0926290272",
+  "email": "phamthanhnamdy@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-12T15:44:09Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-12T15:44:09Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165addfc88deafecd551757"
+  },
+  "so_ho_so": "5",
+  "ho_ten": "Cao Trần Ngọc Ánh",
+  "ngay_sinh": {
+    "$date": "2000-11-13T00:00:00Z"
+  },
+  "cmnd_cccd": "092300002172",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6165addf0a41ef3c98311095"
+      },
+      "xa_phuong": "Xã Thạnh Qưới",
+      "huyen_quan": "Huyện Vĩnh Thạnh",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh An Giang",
+  "dien_thoai": "0394000400",
+  "email": "caotranngocanh13@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-12T15:46:39Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-12T15:46:39Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165ae3fc88deafecd55175b"
+  },
+  "so_ho_so": "6",
+  "ho_ten": "Tạ Thị Như",
+  "ngay_sinh": {
+    "$date": "1997-09-23T00:00:00Z"
+  },
+  "cmnd_cccd": "385686041",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6165ae3f0a41ef3c9831109f"
+      },
+      "xa_phuong": "Xã Minh Diệu",
+      "huyen_quan": "Huyện Hoà Bình",
+      "tinh_thanhpho": "Tỉnh Bạc Liêu"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Bạc Liêu",
+  "dien_thoai": "0818622597",
+  "email": "anhanh14022001@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-12T15:48:15Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-12T15:48:15Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165af4cc88deafecd55175f"
+  },
+  "so_ho_so": "7",
+  "ho_ten": "Nguyễn Đăng Khoa",
+  "ngay_sinh": {
+    "$date": "2000-09-17T00:00:00Z"
+  },
+  "cmnd_cccd": "092200006678",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6165af4c0a41ef3c983110a9"
+      },
+      "xa_phuong": "Phường An Hòa",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0828711232",
+  "email": "nguyenkhoa1792000@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-12T15:52:44Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-12T15:52:44Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165afa0c88deafecd551763"
+  },
+  "so_ho_so": "8",
+  "ho_ten": "Đỗ Việt Tân",
+  "ngay_sinh": {
+    "$date": "2000-04-01T00:00:00Z"
+  },
+  "cmnd_cccd": "092200001878",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6165afa00a41ef3c983110b3"
+      },
+      "xa_phuong": "Xã Trung Thạnh",
+      "huyen_quan": "Huyện Cờ Đỏ",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0939587835",
+  "email": "dothuyen.2102@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-12T15:54:08Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-12T15:54:08Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165afe8c88deafecd551767"
+  },
+  "so_ho_so": "9",
+  "ho_ten": "Trần Thị Duyên",
+  "ngay_sinh": {
+    "$date": "2000-12-26T00:00:00Z"
+  },
+  "cmnd_cccd": "092300005000",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6165afe80a41ef3c983110bd"
+      },
+      "xa_phuong": "Phường Trường Lạc",
+      "huyen_quan": "Quận Ô Môn",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0707627946",
+  "email": "thiduyen078@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-12T15:55:20Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-12T15:55:20Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b060c88deafecd55176b"
+  },
+  "so_ho_so": "10",
+  "ho_ten": "Trầm Thị Tú Linh",
+  "ngay_sinh": {
+    "$date": "2000-08-07T00:00:00Z"
+  },
+  "cmnd_cccd": "335007957",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6165b0600a41ef3c983110c7"
+      },
+      "xa_phuong": "Thị trấn Định An",
+      "huyen_quan": "Huyện Trà Cú",
+      "tinh_thanhpho": "Tỉnh Trà Vinh"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Trà Vinh",
+  "dien_thoai": "0352257370",
+  "email": "linhtram950@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-12T15:57:20Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-12T15:57:20Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b581c88deafecd55176f"
+  },
+  "so_ho_so": "11",
+  "ho_ten": "Trần Thanh Thảo Nguyên",
+  "ngay_sinh": {
+    "$date": "2000-09-29T00:00:00Z"
+  },
+  "cmnd_cccd": "092300007099",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6165b5810a41ef3c983110e5"
+      },
+      "xa_phuong": "Phường An Hòa",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0949727629",
+  "email": "tranthanhthaonguyentn@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-12T16:19:13Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-12T16:19:13Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b617c88deafecd551773"
+  },
+  "so_ho_so": "12",
+  "ho_ten": "Dương Thị Ý Nhi",
+  "ngay_sinh": {
+    "$date": "2000-03-19T00:00:00Z"
+  },
+  "cmnd_cccd": "092300006682",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6165b6170a41ef3c983110f7"
+      },
+      "xa_phuong": "Xã Nhơn Nghĩa",
+      "huyen_quan": "Huyện Phong Điền",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0795839236",
+  "email": "yd9675257@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-12T16:21:43Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-12T16:21:43Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b668c88deafecd551777"
+  },
+  "so_ho_so": "13",
+  "ho_ten": "Nguyễn Quang Tỷ",
+  "ngay_sinh": {
+    "$date": "2000-03-17T00:00:00Z"
+  },
+  "cmnd_cccd": "364081470",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6165b6680a41ef3c98311101"
+      },
+      "xa_phuong": "Thị Trấn Ngã Sáu",
+      "huyen_quan": "Huyện Châu Thành",
+      "tinh_thanhpho": "Tỉnh Hậu Giang"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Hậu Giang",
+  "dien_thoai": "0372755530",
+  "email": "toninguyen170320@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-12T16:23:04Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-12T16:23:04Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b6b6c88deafecd55177b"
+  },
+  "so_ho_so": "14",
+  "ho_ten": "Võ Quốc Đạt",
+  "ngay_sinh": {
+    "$date": "2000-12-27T00:00:00Z"
+  },
+  "cmnd_cccd": "364042234",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6165b6b60a41ef3c9831110b"
+      },
+      "xa_phuong": "Xã Vĩnh Thuận Đông",
+      "huyen_quan": "Huyện Long Mỹ",
+      "tinh_thanhpho": "Tỉnh Hậu Giang"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0938823597",
+  "email": "voquocdat774@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-12T16:24:22Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-12T16:24:22Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b6fdc88deafecd55177f"
+  },
+  "so_ho_so": "15",
+  "ho_ten": "Trương Tấn Sang",
+  "ngay_sinh": {
+    "$date": "2000-10-03T00:00:00Z"
+  },
+  "cmnd_cccd": "086200000010",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6165b6fd0a41ef3c98311115"
+      },
+      "xa_phuong": "Phường An Khánh",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Vĩnh Long",
+  "dien_thoai": "0919408348",
+  "email": "truongtansang312000@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-12T16:25:33Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-12T16:25:33Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b73fc88deafecd551783"
+  },
+  "so_ho_so": "16",
+  "ho_ten": "Nguyễn Thị Tú Uyên",
+  "ngay_sinh": {
+    "$date": "1998-03-10T00:00:00Z"
+  },
+  "cmnd_cccd": "364069059",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6165b73f0a41ef3c9831111f"
+      },
+      "xa_phuong": "Phường An Cư",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0907460745",
+  "email": "tuuyennguyenct@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-12T16:26:39Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-12T16:26:39Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b7a4c88deafecd551787"
+  },
+  "so_ho_so": "17",
+  "ho_ten": "Lê Xuân Anh",
+  "ngay_sinh": {
+    "$date": "2000-04-22T00:00:00Z"
+  },
+  "cmnd_cccd": "272798843",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6165b7a40a41ef3c98311129"
+      },
+      "xa_phuong": "Phường Hiệp Thành",
+      "huyen_quan": "Thị xã Ngã Bảy",
+      "tinh_thanhpho": "Tỉnh Hậu Giang"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Hậu Giang",
+  "dien_thoai": "0763926658",
+  "email": "xuananh2442000@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-12T16:28:20Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-12T16:28:20Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b7ecc88deafecd55178b"
+  },
+  "so_ho_so": "18",
+  "ho_ten": "Nguyễn Thị Trúc Ngân",
+  "ngay_sinh": {
+    "$date": "2000-05-31T00:00:00Z"
+  },
+  "cmnd_cccd": "092300002225",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6165b7ec0a41ef3c98311133"
+      },
+      "xa_phuong": "Phường Tân Phú",
+      "huyen_quan": "Quận Cái Răng",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0939917629",
+  "email": "trucngannguyen3105@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-12T16:29:32Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-12T16:29:32Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b87dc88deafecd55178f"
+  },
+  "so_ho_so": "19",
+  "ho_ten": "Nguyễn Văn Hiệp",
+  "ngay_sinh": {
+    "$date": "2000-12-05T00:00:00Z"
+  },
+  "cmnd_cccd": "331861902",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6165b87d0a41ef3c9831113d"
+      },
+      "xa_phuong": "Phường Cái Vồn",
+      "huyen_quan": "Thị xã Bình Minh",
+      "tinh_thanhpho": "Tỉnh Vĩnh Long"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Vĩnh Long",
+  "dien_thoai": "0793095459",
+  "email": "nguyenvanhiep5122000@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-12T16:31:57Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-12T16:31:57Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b8d8c88deafecd551793"
+  },
+  "so_ho_so": "20",
+  "ho_ten": "Nguyễn Thị Thanh Ngân",
+  "ngay_sinh": {
+    "$date": "2000-02-04T00:00:00Z"
+  },
+  "cmnd_cccd": "364029836",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6165b8d80a41ef3c98311147"
+      },
+      "xa_phuong": "Xã Đông Thạnh",
+      "huyen_quan": "Huyện Châu Thành",
+      "tinh_thanhpho": "Tỉnh Hậu Giang"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Hậu Giang",
+  "dien_thoai": "0769348851",
+  "email": "nguyenthithanhngan8851@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-12T16:33:28Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-12T16:33:28Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616633b63575a3ebf2e20f99"
+  },
+  "so_ho_so": "21",
+  "ho_ten": "Huỳnh Tiến Thông",
+  "ngay_sinh": {
+    "$date": "2000-01-15T00:00:00Z"
+  },
+  "cmnd_cccd": "364154528",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616633b690ee0e28dc08e4a6"
+      },
+      "xa_phuong": "Xã Tân Thành",
+      "huyen_quan": "Thị xã Ngã Bảy",
+      "tinh_thanhpho": "Tỉnh Hậu Giang"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0345617704",
+  "email": "tienphong1678@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T01:17:42Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T01:17:42Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61663434cd4238852e9ddc06"
+  },
+  "so_ho_so": "22",
+  "ho_ten": "Phạm Văn Hòa",
+  "ngay_sinh": {
+    "$date": "2000-07-15T00:00:00Z"
+  },
+  "cmnd_cccd": "364051234",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166343451e86d41441beca6"
+      },
+      "xa_phuong": "Phường Cái Khế",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0988391433",
+  "email": "phamvanhoa2000pvh@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T01:19:48Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T01:19:48Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166a973cd4238852e9ddc0a"
+  },
+  "so_ho_so": "23",
+  "ho_ten": "Phạm Huỳnh Như",
+  "ngay_sinh": {
+    "$date": "2000-01-28T00:00:00Z"
+  },
+  "cmnd_cccd": "371883745",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166a97351e86d41441bed6d"
+      },
+      "xa_phuong": "Xã Ngọc Chúc",
+      "huyen_quan": "Huyện Giồng Riềng",
+      "tinh_thanhpho": "Tỉnh Kiên Giang"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Kiên Giang",
+  "dien_thoai": "0941515482",
+  "email": "phamhuynhnhu2828@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T09:40:03Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T09:40:03Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166a9efcd4238852e9ddc0e"
+  },
+  "so_ho_so": "24",
+  "ho_ten": "Thái Kim Kha",
+  "ngay_sinh": {
+    "$date": "2000-01-08T00:00:00Z"
+  },
+  "cmnd_cccd": "352530326",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166a9ef51e86d41441bed83"
+      },
+      "xa_phuong": "Xã Khánh Hòa",
+      "huyen_quan": "Huyện Châu Phú",
+      "tinh_thanhpho": "Tỉnh An Giang"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh An Giang",
+  "dien_thoai": "0376244081",
+  "email": "thaikimkha81@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T09:42:07Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T09:42:07Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166aa39cd4238852e9ddc12"
+  },
+  "so_ho_so": "25",
+  "ho_ten": "Phạm Minh Bảo",
+  "ngay_sinh": {
+    "$date": "2000-12-15T00:00:00Z"
+  },
+  "cmnd_cccd": "366323003",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166aa3951e86d41441bed99"
+      },
+      "xa_phuong": "Phường An Hòa",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Sóc Trăng",
+  "dien_thoai": "0383293469",
+  "email": "phamminhbaoct123@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T09:43:21Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T09:43:21Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166aaa9cd4238852e9ddc16"
+  },
+  "so_ho_so": "26",
+  "ho_ten": "Phạm Công Phương",
+  "ngay_sinh": {
+    "$date": "2000-11-21T00:00:00Z"
+  },
+  "cmnd_cccd": "362537979",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166aaa951e86d41441bedaf"
+      },
+      "xa_phuong": "Phường Bình Thủy",
+      "huyen_quan": "Quận Bình Thuỷ",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0916846955",
+  "email": "congphuongsmllc@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T09:45:13Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T09:45:13Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166aae7cd4238852e9ddc1a"
+  },
+  "so_ho_so": "27",
+  "ho_ten": "Huỳnh Ngọc Yến Nhi",
+  "ngay_sinh": {
+    "$date": "1996-10-18T00:00:00Z"
+  },
+  "cmnd_cccd": "025414176",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166aae751e86d41441bedc5"
+      },
+      "xa_phuong": "Phường An Bình",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Hồ Chí Minh",
+  "dien_thoai": "0907664464",
+  "email": "yennhi181096@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T09:46:15Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T09:46:15Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ab28cd4238852e9ddc1e"
+  },
+  "so_ho_so": "28",
+  "ho_ten": "Ngô Thị Tường Vi",
+  "ngay_sinh": {
+    "$date": "2000-01-27T00:00:00Z"
+  },
+  "cmnd_cccd": "092300001934",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166ab2851e86d41441beddb"
+      },
+      "xa_phuong": "Phường Thốt Nốt",
+      "huyen_quan": "Quận Thốt Nốt",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0939829207",
+  "email": "ngothituongvi2727@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T09:47:20Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T09:47:20Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ab65cd4238852e9ddc22"
+  },
+  "so_ho_so": "29",
+  "ho_ten": "Trương Bích Thùy Nhỏ",
+  "ngay_sinh": {
+    "$date": "1989-10-21T00:00:00Z"
+  },
+  "cmnd_cccd": "366362030",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166ab6551e86d41441bedf1"
+      },
+      "xa_phuong": "Phường An Nghiệp",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Cà Mau",
+  "dien_thoai": "0845783478",
+  "email": "truongbichthuynho@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T09:48:21Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T09:48:21Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166abb1cd4238852e9ddc26"
+  },
+  "so_ho_so": "30",
+  "ho_ten": "Nguyễn Minh Tố Mỹ Lan Hương",
+  "ngay_sinh": {
+    "$date": "1999-10-20T00:00:00Z"
+  },
+  "cmnd_cccd": "364112564",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166abb151e86d41441bee07"
+      },
+      "xa_phuong": "Xã Tân Phú Thạnh",
+      "huyen_quan": "Huyện Châu Thành A",
+      "tinh_thanhpho": "Tỉnh Hậu Giang"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0949511927",
+  "email": "lanhuongtomy992210@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T09:49:37Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T09:49:37Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ac35cd4238852e9ddc2a"
+  },
+  "so_ho_so": "31",
+  "ho_ten": "Đặng Nguyễn Thịnh",
+  "ngay_sinh": {
+    "$date": "2000-05-30T00:00:00Z"
+  },
+  "cmnd_cccd": "093200000539",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166ac3551e86d41441bee1d"
+      },
+      "xa_phuong": "Xã Long Trị A",
+      "huyen_quan": "Thị xã Long Mỹ",
+      "tinh_thanhpho": "Tỉnh Hậu Giang"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Hậu Giang",
+  "dien_thoai": "0932991383",
+  "email": "thinhdang30052000@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T09:51:49Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T09:51:49Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ac6ccd4238852e9ddc2e"
+  },
+  "so_ho_so": "32",
+  "ho_ten": "Hồ Anh Đào",
+  "ngay_sinh": {
+    "$date": "1999-05-29T00:00:00Z"
+  },
+  "cmnd_cccd": "092199002509",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166ac6c51e86d41441bee33"
+      },
+      "xa_phuong": "Phường Phước Thới",
+      "huyen_quan": "Quận Ô Môn",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0706938377",
+  "email": "anhdaoho29599@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T09:52:44Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T09:52:44Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166acb1cd4238852e9ddc32"
+  },
+  "so_ho_so": "33",
+  "ho_ten": "Dương Minh Thành",
+  "ngay_sinh": {
+    "$date": "2000-08-27T00:00:00Z"
+  },
+  "cmnd_cccd": "026052808",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166acb151e86d41441bee49"
+      },
+      "xa_phuong": "Phường Thới An Đông",
+      "huyen_quan": "Quận Bình Thuỷ",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Hồ Chí Minh",
+  "dien_thoai": "0845237260",
+  "email": "thanhduong39100@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T09:53:53Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T09:53:53Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166acf6cd4238852e9ddc36"
+  },
+  "so_ho_so": "34",
+  "ho_ten": "Bùi Thị Hữu Nhân",
+  "ngay_sinh": {
+    "$date": "1999-10-09T00:00:00Z"
+  },
+  "cmnd_cccd": "364095752",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166acf651e86d41441bee5f"
+      },
+      "xa_phuong": "Xã Tân Bình",
+      "huyen_quan": "Huyện Phụng Hiệp",
+      "tinh_thanhpho": "Tỉnh Hậu Giang"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0907232449",
+  "email": "buithihuunhan1999@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T09:55:02Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T09:55:02Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ad7fcd4238852e9ddc3e"
+  },
+  "so_ho_so": "36",
+  "ho_ten": "Nguyễn Thị Bé Bi",
+  "ngay_sinh": {
+    "$date": "2000-07-15T00:00:00Z"
+  },
+  "cmnd_cccd": "366321675",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166ad7f51e86d41441bee8b"
+      },
+      "xa_phuong": "Xã Tân Long",
+      "huyen_quan": "Thị xã Ngã Năm",
+      "tinh_thanhpho": "Tỉnh Sóc Trăng"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Sóc Trăng",
+  "dien_thoai": "0339116518",
+  "email": "nguyenthibebi12a3@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T09:57:19Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T09:57:19Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166adb9cd4238852e9ddc42"
+  },
+  "so_ho_so": "37",
+  "ho_ten": "Lê Quang Thắng",
+  "ngay_sinh": {
+    "$date": "2000-11-13T00:00:00Z"
+  },
+  "cmnd_cccd": "092200001048",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166adb951e86d41441beea1"
+      },
+      "xa_phuong": "Phường Hưng Lợi",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0858780943",
+  "email": "chlou1311@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T09:58:17Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T09:58:17Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166adf4cd4238852e9ddc46"
+  },
+  "so_ho_so": "38",
+  "ho_ten": "Trương Chí Lập",
+  "ngay_sinh": {
+    "$date": "2000-09-23T00:00:00Z"
+  },
+  "cmnd_cccd": "362550476",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166adf451e86d41441beeb7"
+      },
+      "xa_phuong": "Xã Giai Xuân",
+      "huyen_quan": "Huyện Phong Điền",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0702846804",
+  "email": "truongchilap.2309@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T09:59:16Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T09:59:16Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ae43cd4238852e9ddc4a"
+  },
+  "so_ho_so": "39",
+  "ho_ten": "Lê Thị Tú Trinh",
+  "ngay_sinh": {
+    "$date": "2000-12-31T00:00:00Z"
+  },
+  "cmnd_cccd": "366281611",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166ae4351e86d41441beecd"
+      },
+      "xa_phuong": "Thị trấn Mỹ Xuyên",
+      "huyen_quan": "Huyện Mỹ Xuyên",
+      "tinh_thanhpho": "Tỉnh Sóc Trăng"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Sóc Trăng",
+  "dien_thoai": "0832602105",
+  "email": "lethitutrinh3112@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T10:00:35Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T10:00:35Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ae8ccd4238852e9ddc4e"
+  },
+  "so_ho_so": "40",
+  "ho_ten": "Đặng Thị Thảo Nguyên",
+  "ngay_sinh": {
+    "$date": "2000-05-14T00:00:00Z"
+  },
+  "cmnd_cccd": "364153616",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166ae8c51e86d41441beee3"
+      },
+      "xa_phuong": "Xã Tân Long",
+      "huyen_quan": "Huyện Phụng Hiệp",
+      "tinh_thanhpho": "Tỉnh Hậu Giang"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Hậu Giang",
+  "dien_thoai": "0932873425",
+  "email": "dangthaonguyen3425@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T10:01:48Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T10:01:48Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e34d43f8917a04cd51eb"
+  },
+  "so_ho_so": "41",
+  "ho_ten": "Trần Thị Mỹ Linh",
+  "ngay_sinh": {
+    "$date": "2000-02-25T00:00:00Z"
+  },
+  "cmnd_cccd": "092300003401",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166e34e0bda9625d4257eda"
+      },
+      "xa_phuong": "Phường Tân An",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Tiền Giang",
+  "dien_thoai": "0706882088",
+  "email": "ttmylinh25@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T13:46:53Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T13:46:54Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e40b43f8917a04cd51ef"
+  },
+  "so_ho_so": "42",
+  "ho_ten": "Lê Thị Xuân Mai",
+  "ngay_sinh": {
+    "$date": "1999-07-20T00:00:00Z"
+  },
+  "cmnd_cccd": "092199000212",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166e40b0bda9625d4257ee8"
+      },
+      "xa_phuong": "Xã Nhơn Nghĩa",
+      "huyen_quan": "Huyện Phong Điền",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0379362297",
+  "email": "xmai451@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T13:50:03Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T13:50:03Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e48243f8917a04cd51f3"
+  },
+  "so_ho_so": "43",
+  "ho_ten": "Nguyễn Thị Ngọc Ánh",
+  "ngay_sinh": {
+    "$date": "1997-11-28T00:00:00Z"
+  },
+  "cmnd_cccd": "093197000032",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166e4820bda9625d4257ef6"
+      },
+      "xa_phuong": "Phường Hưng Lợi",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Hậu Giang",
+  "dien_thoai": "0939226805",
+  "email": "ntnanh2811@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T13:52:02Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T13:52:02Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e50b43f8917a04cd51f7"
+  },
+  "so_ho_so": "44",
+  "ho_ten": "Nguyễn Hải Vi",
+  "ngay_sinh": {
+    "$date": "2000-03-21T00:00:00Z"
+  },
+  "cmnd_cccd": "091200000235",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166e50b0bda9625d4257f04"
+      },
+      "xa_phuong": "Phường An Khánh",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Kiên Giang",
+  "dien_thoai": "0582013319",
+  "email": "12haivi12@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T13:54:19Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T13:54:19Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e55b43f8917a04cd51fb"
+  },
+  "so_ho_so": "45",
+  "ho_ten": "Nguyễn Trí Dũng",
+  "ngay_sinh": {
+    "$date": "1999-03-04T00:00:00Z"
+  },
+  "cmnd_cccd": "362555198",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166e55b0bda9625d4257f12"
+      },
+      "xa_phuong": "Phường Tân An",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0932345684",
+  "email": "nguyentridungtmp@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T13:55:39Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T13:55:39Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e5ab43f8917a04cd51ff"
+  },
+  "so_ho_so": "46",
+  "ho_ten": "Nguyễn Thị Thanh Hoài",
+  "ngay_sinh": {
+    "$date": "2000-11-10T00:00:00Z"
+  },
+  "cmnd_cccd": "312505914",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166e5ab0bda9625d4257f20"
+      },
+      "xa_phuong": "Thị trấn Cái Bè",
+      "huyen_quan": "Huyện Cái Bè",
+      "tinh_thanhpho": "Tỉnh Tiền Giang"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Tiền Giang",
+  "dien_thoai": "0368273084",
+  "email": "thanhhoaitg63@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T13:56:59Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T13:56:59Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e5f943f8917a04cd5203"
+  },
+  "so_ho_so": "47",
+  "ho_ten": "Trương Thị Hồng Ngọc",
+  "ngay_sinh": {
+    "$date": "2000-06-25T00:00:00Z"
+  },
+  "cmnd_cccd": "094300000285",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166e5f90bda9625d4257f2e"
+      },
+      "xa_phuong": "Xã Phú Hữu",
+      "huyen_quan": "Huyện Long Phú",
+      "tinh_thanhpho": "Tỉnh Sóc Trăng"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Sóc Trăng",
+  "dien_thoai": "0355036278",
+  "email": "hongngockun225@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T13:58:17Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T13:58:17Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e64943f8917a04cd5207"
+  },
+  "so_ho_so": "48",
+  "ho_ten": "Lê Huỳnh Giao",
+  "ngay_sinh": {
+    "$date": "2000-02-23T00:00:00Z"
+  },
+  "cmnd_cccd": "092300004945",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166e6490bda9625d4257f3c"
+      },
+      "xa_phuong": "Phường Phước Thới",
+      "huyen_quan": "Quận Ô Môn",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0702758272",
+  "email": "leehuynhhgiaoo@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T13:59:37Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T13:59:37Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e67e43f8917a04cd520b"
+  },
+  "so_ho_so": "49",
+  "ho_ten": "Lê Đặng Ngọc Trâm",
+  "ngay_sinh": {
+    "$date": "2000-05-02T00:00:00Z"
+  },
+  "cmnd_cccd": "364041742",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166e67e0bda9625d4257f4a"
+      },
+      "xa_phuong": "Xã Đông Thạnh",
+      "huyen_quan": "Huyện Châu Thành",
+      "tinh_thanhpho": "Tỉnh Hậu Giang"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0396041699",
+  "email": "letram02052000@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T14:00:30Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T14:00:30Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e6e843f8917a04cd520f"
+  },
+  "so_ho_so": "50",
+  "ho_ten": "Lê Thị Mỹ Duyên",
+  "ngay_sinh": {
+    "$date": "2000-09-04T00:00:00Z"
+  },
+  "cmnd_cccd": "364041893",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166e6e80bda9625d4257f58"
+      },
+      "xa_phuong": "Xã Đông Thạnh",
+      "huyen_quan": "Huyện Châu Thành",
+      "tinh_thanhpho": "Tỉnh Hậu Giang"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0975629864",
+  "email": "lethimyduyen2020.ct@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T14:02:16Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T14:02:16Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e72743f8917a04cd5213"
+  },
+  "so_ho_so": "51",
+  "ho_ten": "Trần Hữu Tính",
+  "ngay_sinh": {
+    "$date": "2000-10-18T00:00:00Z"
+  },
+  "cmnd_cccd": "331877356",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166e7270bda9625d4257f66"
+      },
+      "xa_phuong": "Xã Xuân Hiệp",
+      "huyen_quan": "Huyện Trà Ôn",
+      "tinh_thanhpho": "Tỉnh Vĩnh Long"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Tiền Giang",
+  "dien_thoai": "0932632811",
+  "email": "tranhuutinhxh@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T14:03:19Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T14:03:19Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e7c943f8917a04cd5218"
+  },
+  "so_ho_so": "53",
+  "ho_ten": "Nguyễn Quốc Thái",
+  "ngay_sinh": {
+    "$date": "2000-08-31T00:00:00Z"
+  },
+  "cmnd_cccd": "092200008505",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166e7c90bda9625d4257f79"
+      },
+      "xa_phuong": "Phường An Cư",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0889004523",
+  "email": "tiin.nguyen123.nqt@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T14:06:01Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T14:06:01Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e81643f8917a04cd521c"
+  },
+  "so_ho_so": "54",
+  "ho_ten": "Lê Thị Huỳnh Giao",
+  "ngay_sinh": {
+    "$date": "1999-05-06T00:00:00Z"
+  },
+  "cmnd_cccd": "092199002731",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166e8160bda9625d4257f87"
+      },
+      "xa_phuong": "Xã Thới Xuân",
+      "huyen_quan": "Huyện Cờ Đỏ",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0399387622",
+  "email": "lehuynhgiao131@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T14:07:18Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T14:07:18Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e85d43f8917a04cd5220"
+  },
+  "so_ho_so": "55",
+  "ho_ten": "Hồ Nguyễn Vân Hạ",
+  "ngay_sinh": {
+    "$date": "1995-05-28T00:00:00Z"
+  },
+  "cmnd_cccd": "362477726",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166e85d0bda9625d4257f95"
+      },
+      "xa_phuong": "Phường Thới Bình",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0916444247",
+  "email": "honguyenvanha@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T14:08:29Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T14:08:29Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e89b43f8917a04cd5224"
+  },
+  "so_ho_so": "56",
+  "ho_ten": "Phạm Thị Trinh",
+  "ngay_sinh": {
+    "$date": "2000-08-26T00:00:00Z"
+  },
+  "cmnd_cccd": "381966324",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166e89b0bda9625d4257fa3"
+      },
+      "xa_phuong": "Phường Hưng Lợi",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Cà Mau",
+  "dien_thoai": "0949075529",
+  "email": "trinhtrinh2409t@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T14:09:31Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T14:09:31Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e8e843f8917a04cd5228"
+  },
+  "so_ho_so": "57",
+  "ho_ten": "Trần Lê Trung Hiếu",
+  "ngay_sinh": {
+    "$date": "1991-05-16T00:00:00Z"
+  },
+  "cmnd_cccd": "362292041",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166e8e80bda9625d4257fb1"
+      },
+      "xa_phuong": "Phường Hưng Lợi",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0932872397",
+  "email": "tlthieuc1500396@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T14:10:48Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T14:10:48Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e94943f8917a04cd522c"
+  },
+  "so_ho_so": "58",
+  "ho_ten": "Trần Nguyệt Hiếu",
+  "ngay_sinh": {
+    "$date": "1993-07-29T00:00:00Z"
+  },
+  "cmnd_cccd": "093193000206",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166e9490bda9625d4257fbf"
+      },
+      "xa_phuong": "Phường An Bình",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Hậu Giang",
+  "dien_thoai": "0349060466",
+  "email": "nguyethieu2907@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T14:12:25Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T14:12:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e9b243f8917a04cd5230"
+  },
+  "so_ho_so": "59",
+  "ho_ten": "Trương Thị Như Ngọc",
+  "ngay_sinh": {
+    "$date": "1999-06-06T00:00:00Z"
+  },
+  "cmnd_cccd": "366159785",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166e9b20bda9625d4257fcd"
+      },
+      "xa_phuong": "Xã Thạnh Trị",
+      "huyen_quan": "Huyện Thạnh Trị",
+      "tinh_thanhpho": "Tỉnh Sóc Trăng"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Sóc Trăng",
+  "dien_thoai": "0362604772",
+  "email": "daochua6699@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T14:14:10Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T14:14:10Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e9fa43f8917a04cd5234"
+  },
+  "so_ho_so": "60",
+  "ho_ten": "Trịnh Thùy Trang",
+  "ngay_sinh": {
+    "$date": "1999-05-08T00:00:00Z"
+  },
+  "cmnd_cccd": "366220180",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166e9fa0bda9625d4257fdb"
+      },
+      "xa_phuong": "Phường 6",
+      "huyen_quan": "Thành phố Sóc Trăng",
+      "tinh_thanhpho": "Tỉnh Sóc Trăng"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Sóc Trăng",
+  "dien_thoai": "0948260244",
+  "email": "trinht346@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T14:15:22Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T14:15:22Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ea3543f8917a04cd5238"
+  },
+  "so_ho_so": "61",
+  "ho_ten": "Trương Văn Toàn",
+  "ngay_sinh": {
+    "$date": "2000-01-15T00:00:00Z"
+  },
+  "cmnd_cccd": "352520545",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166ea350bda9625d4257fe9"
+      },
+      "xa_phuong": "Phường Long Thạnh",
+      "huyen_quan": "Thị xã Tân Châu",
+      "tinh_thanhpho": "Tỉnh An Giang"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh An Giang",
+  "dien_thoai": "0855509542",
+  "email": "laclacluc@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T14:16:21Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T14:16:21Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ea7543f8917a04cd523c"
+  },
+  "so_ho_so": "62",
+  "ho_ten": "Đoàn Minh Hiếu",
+  "ngay_sinh": {
+    "$date": "2000-10-03T00:00:00Z"
+  },
+  "cmnd_cccd": "342013198",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166ea750bda9625d4257ff7"
+      },
+      "xa_phuong": "Xã Phú Điền",
+      "huyen_quan": "Huyện Tháp Mười",
+      "tinh_thanhpho": "Tỉnh Đồng Tháp"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Đồng Tháp",
+  "dien_thoai": "0375515659",
+  "email": "doanhieu434@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T14:17:25Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T14:17:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166eabe43f8917a04cd5240"
+  },
+  "so_ho_so": "63",
+  "ho_ten": "Lê Thị Huỳnh Như",
+  "ngay_sinh": {
+    "$date": "1997-11-07T00:00:00Z"
+  },
+  "cmnd_cccd": "331827149",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166eabe0bda9625d4258005"
+      },
+      "xa_phuong": "Xã Hoà Lộc",
+      "huyen_quan": "Huyện Tam Bình",
+      "tinh_thanhpho": "Tỉnh Vĩnh Long"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Vĩnh Long",
+  "dien_thoai": "0799594041",
+  "email": "lethihuynhnhuvl2016@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T14:18:38Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T14:18:38Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ecee43f8917a04cd5244"
+  },
+  "so_ho_so": "64",
+  "ho_ten": "Nguyễn Thị Cẩm Nhung",
+  "ngay_sinh": {
+    "$date": "2000-07-08T00:00:00Z"
+  },
+  "cmnd_cccd": "092300003268",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166ecee0bda9625d4258013"
+      },
+      "xa_phuong": "Phường Tân Lộc",
+      "huyen_quan": "Quận Thốt Nốt",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0392149708",
+  "email": "nguyenthicamnhung872000@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T14:27:58Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T14:27:58Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ed2843f8917a04cd5248"
+  },
+  "so_ho_so": "65",
+  "ho_ten": "Quách Phương Nam",
+  "ngay_sinh": {
+    "$date": "2000-06-02T00:00:00Z"
+  },
+  "cmnd_cccd": "381915856",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166ed280bda9625d4258021"
+      },
+      "xa_phuong": "Phường 5",
+      "huyen_quan": "Thành phố Cà Mau",
+      "tinh_thanhpho": "Tỉnh Cà Mau"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Cà Mau",
+  "dien_thoai": "0848499849",
+  "email": "qpnam.26@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T14:28:56Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T14:28:56Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166edd543f8917a04cd524c"
+  },
+  "so_ho_so": "66",
+  "ho_ten": "Võ Thị Ngọc Thảo",
+  "ngay_sinh": {
+    "$date": "1997-11-21T00:00:00Z"
+  },
+  "cmnd_cccd": "312378476",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166edd50bda9625d425802f"
+      },
+      "xa_phuong": "Xã Tân Bình Thạnh",
+      "huyen_quan": "Huyện Chợ Gạo",
+      "tinh_thanhpho": "Tỉnh Tiền Giang"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Tiền Giang",
+  "dien_thoai": "0338856505",
+  "email": "vothao.211197@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T14:31:49Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T14:31:49Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ee4843f8917a04cd5250"
+  },
+  "so_ho_so": "67",
+  "ho_ten": "Nguyễn Ngọc Trân",
+  "ngay_sinh": {
+    "$date": "2000-09-04T00:00:00Z"
+  },
+  "cmnd_cccd": "366329129",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166ee480bda9625d425803d"
+      },
+      "xa_phuong": "Xã Thạnh Phú",
+      "huyen_quan": "Huyện Mỹ Xuyên",
+      "tinh_thanhpho": "Tỉnh Sóc Trăng"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Sóc Trăng",
+  "dien_thoai": "0396188093",
+  "email": "ngoctran345867@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T14:33:44Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T14:33:44Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ef4743f8917a04cd5254"
+  },
+  "so_ho_so": "68",
+  "ho_ten": "Nguyễn Hải Đăng",
+  "ngay_sinh": {
+    "$date": "2000-05-24T00:00:00Z"
+  },
+  "cmnd_cccd": "092200004991",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166ef470bda9625d425804b"
+      },
+      "xa_phuong": "Xã Tân Thành",
+      "huyen_quan": "Huyện Lai Vung",
+      "tinh_thanhpho": "Tỉnh Đồng Tháp"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0345275620",
+  "email": "haidangnguyen01012000@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T14:37:59Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T14:37:59Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166efbb43f8917a04cd5258"
+  },
+  "so_ho_so": "69",
+  "ho_ten": "Lê Đặng Kiều Diễm",
+  "ngay_sinh": {
+    "$date": "2000-08-31T00:00:00Z"
+  },
+  "cmnd_cccd": "092300001635",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166efbb0bda9625d4258059"
+      },
+      "xa_phuong": "Phường Cái Khế",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0907161742",
+  "email": "ledangkieudiem@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T14:39:55Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T14:39:55Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f07643f8917a04cd525c"
+  },
+  "so_ho_so": "70",
+  "ho_ten": "Dương Hoàng Việt",
+  "ngay_sinh": {
+    "$date": "2000-12-06T00:00:00Z"
+  },
+  "cmnd_cccd": "352553744",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166f0760bda9625d4258067"
+      },
+      "xa_phuong": "Thị trấn An Phú",
+      "huyen_quan": "Huyện An Phú",
+      "tinh_thanhpho": "Tỉnh An Giang"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh An Giang",
+  "dien_thoai": "0961902191 ",
+  "email": "duongkiet357@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T14:43:02Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T14:43:02Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f0b343f8917a04cd5260"
+  },
+  "so_ho_so": "71",
+  "ho_ten": "Nguyễn Hồng Thúy",
+  "ngay_sinh": {
+    "$date": "2000-12-21T00:00:00Z"
+  },
+  "cmnd_cccd": "366255793",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166f0b40bda9625d4258075"
+      },
+      "xa_phuong": "Thị trấn Phú Lộc",
+      "huyen_quan": "Huyện Thạnh Trị",
+      "tinh_thanhpho": "Tỉnh Sóc Trăng"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Bạc Liêu",
+  "dien_thoai": "0939590192",
+  "email": "hongthuybjs@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T14:44:03Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T14:44:03Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f0e943f8917a04cd5264"
+  },
+  "so_ho_so": "72",
+  "ho_ten": "Trần Thị Phương Thảo",
+  "ngay_sinh": {
+    "$date": "2000-08-01T00:00:00Z"
+  },
+  "cmnd_cccd": "366231890",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166f0e90bda9625d4258083"
+      },
+      "xa_phuong": "Xã Vĩnh Quới",
+      "huyen_quan": "Thị xã Ngã Năm",
+      "tinh_thanhpho": "Tỉnh Sóc Trăng"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Sóc Trăng",
+  "dien_thoai": "0794521261",
+  "email": "tpt085@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T14:44:57Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T14:44:57Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f1a243f8917a04cd5268"
+  },
+  "so_ho_so": "73",
+  "ho_ten": "Trần Thị Cẩm Tú",
+  "ngay_sinh": {
+    "$date": "2000-12-05T00:00:00Z"
+  },
+  "cmnd_cccd": "092300001764",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166f1a20bda9625d4258091"
+      },
+      "xa_phuong": "Phường Trung Nhứt",
+      "huyen_quan": "Quận Thốt Nốt",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0706784880",
+  "email": "tranthicamtu4611@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T14:48:02Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T14:48:02Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f1da43f8917a04cd526c"
+  },
+  "so_ho_so": "74",
+  "ho_ten": "Huỳnh Nguyễn Tuấn Anh",
+  "ngay_sinh": {
+    "$date": "2000-07-08T00:00:00Z"
+  },
+  "cmnd_cccd": "341955517",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166f1da0bda9625d425809f"
+      },
+      "xa_phuong": "Xã Định Hòa",
+      "huyen_quan": "Huyện Lai Vung",
+      "tinh_thanhpho": "Tỉnh Đồng Tháp"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Đồng Tháp",
+  "dien_thoai": "0765975966",
+  "email": "huynhnguyentuananh080720@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T14:48:58Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T14:48:58Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f20f43f8917a04cd5270"
+  },
+  "so_ho_so": "75",
+  "ho_ten": "Nguyễn Thị Thu Trang",
+  "ngay_sinh": {
+    "$date": "1999-10-31T00:00:00Z"
+  },
+  "cmnd_cccd": "092199003071",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166f20f0bda9625d42580ad"
+      },
+      "xa_phuong": "Phường Bình Thủy",
+      "huyen_quan": "Quận Bình Thuỷ",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0888744759",
+  "email": "minhquang05102000@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T14:49:51Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T14:49:51Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f27d43f8917a04cd5275"
+  },
+  "so_ho_so": "77",
+  "ho_ten": "Phạm Tấn Đạt",
+  "ngay_sinh": {
+    "$date": "1999-06-08T00:00:00Z"
+  },
+  "cmnd_cccd": "366271188",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166f27d0bda9625d42580c0"
+      },
+      "xa_phuong": "Phường 1",
+      "huyen_quan": "Thị xã Vĩnh Châu",
+      "tinh_thanhpho": "Tỉnh Sóc Trăng"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Sóc Trăng",
+  "dien_thoai": "0918894521",
+  "email": "ptdat60@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T14:51:41Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T14:51:41Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f2f843f8917a04cd5279"
+  },
+  "so_ho_so": "78",
+  "ho_ten": "Nguyễn Tường Vy",
+  "ngay_sinh": {
+    "$date": "1999-08-01T00:00:00Z"
+  },
+  "cmnd_cccd": "366161889",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166f2f80bda9625d42580ce"
+      },
+      "xa_phuong": "Xã Nhơn Mỹ",
+      "huyen_quan": "Huyện Kế Sách",
+      "tinh_thanhpho": "Tỉnh Sóc Trăng"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Sóc Trăng",
+  "dien_thoai": "0397115136",
+  "email": "nguyentuongvy220@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T14:53:44Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T14:53:44Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f33443f8917a04cd527d"
+  },
+  "so_ho_so": "79",
+  "ho_ten": "Phạm Ngọc Hân",
+  "ngay_sinh": {
+    "$date": "2000-02-03T00:00:00Z"
+  },
+  "cmnd_cccd": "092300005803",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166f3340bda9625d42580dc"
+      },
+      "xa_phuong": "Phường Bùi Hữu Nghĩa",
+      "huyen_quan": "Quận Bình Thuỷ",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0932937069",
+  "email": "hanpham03022000@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T14:54:44Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T14:54:44Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f38043f8917a04cd5281"
+  },
+  "so_ho_so": "80",
+  "ho_ten": "Phạm Thị Thu Hiền",
+  "ngay_sinh": {
+    "$date": "1998-07-26T00:00:00Z"
+  },
+  "cmnd_cccd": "385783455",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166f3800bda9625d42580ea"
+      },
+      "xa_phuong": "Phường Hưng Lợi",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Bạc Liêu",
+  "dien_thoai": "0842579025",
+  "email": "thuhien1998@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T14:56:00Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T14:56:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f3c143f8917a04cd5285"
+  },
+  "so_ho_so": "81",
+  "ho_ten": "Nguyễn Trần Thúy Vy",
+  "ngay_sinh": {
+    "$date": "1998-04-16T00:00:00Z"
+  },
+  "cmnd_cccd": "362491479",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166f3c10bda9625d42580f8"
+      },
+      "xa_phuong": "Phường Long Hòa",
+      "huyen_quan": "Quận Bình Thuỷ",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0939127598",
+  "email": "cashlynnguyentran@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T14:57:05Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T14:57:05Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f3fb43f8917a04cd5289"
+  },
+  "so_ho_so": "82",
+  "ho_ten": "Lê Thị Ngọc Huyền",
+  "ngay_sinh": {
+    "$date": "2000-01-31T00:00:00Z"
+  },
+  "cmnd_cccd": "092300006706",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166f3fb0bda9625d4258106"
+      },
+      "xa_phuong": "Phường An Lạc",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0907339709",
+  "email": "lethingochien7846@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T14:58:03Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T14:58:03Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f43843f8917a04cd528d"
+  },
+  "so_ho_so": "83",
+  "ho_ten": "Lê Nguyễn Bảo Ngọc",
+  "ngay_sinh": {
+    "$date": "2000-05-01T00:00:00Z"
+  },
+  "cmnd_cccd": "092300002840",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166f4380bda9625d4258114"
+      },
+      "xa_phuong": "Phường An Hòa",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0969194105",
+  "email": "lenguyenbaongoc115@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T14:59:04Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T14:59:04Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f47743f8917a04cd5291"
+  },
+  "so_ho_so": "84",
+  "ho_ten": "Huỳnh Trọng Nghĩa",
+  "ngay_sinh": {
+    "$date": "1998-11-20T00:00:00Z"
+  },
+  "cmnd_cccd": "362518174",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166f4770bda9625d4258122"
+      },
+      "xa_phuong": "Xã Thới Hưng",
+      "huyen_quan": "Huyện Cờ Đỏ",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0766887186",
+  "email": "trongnghia19982021@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:00:07Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:00:07Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f4c543f8917a04cd5295"
+  },
+  "so_ho_so": "85",
+  "ho_ten": "Đinh Thị Tú Quyên",
+  "ngay_sinh": {
+    "$date": "1999-04-18T00:00:00Z"
+  },
+  "cmnd_cccd": "366159913",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166f4c50bda9625d4258130"
+      },
+      "xa_phuong": "Xã Lâm Tân",
+      "huyen_quan": "Huyện Thạnh Trị",
+      "tinh_thanhpho": "Tỉnh Sóc Trăng"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Sóc Trăng",
+  "dien_thoai": "0788751532",
+  "email": "tuquyen.18041999@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:01:25Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:01:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f4ff43f8917a04cd5299"
+  },
+  "so_ho_so": "86",
+  "ho_ten": "Nguyễn Ngọc Kỳ Duyên",
+  "ngay_sinh": {
+    "$date": "2000-02-15T00:00:00Z"
+  },
+  "cmnd_cccd": "094300004099",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166f4ff0bda9625d425813e"
+      },
+      "xa_phuong": "Phường 9",
+      "huyen_quan": "Thành phố Sóc Trăng",
+      "tinh_thanhpho": "Tỉnh Sóc Trăng"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0911342424",
+  "email": "nguyenngockyduyen12a8tpst@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:02:23Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:02:23Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f56943f8917a04cd529d"
+  },
+  "so_ho_so": "87",
+  "ho_ten": "Trịnh Văn Phải",
+  "ngay_sinh": {
+    "$date": "1999-04-20T00:00:00Z"
+  },
+  "cmnd_cccd": "301754133",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166f5690bda9625d425814c"
+      },
+      "xa_phuong": "Xã Khánh Hưng",
+      "huyen_quan": "Huyện Vĩnh Hưng",
+      "tinh_thanhpho": "Tỉnh Long An"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Long An",
+  "dien_thoai": "0376063373",
+  "email": "trinhphai2004@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:04:09Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:04:09Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f82b43f8917a04cd52a1"
+  },
+  "so_ho_so": "88",
+  "ho_ten": "Nguyễn Hồng Trúc",
+  "ngay_sinh": {
+    "$date": "1997-07-14T00:00:00Z"
+  },
+  "cmnd_cccd": "092197002381",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166f82b0bda9625d425815a"
+      },
+      "xa_phuong": "Xã Nhơn Nghĩa",
+      "huyen_quan": "Huyện Phong Điền",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0949308507",
+  "email": "htrucc.xd@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:15:55Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:15:55Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f89043f8917a04cd52a5"
+  },
+  "so_ho_so": "89",
+  "ho_ten": "Lữ Tuyết Kha",
+  "ngay_sinh": {
+    "$date": "1995-08-10T00:00:00Z"
+  },
+  "cmnd_cccd": "381745554",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166f8900bda9625d4258168"
+      },
+      "xa_phuong": "Phường An Khánh",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Cà Mau",
+  "dien_thoai": "0943739109",
+  "email": "lutuyetkha@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:17:36Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:17:36Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f8eb43f8917a04cd52a9"
+  },
+  "so_ho_so": "90",
+  "ho_ten": "Nguyễn Hồng Phúc Hậu",
+  "ngay_sinh": {
+    "$date": "2000-01-27T00:00:00Z"
+  },
+  "cmnd_cccd": "334920736",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166f8eb0bda9625d4258176"
+      },
+      "xa_phuong": "Xã An Phú Tân",
+      "huyen_quan": "Huyện Cầu Kè",
+      "tinh_thanhpho": "Tỉnh Trà Vinh"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Trà Vinh",
+  "dien_thoai": "0986732024",
+  "email": "nguyenhongphucnha@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:19:07Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:19:07Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f93743f8917a04cd52ad"
+  },
+  "so_ho_so": "91",
+  "ho_ten": "Nguyễn Tường Duy",
+  "ngay_sinh": {
+    "$date": "2000-02-28T00:00:00Z"
+  },
+  "cmnd_cccd": "342033996",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166f9370bda9625d4258184"
+      },
+      "xa_phuong": "Xã Tân Mỹ",
+      "huyen_quan": "Huyện Lấp Vò",
+      "tinh_thanhpho": "Tỉnh Đồng Tháp"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Đồng Tháp",
+  "dien_thoai": "0775802396",
+  "email": "ng.duy003@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:20:23Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:20:23Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f98743f8917a04cd52b1"
+  },
+  "so_ho_so": "92",
+  "ho_ten": "Đặng Ngọc Cúc",
+  "ngay_sinh": {
+    "$date": "2000-04-06T00:00:00Z"
+  },
+  "cmnd_cccd": "093300000454",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166f9870bda9625d4258192"
+      },
+      "xa_phuong": "Xã Tân Hoà",
+      "huyen_quan": "Huyện Châu Thành A",
+      "tinh_thanhpho": "Tỉnh Hậu Giang"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0775857609",
+  "email": "ngoccuc642@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:21:43Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:21:43Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f9c443f8917a04cd52b5"
+  },
+  "so_ho_so": "93",
+  "ho_ten": "Nguyễn Yến Hiền Thảo",
+  "ngay_sinh": {
+    "$date": "2000-04-18T00:00:00Z"
+  },
+  "cmnd_cccd": "082300000576",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166f9c40bda9625d42581a0"
+      },
+      "xa_phuong": "Phường Hưng Lợi",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Tiền Giang",
+  "dien_thoai": "0964883771",
+  "email": "hienthaonguyen1804@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:22:44Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:22:44Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f9fd43f8917a04cd52b9"
+  },
+  "so_ho_so": "94",
+  "ho_ten": "Nguyễn Trà Mi",
+  "ngay_sinh": {
+    "$date": "1999-09-30T00:00:00Z"
+  },
+  "cmnd_cccd": "363953718",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166f9fd0bda9625d42581ae"
+      },
+      "xa_phuong": "Xã Hòa Mỹ",
+      "huyen_quan": "Huyện Phụng Hiệp",
+      "tinh_thanhpho": "Tỉnh Hậu Giang"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0979904037",
+  "email": "minguyen210342@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:23:41Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:23:41Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fa3643f8917a04cd52bd"
+  },
+  "so_ho_so": "95",
+  "ho_ten": "Ngô Thanh Trọng",
+  "ngay_sinh": {
+    "$date": "1998-08-19T00:00:00Z"
+  },
+  "cmnd_cccd": "092098001083",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166fa360bda9625d42581bc"
+      },
+      "xa_phuong": "Phường An Bình",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0869313492",
+  "email": "ngotrong19081998@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:24:38Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:24:38Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fa7f43f8917a04cd52c1"
+  },
+  "so_ho_so": "96",
+  "ho_ten": "Huỳnh Thị Trúc Ly",
+  "ngay_sinh": {
+    "$date": "2000-05-03T00:00:00Z"
+  },
+  "cmnd_cccd": "352486576",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166fa7f0bda9625d42581ca"
+      },
+      "xa_phuong": "Xã Nhơn Hưng",
+      "huyen_quan": "Huyện Tịnh Biên",
+      "tinh_thanhpho": "Tỉnh An Giang"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh An Giang",
+  "dien_thoai": "0327051812",
+  "email": "huynhlyrp999@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:25:51Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:25:51Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166face43f8917a04cd52c5"
+  },
+  "so_ho_so": "97",
+  "ho_ten": "Nguyễn Thị Huyền Linh",
+  "ngay_sinh": {
+    "$date": "2000-08-11T00:00:00Z"
+  },
+  "cmnd_cccd": "093300000956",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166face0bda9625d42581d8"
+      },
+      "xa_phuong": "Xã Đông Phước A",
+      "huyen_quan": "Huyện Châu Thành",
+      "tinh_thanhpho": "Tỉnh Hậu Giang"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Hậu Giang",
+  "dien_thoai": "0985141034",
+  "email": "linhlin11820@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:27:10Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:27:10Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fb3343f8917a04cd52c9"
+  },
+  "so_ho_so": "98",
+  "ho_ten": "Nguyễn Văn Bằng",
+  "ngay_sinh": {
+    "$date": "1991-08-09T00:00:00Z"
+  },
+  "cmnd_cccd": "083091000865",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166fb330bda9625d42581e6"
+      },
+      "xa_phuong": "Thị trấn Giồng Trôm",
+      "huyen_quan": "Huyện Giồng Trôm",
+      "tinh_thanhpho": "Tỉnh Bến Tre"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Bến Tre",
+  "dien_thoai": "0365770625",
+  "email": "bangvannguyen09081991@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:28:51Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:28:51Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fb6c43f8917a04cd52cd"
+  },
+  "so_ho_so": "99",
+  "ho_ten": "Đào Ngọc Mộng Cầm",
+  "ngay_sinh": {
+    "$date": "2000-08-11T00:00:00Z"
+  },
+  "cmnd_cccd": "352518084",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166fb6c0bda9625d42581f4"
+      },
+      "xa_phuong": "Phường An Khánh",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh An Giang",
+  "dien_thoai": "0774761936",
+  "email": "mongcam1108@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:29:48Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:29:48Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fbc343f8917a04cd52d1"
+  },
+  "so_ho_so": "100",
+  "ho_ten": "Trần Thị Mai Trinh",
+  "ngay_sinh": {
+    "$date": "2000-01-21T00:00:00Z"
+  },
+  "cmnd_cccd": "352523778",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166fbc30bda9625d4258202"
+      },
+      "xa_phuong": "Phường Hưng Lợi",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh An Giang",
+  "dien_thoai": "0912025624",
+  "email": "tranthimaitrinh5624@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:31:15Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:31:15Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fc0243f8917a04cd52d5"
+  },
+  "so_ho_so": "101",
+  "ho_ten": "Nguyễn Thành Đức",
+  "ngay_sinh": {
+    "$date": "1998-03-03T00:00:00Z"
+  },
+  "cmnd_cccd": "362499719",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166fc020bda9625d4258210"
+      },
+      "xa_phuong": "Phường An Phú",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0778178959",
+  "email": "thanhduc12bp@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:32:18Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:32:18Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fc4643f8917a04cd52d9"
+  },
+  "so_ho_so": "102",
+  "ho_ten": "Trần Đỗ Vương Phi",
+  "ngay_sinh": {
+    "$date": "2000-08-04T00:00:00Z"
+  },
+  "cmnd_cccd": "366280664",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166fc460bda9625d425821e"
+      },
+      "xa_phuong": "Xã Thuận Hòa",
+      "huyen_quan": "Huyện Châu Thành",
+      "tinh_thanhpho": "Tỉnh Sóc Trăng"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Sóc Trăng",
+  "dien_thoai": "0356934268",
+  "email": "vuongphi0408@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:33:26Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:33:26Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fc8943f8917a04cd52dd"
+  },
+  "so_ho_so": "103",
+  "ho_ten": "Nguyễn Minh Việt",
+  "ngay_sinh": {
+    "$date": "2000-01-17T00:00:00Z"
+  },
+  "cmnd_cccd": "364064949",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166fc890bda9625d425822c"
+      },
+      "xa_phuong": "Xã Trường Long Tây",
+      "huyen_quan": "Huyện Châu Thành A",
+      "tinh_thanhpho": "Tỉnh Hậu Giang"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Hậu Giang",
+  "dien_thoai": "0704724828",
+  "email": "minhviet1701@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:34:33Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:34:33Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fcdd43f8917a04cd52e1"
+  },
+  "so_ho_so": "104",
+  "ho_ten": "Trần Nguyễn Kim Châu",
+  "ngay_sinh": {
+    "$date": "2000-05-25T00:00:00Z"
+  },
+  "cmnd_cccd": "371880043",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166fcdd0bda9625d425823a"
+      },
+      "xa_phuong": "Xã Cửa Dương",
+      "huyen_quan": "Huyện Phú Quốc",
+      "tinh_thanhpho": "Tỉnh Kiên Giang"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Kiên Giang",
+  "dien_thoai": "0392001323",
+  "email": "trannguyenkimchautmp@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:35:57Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:35:57Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fd1943f8917a04cd52e5"
+  },
+  "so_ho_so": "105",
+  "ho_ten": "Dương Thanh Thảo",
+  "ngay_sinh": {
+    "$date": "2000-07-24T00:00:00Z"
+  },
+  "cmnd_cccd": "352502121",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166fd190bda9625d4258248"
+      },
+      "xa_phuong": "Phường An Khánh",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh An Giang",
+  "dien_thoai": "0765655692",
+  "email": "thanhthao5692@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:36:57Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:36:57Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fd4f43f8917a04cd52e9"
+  },
+  "so_ho_so": "106",
+  "ho_ten": "Dương Ngọc Anh Thy",
+  "ngay_sinh": {
+    "$date": "1997-02-16T00:00:00Z"
+  },
+  "cmnd_cccd": "331774022",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166fd4f0bda9625d4258256"
+      },
+      "xa_phuong": "Phường Hưng Lợi",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Vĩnh Long",
+  "dien_thoai": "0965727340",
+  "email": "thyminh21062917@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:37:51Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:37:51Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fd9243f8917a04cd52ed"
+  },
+  "so_ho_so": "107",
+  "ho_ten": "Đặng Duy Tân",
+  "ngay_sinh": {
+    "$date": "2000-04-08T00:00:00Z"
+  },
+  "cmnd_cccd": "321772959",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166fd920bda9625d4258264"
+      },
+      "xa_phuong": "Phường Hưng Lợi",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Bến Tre",
+  "dien_thoai": "0788877159",
+  "email": "duytan842000@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:38:58Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:38:58Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fdce43f8917a04cd52f1"
+  },
+  "so_ho_so": "108",
+  "ho_ten": "Phạm Huỳnh Cẩm Anh",
+  "ngay_sinh": {
+    "$date": "2000-06-20T00:00:00Z"
+  },
+  "cmnd_cccd": "352543060",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166fdce0bda9625d4258272"
+      },
+      "xa_phuong": "Phường Bình Thủy",
+      "huyen_quan": "Quận Bình Thuỷ",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh An Giang",
+  "dien_thoai": "0386664167",
+  "email": "phcamanh206@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:39:58Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:39:58Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fe0443f8917a04cd52f5"
+  },
+  "so_ho_so": "109",
+  "ho_ten": "Chế Thị Thúy Huỳnh",
+  "ngay_sinh": {
+    "$date": "1999-04-24T00:00:00Z"
+  },
+  "cmnd_cccd": "352491758",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166fe040bda9625d4258280"
+      },
+      "xa_phuong": "Phường Hưng Lợi",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh An Giang",
+  "dien_thoai": "0907392537",
+  "email": "huynh.che24@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:40:52Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:40:52Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fe3a43f8917a04cd52f9"
+  },
+  "so_ho_so": "110",
+  "ho_ten": "Nguyễn Thị Trúc Mai",
+  "ngay_sinh": {
+    "$date": "2000-08-30T00:00:00Z"
+  },
+  "cmnd_cccd": "092300004177",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166fe3a0bda9625d425828e"
+      },
+      "xa_phuong": "Xã Tân Thới",
+      "huyen_quan": "Huyện Phong Điền",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0522644161",
+  "email": "trucmai12c1gx@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:41:46Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:41:46Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fe7d43f8917a04cd52fd"
+  },
+  "so_ho_so": "111",
+  "ho_ten": "Trương Nhật Ý",
+  "ngay_sinh": {
+    "$date": "2000-06-09T00:00:00Z"
+  },
+  "cmnd_cccd": "366263035",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166fe7d0bda9625d425829c"
+      },
+      "xa_phuong": "Thị trấn Trần Đề",
+      "huyen_quan": "Huyện Trần Đề",
+      "tinh_thanhpho": "Tỉnh Sóc Trăng"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Sóc Trăng",
+  "dien_thoai": "0898048223",
+  "email": "nhatytruong0906@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:42:53Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:42:53Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166feb943f8917a04cd5301"
+  },
+  "so_ho_so": "112",
+  "ho_ten": "Thái Hoàng Yến Vy",
+  "ngay_sinh": {
+    "$date": "2000-06-11T00:00:00Z"
+  },
+  "cmnd_cccd": "366283551",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166feb90bda9625d42582aa"
+      },
+      "xa_phuong": "Thị trấn Trần Đề",
+      "huyen_quan": "Huyện Trần Đề",
+      "tinh_thanhpho": "Tỉnh Sóc Trăng"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Sóc Trăng",
+  "dien_thoai": "0932402214",
+  "email": "thaihoangyenvy@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:43:53Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:43:53Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ff1e43f8917a04cd5305"
+  },
+  "so_ho_so": "113",
+  "ho_ten": "Trương Minh Khải",
+  "ngay_sinh": {
+    "$date": "2000-10-01T00:00:00Z"
+  },
+  "cmnd_cccd": "352634591",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166ff1e0bda9625d42582b8"
+      },
+      "xa_phuong": "Phường Hưng Lợi",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "KinhTiếng Anh",
+  "noi_sinh": "Tỉnh An Giang",
+  "dien_thoai": "0907717214",
+  "email": "tmkhai20@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:45:34Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:45:34Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ff5543f8917a04cd5309"
+  },
+  "so_ho_so": "114",
+  "ho_ten": "Nguyễn Thị Thanh Mai",
+  "ngay_sinh": {
+    "$date": "2000-11-02T00:00:00Z"
+  },
+  "cmnd_cccd": "331883432",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166ff550bda9625d42582c6"
+      },
+      "xa_phuong": "Xã Chánh An",
+      "huyen_quan": "Huyện Mang Thít",
+      "tinh_thanhpho": "Tỉnh Vĩnh Long"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Vĩnh Long",
+  "dien_thoai": "0971517490",
+  "email": "mainguyen2112000@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:46:29Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:46:29Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ff8d43f8917a04cd530d"
+  },
+  "so_ho_so": "115",
+  "ho_ten": "Đặng Mỹ Hoàng",
+  "ngay_sinh": {
+    "$date": "2000-06-19T00:00:00Z"
+  },
+  "cmnd_cccd": "331902385",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166ff8d0bda9625d42582d4"
+      },
+      "xa_phuong": "Xã Tân Mỹ",
+      "huyen_quan": "Huyện Trà Ôn",
+      "tinh_thanhpho": "Tỉnh Vĩnh Long"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Vĩnh Long",
+  "dien_thoai": "0902708836",
+  "email": "hoangdag1906@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:47:25Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:47:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ffc443f8917a04cd5311"
+  },
+  "so_ho_so": "116",
+  "ho_ten": "Nguyễn Phương Trinh",
+  "ngay_sinh": {
+    "$date": "2000-06-13T00:00:00Z"
+  },
+  "cmnd_cccd": "366341615",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166ffc40bda9625d42582e2"
+      },
+      "xa_phuong": "Thị trấn An Lạc Thôn",
+      "huyen_quan": "Huyện Kế Sách",
+      "tinh_thanhpho": "Tỉnh Sóc Trăng"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Sóc Trăng",
+  "dien_thoai": "0702945092",
+  "email": "nguyenphuongtrinh7333@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:48:20Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:48:20Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fff743f8917a04cd5315"
+  },
+  "so_ho_so": "117",
+  "ho_ten": "Võ Nhất Long Hồ",
+  "ngay_sinh": {
+    "$date": "1996-10-24T00:00:00Z"
+  },
+  "cmnd_cccd": "371720863",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6166fff70bda9625d42582f0"
+      },
+      "xa_phuong": "Phường Vĩnh Lạc",
+      "huyen_quan": "Thành phố Rạch Giá",
+      "tinh_thanhpho": "Tỉnh Kiên Giang"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Kiên Giang",
+  "dien_thoai": "0949223422",
+  "email": "vnlho241996@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:49:11Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:49:11Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167002f43f8917a04cd5319"
+  },
+  "so_ho_so": "118",
+  "ho_ten": "Huỳnh Phạm Thảo Duy",
+  "ngay_sinh": {
+    "$date": "1999-09-16T00:00:00Z"
+  },
+  "cmnd_cccd": "371836533",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6167002f0bda9625d42582fe"
+      },
+      "xa_phuong": "Phường Hưng Lợi",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Kiên Giang",
+  "dien_thoai": "0853749618",
+  "email": "huynhphamthaovy2710@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:50:07Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:50:07Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167006943f8917a04cd531d"
+  },
+  "so_ho_so": "119",
+  "ho_ten": "Nguyễn Ngọc Thanh Tài",
+  "ngay_sinh": {
+    "$date": "1999-05-11T00:00:00Z"
+  },
+  "cmnd_cccd": "341934693",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616700690bda9625d425830c"
+      },
+      "xa_phuong": "Xã Tân Phú Đông",
+      "huyen_quan": "Thành phố Sa Đéc",
+      "tinh_thanhpho": "Tỉnh Đồng Tháp"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Đồng Tháp",
+  "dien_thoai": "0773679558",
+  "email": "nguyenngocthanhtai.tgdd@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:51:05Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:51:05Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616700a443f8917a04cd5321"
+  },
+  "so_ho_so": "120",
+  "ho_ten": "Tôn Nữ Minh Anh",
+  "ngay_sinh": {
+    "$date": "2000-05-27T00:00:00Z"
+  },
+  "cmnd_cccd": "092300006605",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616700a40bda9625d425831a"
+      },
+      "xa_phuong": "Phường Lê Bình",
+      "huyen_quan": "Quận Cái Răng",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0834876163",
+  "email": "manhtn2705@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:52:04Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:52:04Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616700e443f8917a04cd5325"
+  },
+  "so_ho_so": "121",
+  "ho_ten": "Ngô Thị Hoàng Yến",
+  "ngay_sinh": {
+    "$date": "1999-07-31T00:00:00Z"
+  },
+  "cmnd_cccd": "362531354",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616700e40bda9625d4258328"
+      },
+      "xa_phuong": "Phường Thường Thạnh",
+      "huyen_quan": "Quận Cái Răng",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0358407534",
+  "email": "hoangyenkuppo@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:53:08Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:53:08Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616701a143f8917a04cd5329"
+  },
+  "so_ho_so": "122",
+  "ho_ten": "Trần Phạm Gia Khang",
+  "ngay_sinh": {
+    "$date": "1999-02-21T00:00:00Z"
+  },
+  "cmnd_cccd": "92199001036",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616701a10bda9625d4258336"
+      },
+      "xa_phuong": "Phường Trung Kiên",
+      "huyen_quan": "Quận Thốt Nốt",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0914586822",
+  "email": "khan210299@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:56:17Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:56:17Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616701dd43f8917a04cd532d"
+  },
+  "so_ho_so": "123",
+  "ho_ten": "Lê Phúc Nguyên",
+  "ngay_sinh": {
+    "$date": "1998-04-03T00:00:00Z"
+  },
+  "cmnd_cccd": "362517711",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616701dd0bda9625d4258344"
+      },
+      "xa_phuong": "Phường Hưng Lợi",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0788951514",
+  "email": "lenguyenphuc12c4@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:57:17Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:57:17Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167021a43f8917a04cd5331"
+  },
+  "so_ho_so": "124",
+  "ho_ten": "Bùi Thị Mỹ Xuyên",
+  "ngay_sinh": {
+    "$date": "2000-10-07T00:00:00Z"
+  },
+  "cmnd_cccd": "092300002045",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6167021a0bda9625d4258352"
+      },
+      "xa_phuong": "Phường Phước Thới",
+      "huyen_quan": "Quận Ô Môn",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0397074543",
+  "email": "buithimyxuyen710@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:58:18Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:58:18Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167025043f8917a04cd5335"
+  },
+  "so_ho_so": "125",
+  "ho_ten": "Trần Kim Ngân",
+  "ngay_sinh": {
+    "$date": "1999-02-09T00:00:00Z"
+  },
+  "cmnd_cccd": "092199000080",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616702500bda9625d4258360"
+      },
+      "xa_phuong": "Xã Trường Xuân A",
+      "huyen_quan": "Huyện Thới Lai",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0786877998",
+  "email": "kimnganct0209@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T15:59:12Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T15:59:12Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167028943f8917a04cd5339"
+  },
+  "so_ho_so": "126",
+  "ho_ten": "Trần Hùng Vương",
+  "ngay_sinh": {
+    "$date": "2000-08-15T00:00:00Z"
+  },
+  "cmnd_cccd": "092200001312",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616702890bda9625d425836e"
+      },
+      "xa_phuong": "Phường Thuận Hưng",
+      "huyen_quan": "Quận Thốt Nốt",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0867174408",
+  "email": "thptthuanhung12b1.31@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:00:09Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:00:09Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616702bc43f8917a04cd533d"
+  },
+  "so_ho_so": "127",
+  "ho_ten": "Trương Vĩnh Hưng",
+  "ngay_sinh": {
+    "$date": "2000-05-22T00:00:00Z"
+  },
+  "cmnd_cccd": "366232554",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616702bc0bda9625d425837c"
+      },
+      "xa_phuong": "Xã An Lạc Tây",
+      "huyen_quan": "Huyện Kế Sách",
+      "tinh_thanhpho": "Tỉnh Sóc Trăng"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Sóc Trăng",
+  "dien_thoai": "0972874432",
+  "email": "thuyquynh18051996@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:01:00Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:01:00Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616702f743f8917a04cd5341"
+  },
+  "so_ho_so": "128",
+  "ho_ten": "Nguyễn Thị KIm Yến",
+  "ngay_sinh": {
+    "$date": {
+      "$numberLong": "-62104579200000"
+    }
+  },
+  "cmnd_cccd": "321734314",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616702f70bda9625d425838a"
+      },
+      "xa_phuong": "Phường Hưng Lợi",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Bến Tre",
+  "dien_thoai": "0384910332",
+  "email": "yennn0807@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:01:59Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:01:59Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167032b43f8917a04cd5345"
+  },
+  "so_ho_so": "129",
+  "ho_ten": "Trịnh Thị Thảo Vi",
+  "ngay_sinh": {
+    "$date": "2000-09-24T00:00:00Z"
+  },
+  "cmnd_cccd": "335021004",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6167032b0bda9625d4258398"
+      },
+      "xa_phuong": "Phường Hưng Lợi",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Trà Vinh",
+  "dien_thoai": "0896044246",
+  "email": "trinhvi249@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:02:51Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:02:51Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167036643f8917a04cd5349"
+  },
+  "so_ho_so": "130",
+  "ho_ten": "Trương Tú Quỳnh",
+  "ngay_sinh": {
+    "$date": "1997-12-01T00:00:00Z"
+  },
+  "cmnd_cccd": "381871380",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616703660bda9625d42583a6"
+      },
+      "xa_phuong": "Phường 6",
+      "huyen_quan": "Thành phố Cà Mau",
+      "tinh_thanhpho": "Tỉnh Cà Mau"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Cà Mau",
+  "dien_thoai": "0916670045",
+  "email": "quynhtruongtu045@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:03:50Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:03:50Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616703a043f8917a04cd534d"
+  },
+  "so_ho_so": "131",
+  "ho_ten": "Nguyễn Trịnh Châu Đoan",
+  "ngay_sinh": {
+    "$date": "1999-03-29T00:00:00Z"
+  },
+  "cmnd_cccd": "092199002900",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616703a00bda9625d42583b4"
+      },
+      "xa_phuong": "Phường Thường Thạnh",
+      "huyen_quan": "Quận Cái Răng",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0907769910",
+  "email": "nguyentrinhchaudoan2903@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:04:48Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:04:48Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616703df43f8917a04cd5351"
+  },
+  "so_ho_so": "132",
+  "ho_ten": "Nguyễn Thị Diễm Ngân",
+  "ngay_sinh": {
+    "$date": "1996-09-09T00:00:00Z"
+  },
+  "cmnd_cccd": "093196000104",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616703df0bda9625d42583c2"
+      },
+      "xa_phuong": "Xã Đông Phú",
+      "huyen_quan": "Huyện Châu Thành",
+      "tinh_thanhpho": "Tỉnh Hậu Giang"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Hậu Giang",
+  "dien_thoai": "0942864735",
+  "email": "nguyenthidiemngan735@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:05:51Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:05:51Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167041a43f8917a04cd5355"
+  },
+  "so_ho_so": "133",
+  "ho_ten": "Đoàn Ngọc Tố Trinh",
+  "ngay_sinh": {
+    "$date": "1998-01-12T00:00:00Z"
+  },
+  "cmnd_cccd": "362539276",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6167041a0bda9625d42583d0"
+      },
+      "xa_phuong": "Phường Long Hòa",
+      "huyen_quan": "Quận Bình Thuỷ",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0707546903",
+  "email": "cchau2976@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:06:50Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:06:50Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167045343f8917a04cd5359"
+  },
+  "so_ho_so": "134",
+  "ho_ten": "Quách Tấn Dũng",
+  "ngay_sinh": {
+    "$date": "1999-11-18T00:00:00Z"
+  },
+  "cmnd_cccd": "092099004259",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616704530bda9625d42583de"
+      },
+      "xa_phuong": "Phường Long Tuyền",
+      "huyen_quan": "Quận Bình Thuỷ",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0939950159",
+  "email": "dungquach1811@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:07:47Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:07:47Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167048143f8917a04cd535d"
+  },
+  "so_ho_so": "135",
+  "ho_ten": "Nguyễn Quốc Huy",
+  "ngay_sinh": {
+    "$date": "1999-05-04T00:00:00Z"
+  },
+  "cmnd_cccd": "092099000943",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616704810bda9625d42583ec"
+      },
+      "xa_phuong": "Phường Hưng Lợi",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0898304051",
+  "email": "quochuy76219@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:08:33Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:08:33Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616704b543f8917a04cd5361"
+  },
+  "so_ho_so": "136",
+  "ho_ten": "Trần Hoàng Kha",
+  "ngay_sinh": {
+    "$date": "2000-09-29T00:00:00Z"
+  },
+  "cmnd_cccd": "385826927",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616704b50bda9625d42583fa"
+      },
+      "xa_phuong": "Phường An Thới",
+      "huyen_quan": "Quận Bình Thuỷ",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Bạc Liêu",
+  "dien_thoai": "0836077997",
+  "email": "tkha290900@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:09:25Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:09:25Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616704e643f8917a04cd5365"
+  },
+  "so_ho_so": "137",
+  "ho_ten": "Lê Chí Khang",
+  "ngay_sinh": {
+    "$date": "2000-04-16T00:00:00Z"
+  },
+  "cmnd_cccd": "092200001687",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616704e60bda9625d4258408"
+      },
+      "xa_phuong": "Phường Thạnh Hoà",
+      "huyen_quan": "Quận Thốt Nốt",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0866027672",
+  "email": "lechikhang1604@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:10:14Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:10:14Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167051d43f8917a04cd5369"
+  },
+  "so_ho_so": "138",
+  "ho_ten": "Phạm Thảo Duy",
+  "ngay_sinh": {
+    "$date": "1997-05-10T00:00:00Z"
+  },
+  "cmnd_cccd": "381681799",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6167051d0bda9625d4258416"
+      },
+      "xa_phuong": "Xã Phong Điền",
+      "huyen_quan": "Huyện Trần Văn Thời",
+      "tinh_thanhpho": "Tỉnh Cà Mau"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Cà Mau",
+  "dien_thoai": "0816510317",
+  "email": "phamthaoduy1005@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:11:09Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:11:09Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167058343f8917a04cd536d"
+  },
+  "so_ho_so": "139",
+  "ho_ten": "Nguyễn Thị Kiều Mi",
+  "ngay_sinh": {
+    "$date": "2000-02-18T00:00:00Z"
+  },
+  "cmnd_cccd": "0949229852",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616705830bda9625d4258424"
+      },
+      "xa_phuong": "Phường 7",
+      "huyen_quan": "Thành phố Cà Mau",
+      "tinh_thanhpho": "Tỉnh Cà Mau"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Cà Mau",
+  "dien_thoai": "0949229852",
+  "email": "kami001944@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:12:51Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:12:51Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616705ea43f8917a04cd5371"
+  },
+  "so_ho_so": "140",
+  "ho_ten": "Nguyễn Tường Vi",
+  "ngay_sinh": {
+    "$date": "1998-02-23T00:00:00Z"
+  },
+  "cmnd_cccd": "092198001454",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616705ea0bda9625d4258432"
+      },
+      "xa_phuong": "Thị trấn Phong Điền",
+      "huyen_quan": "Huyện Phong Điền",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0398211462",
+  "email": "nguyentuongvi2302@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:14:34Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:14:34Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167062543f8917a04cd5375"
+  },
+  "so_ho_so": "141",
+  "ho_ten": "Nguyễn Ngọc Ngân",
+  "ngay_sinh": {
+    "$date": "1999-03-02T00:00:00Z"
+  },
+  "cmnd_cccd": "092199001053",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616706250bda9625d4258440"
+      },
+      "xa_phuong": "Phường An Cư",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0349103422",
+  "email": "nguyenngocnganvta16@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:15:33Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:15:33Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167066f43f8917a04cd5379"
+  },
+  "so_ho_so": "142",
+  "ho_ten": "Nguyễn Thị Cẩm Hằng",
+  "ngay_sinh": {
+    "$date": "2000-11-09T00:00:00Z"
+  },
+  "cmnd_cccd": "092300004378",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6167066f0bda9625d425844e"
+      },
+      "xa_phuong": "Phường Phú Thứ",
+      "huyen_quan": "Quận Cái Răng",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0782851002",
+  "email": "camhang6411764119@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:16:47Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:16:47Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616706b543f8917a04cd537d"
+  },
+  "so_ho_so": "143",
+  "ho_ten": "Hồ Châu Huỳnh Như",
+  "ngay_sinh": {
+    "$date": "2000-11-22T00:00:00Z"
+  },
+  "cmnd_cccd": "334989466",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616706b50bda9625d425845c"
+      },
+      "xa_phuong": "Xã Phong Phú",
+      "huyen_quan": "Huyện Cầu Kè",
+      "tinh_thanhpho": "Tỉnh Trà Vinh"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Trà Vinh",
+  "dien_thoai": "0869373937",
+  "email": "hnhu2211h@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:17:57Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:17:57Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616706f843f8917a04cd5381"
+  },
+  "so_ho_so": "144",
+  "ho_ten": "Nguyễn Võ Minh Trân",
+  "ngay_sinh": {
+    "$date": "2000-04-10T00:00:00Z"
+  },
+  "cmnd_cccd": "092300012162",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616706f80bda9625d425846a"
+      },
+      "xa_phuong": "Phường Hưng Lợi",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0836946897",
+  "email": "nguyenvominhtran@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:19:04Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:19:04Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167073243f8917a04cd5385"
+  },
+  "so_ho_so": "145",
+  "ho_ten": "Nguyễn Hoàng Sĩ Đan",
+  "ngay_sinh": {
+    "$date": "2000-07-12T00:00:00Z"
+  },
+  "cmnd_cccd": "092200000920",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616707320bda9625d4258478"
+      },
+      "xa_phuong": "Phường Tân Lộc",
+      "huyen_quan": "Quận Thốt Nốt",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0356577707",
+  "email": "nguyenhoangsidan@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:20:02Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:20:02Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167076f43f8917a04cd5389"
+  },
+  "so_ho_so": "146",
+  "ho_ten": "Lâm Bé Thùy",
+  "ngay_sinh": {
+    "$date": "1997-05-13T00:00:00Z"
+  },
+  "cmnd_cccd": "381901873",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6167076f0bda9625d4258486"
+      },
+      "xa_phuong": "Xã Khánh Hưng",
+      "huyen_quan": "Huyện Trần Văn Thời",
+      "tinh_thanhpho": "Tỉnh Cà Mau"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Cà Mau",
+  "dien_thoai": "0949398911",
+  "email": "thuylam323@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:21:03Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:21:03Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616707a143f8917a04cd538d"
+  },
+  "so_ho_so": "147",
+  "ho_ten": "Phùng Quốc Nghi",
+  "ngay_sinh": {
+    "$date": "1999-03-21T00:00:00Z"
+  },
+  "cmnd_cccd": "092099002765",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616707a10bda9625d4258494"
+      },
+      "xa_phuong": "Phường Hưng Phú",
+      "huyen_quan": "Quận Cái Răng",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0939650018",
+  "email": "nghiphung0@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:21:53Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:21:53Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616707e243f8917a04cd5391"
+  },
+  "so_ho_so": "148",
+  "ho_ten": "Lê Nguyễn Bảo Ngọc",
+  "ngay_sinh": {
+    "$date": "1999-10-05T00:00:00Z"
+  },
+  "cmnd_cccd": "366271419",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616707e20bda9625d42584a2"
+      },
+      "xa_phuong": "Phường 1",
+      "huyen_quan": "Thị xã Vĩnh Châu",
+      "tinh_thanhpho": "Tỉnh Sóc Trăng"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Sóc Trăng",
+  "dien_thoai": "0826037014",
+  "email": "lengocvc123@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:22:58Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:22:58Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167081f43f8917a04cd5395"
+  },
+  "so_ho_so": "149",
+  "ho_ten": "Nguyễn Thị Hồng Màng",
+  "ngay_sinh": {
+    "$date": "2000-02-15T00:00:00Z"
+  },
+  "cmnd_cccd": "381975037",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6167081f0bda9625d42584b0"
+      },
+      "xa_phuong": "Xã Trần Thới",
+      "huyen_quan": "Huyện Cái Nước",
+      "tinh_thanhpho": "Tỉnh Cà Mau"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Cà Mau",
+  "dien_thoai": "0945483474",
+  "email": "nguyenthimin2930@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:23:59Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:23:59Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167085b43f8917a04cd5399"
+  },
+  "so_ho_so": "150",
+  "ho_ten": "Mạch Nguyễn Hiếu Ngân",
+  "ngay_sinh": {
+    "$date": "2000-02-15T00:00:00Z"
+  },
+  "cmnd_cccd": "092300001333",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6167085b0bda9625d42584be"
+      },
+      "xa_phuong": "Phường Tân An",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Hậu Giang",
+  "dien_thoai": "0939140088",
+  "email": "hnganmach2200@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:24:59Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:24:59Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616708a843f8917a04cd539d"
+  },
+  "so_ho_so": "151",
+  "ho_ten": "Trương Ngọc Ngân",
+  "ngay_sinh": {
+    "$date": "2000-10-14T00:00:00Z"
+  },
+  "cmnd_cccd": "092300004646",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616708a80bda9625d42584cc"
+      },
+      "xa_phuong": "Phường Hưng Lợi",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0922161440",
+  "email": "ngantruong141000@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:26:16Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:26:16Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616708fe43f8917a04cd53a1"
+  },
+  "so_ho_so": "152",
+  "ho_ten": "Lê Bá Thành",
+  "ngay_sinh": {
+    "$date": "1992-12-26T00:00:00Z"
+  },
+  "cmnd_cccd": "092092003123",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616708fe0bda9625d42584da"
+      },
+      "xa_phuong": "Phường Hưng Lợi",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0906771145",
+  "email": "lethanh2612@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:27:42Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:27:42Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167095a43f8917a04cd53a5"
+  },
+  "so_ho_so": "153",
+  "ho_ten": "Phạm Quốc Khánh",
+  "ngay_sinh": {
+    "$date": "2000-11-20T00:00:00Z"
+  },
+  "cmnd_cccd": "092200001215",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6167095a0bda9625d42584e8"
+      },
+      "xa_phuong": "Phường Hưng Lợi",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0939288371",
+  "email": "quockhanh201100@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:29:14Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:29:14Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616709cb43f8917a04cd53a9"
+  },
+  "so_ho_so": "154",
+  "ho_ten": "Nguyễn Yến Nhi",
+  "ngay_sinh": {
+    "$date": "2000-11-18T00:00:00Z"
+  },
+  "cmnd_cccd": "086300000261",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616709cb0bda9625d42584f6"
+      },
+      "xa_phuong": "Thị trấn Trà Ôn",
+      "huyen_quan": "Huyện Trà Ôn",
+      "tinh_thanhpho": "Tỉnh Vĩnh Long"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Vĩnh Long",
+  "dien_thoai": "0778128464",
+  "email": "nguyenyennhi2000.vl@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:31:07Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:31:07Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670a0443f8917a04cd53ad"
+  },
+  "so_ho_so": "155",
+  "ho_ten": "Huỳnh Thị Yến Phương",
+  "ngay_sinh": {
+    "$date": "2000-03-29T00:00:00Z"
+  },
+  "cmnd_cccd": "366242970",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "61670a040bda9625d4258504"
+      },
+      "xa_phuong": "Xã Giai Xuân",
+      "huyen_quan": "Huyện Phong Điền",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0702846804",
+  "email": "huynhyenphuong2903@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:32:04Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:32:04Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670ae943f8917a04cd53b1"
+  },
+  "so_ho_so": "159",
+  "ho_ten": "Trương Chí Lập",
+  "ngay_sinh": {
+    "$date": "2000-07-09T00:00:00Z"
+  },
+  "cmnd_cccd": "385782152",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "61670ae90bda9625d4258512"
+      },
+      "xa_phuong": "Phường Thường Thạnh",
+      "huyen_quan": "Quận Cái Răng",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Bạc Liêu",
+  "dien_thoai": "0832939581",
+  "email": "truongchilap.2309@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:35:53Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:35:53Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670bb543f8917a04cd53b6"
+  },
+  "so_ho_so": "52",
+  "ho_ten": "Trần Xuân Hương",
+  "ngay_sinh": {
+    "$date": "1999-02-04T00:00:00Z"
+  },
+  "cmnd_cccd": "321714841",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "61670bb50bda9625d4258525"
+      },
+      "xa_phuong": "Phường Hưng Lợi",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Bến Tre",
+  "dien_thoai": "0329915803",
+  "email": "huongtranktql084@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:39:17Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:39:17Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670c7f43f8917a04cd53ba"
+  },
+  "so_ho_so": "156",
+  "ho_ten": "Nguyễn Thị Như Quỳnh",
+  "ngay_sinh": {
+    "$date": "2000-11-18T00:00:00Z"
+  },
+  "cmnd_cccd": "086300000786",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "61670c7f0bda9625d4258533"
+      },
+      "xa_phuong": "Xã Tân An Thạnh",
+      "huyen_quan": "Huyện Bình Tân",
+      "tinh_thanhpho": "Tỉnh Vĩnh Long"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Vĩnh Long",
+  "dien_thoai": "0939809299",
+  "email": "nguyenthinhuquynh6098@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:42:39Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:42:39Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670cdb43f8917a04cd53be"
+  },
+  "so_ho_so": "157",
+  "ho_ten": "Nguyễn Huỳnh Thuận",
+  "ngay_sinh": {
+    "$date": "2000-11-24T00:00:00Z"
+  },
+  "cmnd_cccd": "352526001",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "61670cdb0bda9625d4258541"
+      },
+      "xa_phuong": "Phường Xuân Khánh",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh An Giang",
+  "dien_thoai": "0987716342",
+  "email": "thuanlxag24@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:44:11Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:44:11Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670d1843f8917a04cd53c2"
+  },
+  "so_ho_so": "158",
+  "ho_ten": "Huỳnh Phương Tường Vy",
+  "ngay_sinh": {
+    "$date": "2000-09-26T00:00:00Z"
+  },
+  "cmnd_cccd": "092300006233",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "61670d180bda9625d425854f"
+      },
+      "xa_phuong": "Phường An Khánh",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0945489017",
+  "email": "hptuongvy2000@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:45:12Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:45:12Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670e2d43f8917a04cd53c6"
+  },
+  "so_ho_so": "76",
+  "ho_ten": "Nguyễn Hoàng Khang",
+  "ngay_sinh": {
+    "$date": "1999-08-16T00:00:00Z"
+  },
+  "cmnd_cccd": "366234681",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "61670e2d0bda9625d425855d"
+      },
+      "xa_phuong": "Phường Hưng Lợi",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Sóc Trăng",
+  "dien_thoai": "0706343446",
+  "email": "khangnguyen29916@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:49:49Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:49:49Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670f0143f8917a04cd53cc"
+  },
+  "so_ho_so": "161",
+  "ho_ten": "Phạm Quang Huân",
+  "ngay_sinh": {
+    "$date": "2000-11-22T00:00:00Z"
+  },
+  "cmnd_cccd": "092200006983",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "61670f010bda9625d4258577"
+      },
+      "xa_phuong": "Phường Phú Thứ",
+      "huyen_quan": "Quận Cái Răng",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0932914125",
+  "email": "phamquanghuan6@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:53:21Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:53:21Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670f3443f8917a04cd53d0"
+  },
+  "so_ho_so": "162",
+  "ho_ten": "Nguyễn Minh Trí",
+  "ngay_sinh": {
+    "$date": "2000-06-17T00:00:00Z"
+  },
+  "cmnd_cccd": "092200000821",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "61670f340bda9625d4258585"
+      },
+      "xa_phuong": "Phường An Hòa",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0949334370",
+  "email": "minhtri17062000@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:54:12Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:54:12Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670faa43f8917a04cd53d4"
+  },
+  "so_ho_so": "163",
+  "ho_ten": "Trần Thị Quỳnh Thương",
+  "ngay_sinh": {
+    "$date": "2000-01-08T00:00:00Z"
+  },
+  "cmnd_cccd": "371870610",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "61670faa0bda9625d4258593"
+      },
+      "xa_phuong": "Phường Hưng Lợi",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Kiên Giang",
+  "dien_thoai": "0946055308",
+  "email": "thuongtranhatien@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:56:10Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:56:10Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670ff843f8917a04cd53d8"
+  },
+  "so_ho_so": "164",
+  "ho_ten": "Huỳnh Ngọc Hoàng Quyên",
+  "ngay_sinh": {
+    "$date": "1993-09-11T00:00:00Z"
+  },
+  "cmnd_cccd": "362395894",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "61670ff80bda9625d42585a1"
+      },
+      "xa_phuong": "Phường Xuân Khánh",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0907395019",
+  "email": "hoangquyen195@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:57:28Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:57:28Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167103843f8917a04cd53dc"
+  },
+  "so_ho_so": "165",
+  "ho_ten": "Trần Minh Đường",
+  "ngay_sinh": {
+    "$date": "2000-10-07T00:00:00Z"
+  },
+  "cmnd_cccd": "366300237",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616710380bda9625d42585af"
+      },
+      "xa_phuong": "Phường Phú Thứ",
+      "huyen_quan": "Quận Cái Răng",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Sóc Trăng",
+  "dien_thoai": "0344436272",
+  "email": "tranminhduong@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:58:32Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:58:32Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167108343f8917a04cd53e0"
+  },
+  "so_ho_so": "166",
+  "ho_ten": "Trần Ngọc Cát Tường",
+  "ngay_sinh": {
+    "$date": "1999-12-08T00:00:00Z"
+  },
+  "cmnd_cccd": "092199000259",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616710830bda9625d42585bd"
+      },
+      "xa_phuong": "Phường Thới Long",
+      "huyen_quan": "Quận Ô Môn",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Cà Mau",
+  "dien_thoai": "0939381266",
+  "email": "trantuong.roll@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T16:59:47Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T16:59:47Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616710e043f8917a04cd53e4"
+  },
+  "so_ho_so": "167",
+  "ho_ten": "Vũ Thị Ngọc Mỹ",
+  "ngay_sinh": {
+    "$date": "2000-08-18T00:00:00Z"
+  },
+  "cmnd_cccd": "034300002446",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616710e00bda9625d42585cb"
+      },
+      "xa_phuong": "Xã Vĩnh Lộc B",
+      "huyen_quan": "Huyện Bình Chánh",
+      "tinh_thanhpho": "Thành phố Hồ Chí Minh"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Thái Bình",
+  "dien_thoai": "0386740362",
+  "email": "vuthingocmy@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T17:01:20Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T17:01:20Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167113143f8917a04cd53e8"
+  },
+  "so_ho_so": "168",
+  "ho_ten": "Lưu Nguyễn Ngọc Ánh",
+  "ngay_sinh": {
+    "$date": "2000-12-06T00:00:00Z"
+  },
+  "cmnd_cccd": "371933795",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616711310bda9625d42585d9"
+      },
+      "xa_phuong": "Xã Bình An",
+      "huyen_quan": "Huyện Kiên Lương",
+      "tinh_thanhpho": "Tỉnh Kiên Giang"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Kiên Giang",
+  "dien_thoai": "0838873478",
+  "email": "luunguyenngocanhtmp@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T17:02:41Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T17:02:41Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616713c036a4176baf36a686"
+  },
+  "so_ho_so": "160",
+  "ho_ten": "Mai Thị Ngọc Huyền",
+  "ngay_sinh": {
+    "$date": "2000-07-09T00:00:00Z"
+  },
+  "cmnd_cccd": "385782152",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616713c029feb627b8a9be67"
+      },
+      "xa_phuong": "Phường Thường Thạnh",
+      "huyen_quan": "Quận Cái Răng",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Bạc Liêu",
+  "dien_thoai": "0832939581",
+  "email": "maithingochuyen09072000@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-13T17:13:36Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-13T17:13:36Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61678f8c1c414fe1310cb05a"
+  },
+  "so_ho_so": "169",
+  "ho_ten": "Phan Thị Huỳnh Như",
+  "ngay_sinh": {
+    "$date": "1994-09-18T00:00:00Z"
+  },
+  "cmnd_cccd": "362390828",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "61678f8cb5c4db07501c1e12"
+      },
+      "xa_phuong": "Xã Tân Thới",
+      "huyen_quan": "Huyện Phong Điền",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0787406141",
+  "email": "nhuabrahamdarby@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-14T02:01:48Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-14T02:01:48Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61678fdb1c414fe1310cb05e"
+  },
+  "so_ho_so": "170",
+  "ho_ten": "Đinh Hoàng Thống",
+  "ngay_sinh": {
+    "$date": "1978-07-27T00:00:00Z"
+  },
+  "cmnd_cccd": "363691881",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "61678fdcb5c4db07501c1e1f"
+      },
+      "xa_phuong": "Xã Tân Phước Hưng",
+      "huyen_quan": "Huyện Phụng Hiệp",
+      "tinh_thanhpho": "Tỉnh Hậu Giang"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Hậu Giang",
+  "dien_thoai": "0969696544",
+  "email": "hoangthongxdct@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-14T02:03:07Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-14T02:03:07Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616790561c414fe1310cb062"
+  },
+  "so_ho_so": "171",
+  "ho_ten": "Trần Ngọc Cát Phượng",
+  "ngay_sinh": {
+    "$date": "1998-05-30T00:00:00Z"
+  },
+  "cmnd_cccd": "092198000059",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "61679056b5c4db07501c1e2c"
+      },
+      "xa_phuong": "Phường An Bình",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0796952367",
+  "email": "catphuong305@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-14T02:05:10Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-14T02:05:10Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167908b1c414fe1310cb066"
+  },
+  "so_ho_so": "172",
+  "ho_ten": "Bùi Thị Hạnh Duyên",
+  "ngay_sinh": {
+    "$date": "2000-04-02T00:00:00Z"
+  },
+  "cmnd_cccd": "092300000163",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6167908bb5c4db07501c1e39"
+      },
+      "xa_phuong": "Phường Thường Thạnh",
+      "huyen_quan": "Quận Cái Răng",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0776553091",
+  "email": "hanhduyen022000@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-14T02:06:03Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-14T02:06:03Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616790bb1c414fe1310cb06a"
+  },
+  "so_ho_so": "173",
+  "ho_ten": "Võ Hữu Nghĩa",
+  "ngay_sinh": {
+    "$date": "2000-05-27T00:00:00Z"
+  },
+  "cmnd_cccd": "381885858",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616790bbb5c4db07501c1e46"
+      },
+      "xa_phuong": "Xã Biển Bạch Đông",
+      "huyen_quan": "Huyện Thới Bình",
+      "tinh_thanhpho": "Tỉnh Cà Mau"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Cà Mau",
+  "dien_thoai": "0911239964",
+  "email": "vohuunghia357@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-14T02:06:51Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-14T02:06:51Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616796361c414fe1310cb06e"
+  },
+  "so_ho_so": "174",
+  "ho_ten": "Huỳnh Đức Huy",
+  "ngay_sinh": {
+    "$date": "2000-02-01T00:00:00Z"
+  },
+  "cmnd_cccd": "093200005978",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "61679636b5c4db07501c1e53"
+      },
+      "xa_phuong": "Xã Phương Bình",
+      "huyen_quan": "Huyện Phụng Hiệp",
+      "tinh_thanhpho": "Tỉnh Hậu Giang"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Hậu Giang",
+  "dien_thoai": "0888378910",
+  "email": "duchuy.cs@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-14T02:30:14Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-14T02:30:14Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616796841c414fe1310cb072"
+  },
+  "so_ho_so": "175",
+  "ho_ten": "Võ Thị Thiên Nhi",
+  "ngay_sinh": {
+    "$date": "2000-10-17T00:00:00Z"
+  },
+  "cmnd_cccd": "342060345",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "61679684b5c4db07501c1e60"
+      },
+      "xa_phuong": "Xã Vĩnh Thới",
+      "huyen_quan": "Huyện Lai Vung",
+      "tinh_thanhpho": "Tỉnh Đồng Tháp"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Đồng Tháp",
+  "dien_thoai": "0901006326",
+  "email": "vonhi170010@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-14T02:31:32Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-14T02:31:32Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167d7a11c414fe1310cb076"
+  },
+  "so_ho_so": "176",
+  "ho_ten": "Nguyễn Thụy Cẩm Tú",
+  "ngay_sinh": {
+    "$date": "2000-09-27T00:00:00Z"
+  },
+  "cmnd_cccd": "092300003443",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6167d7a1b5c4db07501c1e72"
+      },
+      "xa_phuong": "Phường Trà Nóc",
+      "huyen_quan": "Quận Bình Thuỷ",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0914691844",
+  "email": "nt.camtu279@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-14T07:09:21Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-14T07:09:21Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167d7f81c414fe1310cb07a"
+  },
+  "so_ho_so": "177",
+  "ho_ten": "Phan Thị Thanh Tân",
+  "ngay_sinh": {
+    "$date": "2000-06-11T00:00:00Z"
+  },
+  "cmnd_cccd": "092300001292",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "6167d7f8b5c4db07501c1e7f"
+      },
+      "xa_phuong": "Phường Bình Thủy",
+      "huyen_quan": "Quận Bình Thuỷ",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0794247682",
+  "email": "tannnnn1106@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-14T07:10:48Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-14T07:10:48Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61699ef1e0bd0187d1041f97"
+  },
+  "so_ho_so": "35",
+  "ho_ten": "Nguyễn Thị Ngọc Thủy",
+  "ngay_sinh": {
+    "$date": "2000-12-15T00:00:00Z"
+  },
+  "cmnd_cccd": "092300004618",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "61699ef1940b3c171cc08927"
+      },
+      "xa_phuong": "Phường An Bình",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0925733750",
+  "email": "nguyenthuy22042017@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-15T15:32:01Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-15T15:32:01Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616ae387333889b6d2f111a6"
+  },
+  "so_ho_so": "178",
+  "ho_ten": "Trần Cẩm Hà",
+  "ngay_sinh": {
+    "$date": "2000-08-02T00:00:00Z"
+  },
+  "cmnd_cccd": "385840925",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616ae387b4e73c031c29d18c"
+      },
+      "xa_phuong": "Phường Thới Bình",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Bạc Liêu",
+  "dien_thoai": "0853628567",
+  "email": "hatran03062017@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-16T14:36:55Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-16T14:36:55Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616ae3e3333889b6d2f111aa"
+  },
+  "so_ho_so": "179",
+  "ho_ten": "Trần Minh Chen",
+  "ngay_sinh": {
+    "$date": "1999-02-24T00:00:00Z"
+  },
+  "cmnd_cccd": "366292611",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616ae3e3b4e73c031c29d199"
+      },
+      "xa_phuong": "Phường An Thới",
+      "huyen_quan": "Quận Bình Thuỷ",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Sóc Trăng",
+  "dien_thoai": "0853916653",
+  "email": "tranminhchen@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-16T14:38:27Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-16T14:38:27Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616ae43f333889b6d2f111ae"
+  },
+  "so_ho_so": "180",
+  "ho_ten": "Trần Huy Cần",
+  "ngay_sinh": {
+    "$date": "2000-03-29T00:00:00Z"
+  },
+  "cmnd_cccd": "092200004647",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616ae43fb4e73c031c29d1a6"
+      },
+      "xa_phuong": "Phường Trường Lạc",
+      "huyen_quan": "Quận Ô Môn",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nam",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0934108406",
+  "email": "huycanct2020@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-16T14:39:59Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-16T14:39:59Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616ae484333889b6d2f111b2"
+  },
+  "so_ho_so": "181",
+  "ho_ten": "Huỳnh Kim Ngọc",
+  "ngay_sinh": {
+    "$date": "2000-12-05T00:00:00Z"
+  },
+  "cmnd_cccd": "352556493",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616ae484b4e73c031c29d1b3"
+      },
+      "xa_phuong": "Phường An Phú",
+      "huyen_quan": "Quận Ninh Kiều",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh An Giang",
+  "dien_thoai": "0706662130",
+  "email": "kidohuynh996@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-16T14:41:08Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-16T14:41:08Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616ae4eb333889b6d2f111b6"
+  },
+  "so_ho_so": "182",
+  "ho_ten": "Phạm Thị Hồng Tuyến",
+  "ngay_sinh": {
+    "$date": "2000-05-13T00:00:00Z"
+  },
+  "cmnd_cccd": "301730920",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616ae4ebb4e73c031c29d1c0"
+      },
+      "xa_phuong": "Xã Tân Trạch",
+      "huyen_quan": "Huyện Cần Đước",
+      "tinh_thanhpho": "Tỉnh Long An"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Long An",
+  "dien_thoai": "0359921703",
+  "email": "hongtuyenpinky@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-16T14:42:51Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-16T14:42:51Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616ae52f333889b6d2f111ba"
+  },
+  "so_ho_so": "183",
+  "ho_ten": "Châu Thị Mỹ Phuyên",
+  "ngay_sinh": {
+    "$date": "2000-09-07T00:00:00Z"
+  },
+  "cmnd_cccd": "084300006201",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616ae52fb4e73c031c29d1cd"
+      },
+      "xa_phuong": "Xã Tam Ngãi",
+      "huyen_quan": "Huyện Cầu Kè",
+      "tinh_thanhpho": "Tỉnh Trà Vinh"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Trà Vinh",
+  "dien_thoai": "0763246199",
+  "email": "myphien1002vx@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-16T14:43:59Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-16T14:43:59Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616ae6729f46b908e4a7c521"
+  },
+  "so_ho_so": "184",
+  "ho_ten": "Bùi Như Ngọc",
+  "ngay_sinh": {
+    "$date": "1995-04-30T00:00:00Z"
+  },
+  "cmnd_cccd": "363949380",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616ae672793b9d2ea8380942"
+      },
+      "xa_phuong": "Xã Thuận Hòa",
+      "huyen_quan": "Huyện Long Mỹ",
+      "tinh_thanhpho": "Tỉnh Hậu Giang"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Tỉnh Hậu Giang",
+  "dien_thoai": "0369321681",
+  "email": "buinhungoctmp@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-16T14:49:22Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-16T14:49:22Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616d216c7576047b29e94fe0"
+  },
+  "so_ho_so": "185",
+  "ho_ten": "Nguyễn Ngọc Thảo Trinh",
+  "ngay_sinh": {
+    "$date": "2000-12-04T00:00:00Z"
+  },
+  "cmnd_cccd": "092300005695",
+  "dia_chi": [
+    {
+      "_id": {
+        "$oid": "616d216c3b76141670d787a8"
+      },
+      "xa_phuong": "Phường Châu Văn Liêm",
+      "huyen_quan": "Quận Ô Môn",
+      "tinh_thanhpho": "Thành phố Cần Thơ"
+    }
+  ],
+  "gioi_tinh": "Nữ",
+  "dan_toc": "Kinh",
+  "noi_sinh": "Thành phố Cần Thơ",
+  "dien_thoai": "0706797025",
+  "email": "16trinhnguyen@gmail.com",
+  "ngay_tao": {
+    "$date": "2021-10-18T07:25:32Z"
+  },
+  "ngay_cap_nhat": {
+    "$date": "2021-10-18T07:25:32Z"
+  },
+  "__v": 0
+}]

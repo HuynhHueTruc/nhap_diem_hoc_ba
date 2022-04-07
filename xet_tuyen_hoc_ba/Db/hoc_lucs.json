@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "61580f8793620ec19c55ac84"
+  },
+  "hoc_luc": "Giỏi"
+},{
+  "_id": {
+    "$oid": "61580fdf93620ec19c55ac85"
+  },
+  "hoc_luc": "Khá"
+},{
+  "_id": {
+    "$oid": "61580fec93620ec19c55ac86"
+  },
+  "hoc_luc": "Trung bình"
+},{
+  "_id": {
+    "$oid": "615d0ac6e319086fdb114ad9"
+  },
+  "hoc_luc": "Yếu"
+},{
+  "_id": {
+    "$oid": "615d0ad6e319086fdb114ada"
+  },
+  "hoc_luc": "Kém"
+}]

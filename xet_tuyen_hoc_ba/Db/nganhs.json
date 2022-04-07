@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "6155e3883697fad9dfe8b459"
+  },
+  "ten_nganh": "Công nghệ thông tin",
+  "chuyen_nganh": [
+    {
+      "ten_chuyen_nganh": "Công nghệ thông tin"
+    },
+    {
+      "ten_chuyen_nganh": "Tin học ứng dụng"
+    }
+  ]
+}]

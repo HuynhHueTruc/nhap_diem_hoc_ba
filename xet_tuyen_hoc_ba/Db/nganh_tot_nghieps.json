@@ -1,0 +1,1666 @@
+[{
+  "_id": {
+    "$oid": "6165aa53c8f67628cc49213b"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165aa53c8f67628cc49213b"
+  },
+  "ten_nganh": "Dịch vụ pháp lý",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165ac5bc88deafecd55174c"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165ac5bc88deafecd55174b"
+  },
+  "ten_nganh": "Bảo vệ thực vật",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165acffc88deafecd551750"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165acffc88deafecd55174f"
+  },
+  "ten_nganh": "Dịch vụ thú y",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165ad4ac88deafecd551754"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165ad49c88deafecd551753"
+  },
+  "ten_nganh": "Bảo vệ thực vật",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165addfc88deafecd551758"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165addfc88deafecd551757"
+  },
+  "ten_nganh": "Tiếng Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165ae3fc88deafecd55175c"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165ae3fc88deafecd55175b"
+  },
+  "ten_nganh": "Dịch vụ thú y",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165af4cc88deafecd551760"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165af4cc88deafecd55175f"
+  },
+  "ten_nganh": "Dịch vụ pháp lý",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165afa0c88deafecd551764"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165afa0c88deafecd551763"
+  },
+  "ten_nganh": "Dịch vụ pháp lý",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165afe8c88deafecd551768"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165afe8c88deafecd551767"
+  },
+  "ten_nganh": "Dịch vụ pháp lý",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b060c88deafecd55176c"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165b060c88deafecd55176b"
+  },
+  "ten_nganh": "Tiếng Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b581c88deafecd551770"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165b581c88deafecd55176f"
+  },
+  "ten_nganh": "Tiếng Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b617c88deafecd551774"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165b617c88deafecd551773"
+  },
+  "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b668c88deafecd551778"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165b668c88deafecd551777"
+  },
+  "ten_nganh": "Dịch vụ thú y",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b6b6c88deafecd55177c"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165b6b6c88deafecd55177b"
+  },
+  "ten_nganh": "Dịch vụ thú y",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b6fdc88deafecd551780"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165b6fdc88deafecd55177f"
+  },
+  "ten_nganh": "Công nghệ thông tin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b73fc88deafecd551784"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165b73fc88deafecd551783"
+  },
+  "ten_nganh": "Tiếng Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b7a4c88deafecd551788"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165b7a4c88deafecd551787"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b7ecc88deafecd55178c"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165b7ecc88deafecd55178b"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b87dc88deafecd551790"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165b87dc88deafecd55178f"
+  },
+  "ten_nganh": "Tiếng Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b8d8c88deafecd551794"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165b8d8c88deafecd551793"
+  },
+  "ten_nganh": "Dịch vụ pháp lý",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616633b63575a3ebf2e20f9a"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616633b63575a3ebf2e20f99"
+  },
+  "ten_nganh": "Bảo vệ thực vật",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61663434cd4238852e9ddc07"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61663434cd4238852e9ddc06"
+  },
+  "ten_nganh": "Bảo vệ thực vật",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166a973cd4238852e9ddc0b"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166a973cd4238852e9ddc0a"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166a9efcd4238852e9ddc0f"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166a9efcd4238852e9ddc0e"
+  },
+  "ten_nganh": "Dịch vụ pháp lý",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166aa39cd4238852e9ddc13"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166aa39cd4238852e9ddc12"
+  },
+  "ten_nganh": "Công nghệ kỹ thuật xây dựng",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166aaa9cd4238852e9ddc17"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166aaa9cd4238852e9ddc16"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166aae7cd4238852e9ddc1b"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166aae7cd4238852e9ddc1a"
+  },
+  "ten_nganh": "Tiếng Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ab28cd4238852e9ddc1f"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ab28cd4238852e9ddc1e"
+  },
+  "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ab65cd4238852e9ddc23"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ab65cd4238852e9ddc22"
+  },
+  "ten_nganh": "Tiếng Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166abb1cd4238852e9ddc27"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166abb1cd4238852e9ddc26"
+  },
+  "ten_nganh": "Dịch vụ pháp lý",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ac35cd4238852e9ddc2b"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ac35cd4238852e9ddc2a"
+  },
+  "ten_nganh": "Công nghệ kỹ thuật xây dựng",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ac6ccd4238852e9ddc2f"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ac6ccd4238852e9ddc2e"
+  },
+  "ten_nganh": "Công nghệ thực phẩm",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166acb1cd4238852e9ddc33"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166acb1cd4238852e9ddc32"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166acf6cd4238852e9ddc37"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166acf6cd4238852e9ddc36"
+  },
+  "ten_nganh": "Dịch vụ thú y",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ad7fcd4238852e9ddc3f"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ad7fcd4238852e9ddc3e"
+  },
+  "ten_nganh": "Dịch vụ pháp lý",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166adb9cd4238852e9ddc43"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166adb9cd4238852e9ddc42"
+  },
+  "ten_nganh": "Sư phạm Ngữ văn",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166adf4cd4238852e9ddc47"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166adf4cd4238852e9ddc46"
+  },
+  "ten_nganh": "Công nghệ kỹ thuật môi trường",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ae43cd4238852e9ddc4b"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ae43cd4238852e9ddc4a"
+  },
+  "ten_nganh": "Tài chính - Ngân hàng",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ae8ccd4238852e9ddc4f"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ae8ccd4238852e9ddc4e"
+  },
+  "ten_nganh": "Tài chính - Ngân hàng",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e34e43f8917a04cd51ec"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e34d43f8917a04cd51eb"
+  },
+  "ten_nganh": "Tài chính - Ngân hàng",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e40b43f8917a04cd51f0"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e40b43f8917a04cd51ef"
+  },
+  "ten_nganh": "Dịch vụ pháp lý",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e48243f8917a04cd51f4"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e48243f8917a04cd51f3"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e50b43f8917a04cd51f8"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e50b43f8917a04cd51f7"
+  },
+  "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e55b43f8917a04cd51fc"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e55b43f8917a04cd51fb"
+  },
+  "ten_nganh": "Sư phạm tiếng Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e5ab43f8917a04cd5200"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e5ab43f8917a04cd51ff"
+  },
+  "ten_nganh": "Quản lý đất đai",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e5f943f8917a04cd5204"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e5f943f8917a04cd5203"
+  },
+  "ten_nganh": "Bảo vệ thực vật",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e64943f8917a04cd5208"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e64943f8917a04cd5207"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e67e43f8917a04cd520c"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e67e43f8917a04cd520b"
+  },
+  "ten_nganh": "Dịch vụ pháp lý",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e6e843f8917a04cd5210"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e6e843f8917a04cd520f"
+  },
+  "ten_nganh": "Dịch vụ pháp lý",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e72743f8917a04cd5214"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e72743f8917a04cd5213"
+  },
+  "ten_nganh": "Công nghệ thông tin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e7c943f8917a04cd5219"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e7c943f8917a04cd5218"
+  },
+  "ten_nganh": "Việt Nam học",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e81643f8917a04cd521d"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e81643f8917a04cd521c"
+  },
+  "ten_nganh": "Dịch vụ pháp lý",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e85d43f8917a04cd5221"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e85d43f8917a04cd5220"
+  },
+  "ten_nganh": "Sư phạm Toán học",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e89b43f8917a04cd5225"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e89b43f8917a04cd5224"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e8e843f8917a04cd5229"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e8e843f8917a04cd5228"
+  },
+  "ten_nganh": "Tin học ứng dụng",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e94943f8917a04cd522d"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e94943f8917a04cd522c"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e9b243f8917a04cd5231"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e9b243f8917a04cd5230"
+  },
+  "ten_nganh": "Sư phạm Tiếng Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e9fa43f8917a04cd5235"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e9fa43f8917a04cd5234"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ea3543f8917a04cd5239"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ea3543f8917a04cd5238"
+  },
+  "ten_nganh": "Dịch vụ pháp lý",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ea7543f8917a04cd523d"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ea7543f8917a04cd523c"
+  },
+  "ten_nganh": "Công nghệ thông tin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166eabe43f8917a04cd5241"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166eabe43f8917a04cd5240"
+  },
+  "ten_nganh": "Tiếng Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ecee43f8917a04cd5245"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ecee43f8917a04cd5244"
+  },
+  "ten_nganh": "Dịch vụ pháp lý",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ed2843f8917a04cd5249"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ed2843f8917a04cd5248"
+  },
+  "ten_nganh": "Công nghệ kỹ thuật điện-điện tử",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166edd543f8917a04cd524d"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166edd543f8917a04cd524c"
+  },
+  "ten_nganh": "Sư phạm tiếng Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ee4843f8917a04cd5251"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ee4843f8917a04cd5250"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ef4743f8917a04cd5255"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ef4743f8917a04cd5254"
+  },
+  "ten_nganh": "Công nghệ thông tin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166efbb43f8917a04cd5259"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166efbb43f8917a04cd5258"
+  },
+  "ten_nganh": "Công nghệ thông tin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f07643f8917a04cd525d"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f07643f8917a04cd525c"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f0b443f8917a04cd5261"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f0b343f8917a04cd5260"
+  },
+  "ten_nganh": "Công nghệ thực phẩm",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f0e943f8917a04cd5265"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f0e943f8917a04cd5264"
+  },
+  "ten_nganh": "Tiếng Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f1a243f8917a04cd5269"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f1a243f8917a04cd5268"
+  },
+  "ten_nganh": "Tài chính - Ngân hàng",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f1da43f8917a04cd526d"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f1da43f8917a04cd526c"
+  },
+  "ten_nganh": "Tài chính - Ngân hàng",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f20f43f8917a04cd5271"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f20f43f8917a04cd5270"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f27d43f8917a04cd5276"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f27d43f8917a04cd5275"
+  },
+  "ten_nganh": "Công nghệ kỹ thuật xây dựng",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f2f843f8917a04cd527a"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f2f843f8917a04cd5279"
+  },
+  "ten_nganh": "Dịch vụ pháp lý",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f33443f8917a04cd527e"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f33443f8917a04cd527d"
+  },
+  "ten_nganh": "Dịch vụ pháp lý",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f38043f8917a04cd5282"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f38043f8917a04cd5281"
+  },
+  "ten_nganh": "Kế toán",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f3c143f8917a04cd5286"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f3c143f8917a04cd5285"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f3fb43f8917a04cd528a"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f3fb43f8917a04cd5289"
+  },
+  "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f43843f8917a04cd528e"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f43843f8917a04cd528d"
+  },
+  "ten_nganh": "Sư phạm Toán học",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f47743f8917a04cd5292"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f47743f8917a04cd5291"
+  },
+  "ten_nganh": "Sư phạm Toán học",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f4c543f8917a04cd5296"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f4c543f8917a04cd5295"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f4ff43f8917a04cd529a"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f4ff43f8917a04cd5299"
+  },
+  "ten_nganh": "Kế toán",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f56943f8917a04cd529e"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f56943f8917a04cd529d"
+  },
+  "ten_nganh": "Bảo vệ thực vật",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f82b43f8917a04cd52a2"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f82b43f8917a04cd52a1"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f89043f8917a04cd52a6"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f89043f8917a04cd52a5"
+  },
+  "ten_nganh": "Kế toán",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f8eb43f8917a04cd52aa"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f8eb43f8917a04cd52a9"
+  },
+  "ten_nganh": "Kế toán",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f93743f8917a04cd52ae"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f93743f8917a04cd52ad"
+  },
+  "ten_nganh": "Công nghệ thông tin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f98743f8917a04cd52b2"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f98743f8917a04cd52b1"
+  },
+  "ten_nganh": "Tiếng Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f9c443f8917a04cd52b6"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f9c443f8917a04cd52b5"
+  },
+  "ten_nganh": "Tiếng Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f9fd43f8917a04cd52ba"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f9fd43f8917a04cd52b9"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fa3643f8917a04cd52be"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fa3643f8917a04cd52bd"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fa7f43f8917a04cd52c2"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fa7f43f8917a04cd52c1"
+  },
+  "ten_nganh": "Kinh doanh thương mại",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166face43f8917a04cd52c6"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166face43f8917a04cd52c5"
+  },
+  "ten_nganh": "Quản trị văn phòng",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fb3343f8917a04cd52ca"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fb3343f8917a04cd52c9"
+  },
+  "ten_nganh": "Sư phạm Toán học",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fb6c43f8917a04cd52ce"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fb6c43f8917a04cd52cd"
+  },
+  "ten_nganh": "Dịch vụ pháp lý",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fbc343f8917a04cd52d2"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fbc343f8917a04cd52d1"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fc0243f8917a04cd52d6"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fc0243f8917a04cd52d5"
+  },
+  "ten_nganh": "Kế toán",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fc4643f8917a04cd52da"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fc4643f8917a04cd52d9"
+  },
+  "ten_nganh": "Kế toán",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fc8943f8917a04cd52de"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fc8943f8917a04cd52dd"
+  },
+  "ten_nganh": "Công nghệ kỹ thuật xây dựng",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fcdd43f8917a04cd52e2"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fcdd43f8917a04cd52e1"
+  },
+  "ten_nganh": "Kế toán",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fd1943f8917a04cd52e6"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fd1943f8917a04cd52e5"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fd4f43f8917a04cd52ea"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fd4f43f8917a04cd52e9"
+  },
+  "ten_nganh": "Kế toán",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fd9243f8917a04cd52ee"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fd9243f8917a04cd52ed"
+  },
+  "ten_nganh": "Công nghệ kỹ thuật xây dựng",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fdce43f8917a04cd52f2"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fdce43f8917a04cd52f1"
+  },
+  "ten_nganh": "Dịch vụ pháp lý",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fe0443f8917a04cd52f6"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fe0443f8917a04cd52f5"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fe3a43f8917a04cd52fa"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fe3a43f8917a04cd52f9"
+  },
+  "ten_nganh": "Tiếng Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fe7d43f8917a04cd52fe"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fe7d43f8917a04cd52fd"
+  },
+  "ten_nganh": "Tiếng Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166feb943f8917a04cd5302"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166feb943f8917a04cd5301"
+  },
+  "ten_nganh": "Tiếng Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ff1e43f8917a04cd5306"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ff1e43f8917a04cd5305"
+  },
+  "ten_nganh": "Tiếng Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ff5543f8917a04cd530a"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ff5543f8917a04cd5309"
+  },
+  "ten_nganh": "Tiếng Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ff8d43f8917a04cd530e"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ff8d43f8917a04cd530d"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ffc443f8917a04cd5312"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ffc443f8917a04cd5311"
+  },
+  "ten_nganh": "Tiếng Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fff743f8917a04cd5316"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fff743f8917a04cd5315"
+  },
+  "ten_nganh": "Tin học ứng dụng",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167002f43f8917a04cd531a"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167002f43f8917a04cd5319"
+  },
+  "ten_nganh": "Dịch vụ pháp lý",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167006943f8917a04cd531e"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167006943f8917a04cd531d"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616700a443f8917a04cd5322"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616700a443f8917a04cd5321"
+  },
+  "ten_nganh": "Tiếng Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616700e443f8917a04cd5326"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616700e443f8917a04cd5325"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616701a143f8917a04cd532a"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616701a143f8917a04cd5329"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616701dd43f8917a04cd532e"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616701dd43f8917a04cd532d"
+  },
+  "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167021a43f8917a04cd5332"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167021a43f8917a04cd5331"
+  },
+  "ten_nganh": "Dịch vụ pháp lý",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167025043f8917a04cd5336"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167025043f8917a04cd5335"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167028943f8917a04cd533a"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167028943f8917a04cd5339"
+  },
+  "ten_nganh": "Kỹ thuật xây dựng",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616702bc43f8917a04cd533e"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616702bc43f8917a04cd533d"
+  },
+  "ten_nganh": "Dịch vụ thú y",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616702f743f8917a04cd5342"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616702f743f8917a04cd5341"
+  },
+  "ten_nganh": "Tiếng Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167032b43f8917a04cd5346"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167032b43f8917a04cd5345"
+  },
+  "ten_nganh": "Tiếng Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167036643f8917a04cd534a"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167036643f8917a04cd5349"
+  },
+  "ten_nganh": "Tiếng Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616703a043f8917a04cd534e"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616703a043f8917a04cd534d"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616703df43f8917a04cd5352"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616703df43f8917a04cd5351"
+  },
+  "ten_nganh": "Sư phạm toán học",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167041a43f8917a04cd5356"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167041a43f8917a04cd5355"
+  },
+  "ten_nganh": "Quản lý tài nguyên và Môi trường",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167045343f8917a04cd535a"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167045343f8917a04cd5359"
+  },
+  "ten_nganh": "Công nghệ kỹ thuật xây dựng",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167048143f8917a04cd535e"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167048143f8917a04cd535d"
+  },
+  "ten_nganh": "Công nghệ kỹ thuật xây dựng",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616704b543f8917a04cd5362"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616704b543f8917a04cd5361"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616704e643f8917a04cd5366"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616704e643f8917a04cd5365"
+  },
+  "ten_nganh": "Dịch vụ pháp lý",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167051d43f8917a04cd536a"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167051d43f8917a04cd5369"
+  },
+  "ten_nganh": "Giáo dục tiểu học",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167058343f8917a04cd536e"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167058343f8917a04cd536d"
+  },
+  "ten_nganh": "Quản trị doanh nghiệp Marketing and sale",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616705ea43f8917a04cd5372"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616705ea43f8917a04cd5371"
+  },
+  "ten_nganh": "Sư phạm toán học",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167062543f8917a04cd5376"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167062543f8917a04cd5375"
+  },
+  "ten_nganh": "Sư phạm toán học",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167066f43f8917a04cd537a"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167066f43f8917a04cd5379"
+  },
+  "ten_nganh": "Quản trị văn phòng",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616706b543f8917a04cd537e"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616706b543f8917a04cd537d"
+  },
+  "ten_nganh": "Quản trị văn phòng",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616706f843f8917a04cd5382"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616706f843f8917a04cd5381"
+  },
+  "ten_nganh": "Tiếng Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167073243f8917a04cd5386"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167073243f8917a04cd5385"
+  },
+  "ten_nganh": "Tiếng Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167076f43f8917a04cd538a"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167076f43f8917a04cd5389"
+  },
+  "ten_nganh": "Giáo dục tiểu học",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616707a143f8917a04cd538e"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616707a143f8917a04cd538d"
+  },
+  "ten_nganh": "Sư phạm Tiếng Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616707e243f8917a04cd5392"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616707e243f8917a04cd5391"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167081f43f8917a04cd5396"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167081f43f8917a04cd5395"
+  },
+  "ten_nganh": "Tiếng Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167085b43f8917a04cd539a"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167085b43f8917a04cd5399"
+  },
+  "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616708a843f8917a04cd539e"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616708a843f8917a04cd539d"
+  },
+  "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616708fe43f8917a04cd53a2"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616708fe43f8917a04cd53a1"
+  },
+  "ten_nganh": "Tài chính - ngân hàng",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167095a43f8917a04cd53a6"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167095a43f8917a04cd53a5"
+  },
+  "ten_nganh": "Tiếng Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616709cb43f8917a04cd53aa"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616709cb43f8917a04cd53a9"
+  },
+  "ten_nganh": "Kế toán",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670a0443f8917a04cd53ae"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61670a0443f8917a04cd53ad"
+  },
+  "ten_nganh": "Công nghệ kỹ thuật môi trường",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670ae943f8917a04cd53b2"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61670ae943f8917a04cd53b1"
+  },
+  "ten_nganh": "Dịch vụ pháp lý",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670bb543f8917a04cd53b7"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61670bb543f8917a04cd53b6"
+  },
+  "ten_nganh": "Việt Nam học",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670c7f43f8917a04cd53bb"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61670c7f43f8917a04cd53ba"
+  },
+  "ten_nganh": "Kinh doanh xuất nhập khẩu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670cdb43f8917a04cd53bf"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61670cdb43f8917a04cd53be"
+  },
+  "ten_nganh": "Dịch vụ pháp lý",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670d1843f8917a04cd53c3"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61670d1843f8917a04cd53c2"
+  },
+  "ten_nganh": "Việt Nam học",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670e2d43f8917a04cd53c7"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61670e2d43f8917a04cd53c6"
+  },
+  "ten_nganh": "Công nghệ kỹ thuật xây dựng",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670f0143f8917a04cd53cd"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61670f0143f8917a04cd53cc"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670f3443f8917a04cd53d1"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61670f3443f8917a04cd53d0"
+  },
+  "ten_nganh": "Tiếng Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670faa43f8917a04cd53d5"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61670faa43f8917a04cd53d4"
+  },
+  "ten_nganh": "Việt Nam học",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670ff843f8917a04cd53d9"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61670ff843f8917a04cd53d8"
+  },
+  "ten_nganh": "Ngôn ngữ Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167103843f8917a04cd53dd"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167103843f8917a04cd53dc"
+  },
+  "ten_nganh": "Quản trị văn phòng",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167108343f8917a04cd53e1"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167108343f8917a04cd53e0"
+  },
+  "ten_nganh": "Sư phạm Tiếng Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616710e043f8917a04cd53e5"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616710e043f8917a04cd53e4"
+  },
+  "ten_nganh": "Sư phạm Tiếng Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167113143f8917a04cd53e9"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167113143f8917a04cd53e8"
+  },
+  "ten_nganh": "Sư phạm Tiếng Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616713c036a4176baf36a687"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616713c036a4176baf36a686"
+  },
+  "ten_nganh": "Dịch vụ pháp lý",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61678f8c1c414fe1310cb05b"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61678f8c1c414fe1310cb05a"
+  },
+  "ten_nganh": "Tiếng Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61678fdc1c414fe1310cb05f"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61678fdb1c414fe1310cb05e"
+  },
+  "ten_nganh": "Kỹ thuật xây dựng",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616790561c414fe1310cb063"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616790561c414fe1310cb062"
+  },
+  "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167908b1c414fe1310cb067"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167908b1c414fe1310cb066"
+  },
+  "ten_nganh": "Sư phạm Toán",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616790bb1c414fe1310cb06b"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616790bb1c414fe1310cb06a"
+  },
+  "ten_nganh": "Công nghệ thông tin",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616796361c414fe1310cb06f"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616796361c414fe1310cb06e"
+  },
+  "ten_nganh": "Việt Nam học",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616796841c414fe1310cb073"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616796841c414fe1310cb072"
+  },
+  "ten_nganh": "Kinh doanh thương mại",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167d7a11c414fe1310cb077"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167d7a11c414fe1310cb076"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167d7f81c414fe1310cb07b"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167d7f81c414fe1310cb07a"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61699ef1e0bd0187d1041f98"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61699ef1e0bd0187d1041f97"
+  },
+  "ten_nganh": "Dịch vụ pháp lý",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616ae387333889b6d2f111a7"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616ae387333889b6d2f111a6"
+  },
+  "ten_nganh": "Marketing thương mại",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616ae3e3333889b6d2f111ab"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616ae3e3333889b6d2f111aa"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616ae43f333889b6d2f111af"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616ae43f333889b6d2f111ae"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616ae484333889b6d2f111b3"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616ae484333889b6d2f111b2"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616ae4eb333889b6d2f111b7"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616ae4eb333889b6d2f111b6"
+  },
+  "ten_nganh": "Sư phạm tiếng Anh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616ae52f333889b6d2f111bb"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616ae52f333889b6d2f111ba"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616ae6729f46b908e4a7c522"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616ae6729f46b908e4a7c521"
+  },
+  "ten_nganh": "Dịch vụ pháp lý",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616d216c7576047b29e94fe1"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616d216c7576047b29e94fe0"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "__v": 0
+}]

@@ -1,0 +1,61 @@
+.line1{
+  height: 10%;
+  // background-color: white;
+}
+
+// .title{
+//   font-size: 100%;
+//   font-weight: bold;
+// }
+
+.line2{
+  margin-top: 10px;
+}
+
+.line3{
+  margin-top: 10px;
+  background-color: white;
+}
+
+#pagination {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 1em;
+  text-indent: -1em;
+}
+
+.buttonicon{
+  background-color: transparent;
+  border: none;
+  padding: 0px;
+}
+
+.require:after {
+  content:" *";
+  color: red;
+}
+
+#modal-basic-title{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#err_ngay_sinh, #err_ngay_sinh_plus {
+  display: none;
+}
+
+#err_ngay_tot_nghiep{
+  display: none;
+}
+
+#hoc_ba{
+  display: none;
+}
+
+.diem{
+  display: none;
+}
+
+#savebutton_chi_tiet{
+  display: none;
+}

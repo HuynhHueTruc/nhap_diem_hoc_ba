@@ -1,0 +1,816 @@
+[{
+  "_id": {
+    "$oid": "6157bcffb9aee32e42903e16"
+  },
+  "chuyen_nganh": [
+    {
+      "_id": {
+        "$oid": "6155c8983697fad9dfe8b400"
+      },
+      "ten_chuyen_nganh": "Ngôn ngữ Anh"
+    },
+    {
+      "_id": {
+        "$oid": "615d0976e319086fdb114ac7"
+      },
+      "ten_chuyen_nganh": "Phiên dịch - Biên dịch tiếng Anh"
+    }
+  ],
+  "ten_nganh": "Ngôn ngữ Anh",
+  "to_hop_xet_tuyen": [
+    "D01",
+    "D14",
+    "D15"
+  ]
+},{
+  "_id": {
+    "$oid": "615d009297ef96b7c249740d"
+  },
+  "ten_nganh": "Giáo dục Tiểu học",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "C01",
+    "D01",
+    "D03"
+  ]
+},{
+  "_id": {
+    "$oid": "615d00ed97ef96b7c249740e"
+  },
+  "ten_nganh": "Giáo dục Công dân",
+  "to_hop_xet_tuyen": [
+    "C00",
+    "C19",
+    "C14",
+    "C15"
+  ]
+},{
+  "_id": {
+    "$oid": "615d010897ef96b7c249740f"
+  },
+  "ten_nganh": "Sư phạm Toán học",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01",
+    "B08",
+    "D07"
+  ]
+},{
+  "_id": {
+    "$oid": "615d012b97ef96b7c2497410"
+  },
+  "ten_nganh": "Sư phạm Tin học",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01",
+    "D01",
+    "D07"
+  ]
+},{
+  "_id": {
+    "$oid": "615d013c97ef96b7c2497411"
+  },
+  "ten_nganh": "Sư phạm Vật lí",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01",
+    "A02",
+    "D29"
+  ]
+},{
+  "_id": {
+    "$oid": "615d015697ef96b7c2497412"
+  },
+  "ten_nganh": "Sư phạm Hóa học",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "B00",
+    "D07",
+    "D24"
+  ]
+},{
+  "_id": {
+    "$oid": "615d016c97ef96b7c2497413"
+  },
+  "ten_nganh": "Sư phạm Sinh học",
+  "to_hop_xet_tuyen": [
+    "B00",
+    "B08"
+  ]
+},{
+  "_id": {
+    "$oid": "615d018997ef96b7c2497414"
+  },
+  "ten_nganh": "Sư phạm Ngữ văn",
+  "to_hop_xet_tuyen": [
+    "C00",
+    "D14",
+    "D15"
+  ]
+},{
+  "_id": {
+    "$oid": "615d019497ef96b7c2497415"
+  },
+  "ten_nganh": "Sư phạm Lịch sử",
+  "to_hop_xet_tuyen": [
+    "C00",
+    "D14",
+    "D64"
+  ]
+},{
+  "_id": {
+    "$oid": "615d01a497ef96b7c2497416"
+  },
+  "ten_nganh": "Sư phạm Địa lí",
+  "to_hop_xet_tuyen": [
+    "C00",
+    "D14",
+    "D64"
+  ]
+},{
+  "_id": {
+    "$oid": "615d01b297ef96b7c2497417"
+  },
+  "ten_nganh": "Sư phạm tiếng Anh",
+  "to_hop_xet_tuyen": [
+    "D01",
+    "D14",
+    "D15"
+  ]
+},{
+  "_id": {
+    "$oid": "615d01c497ef96b7c2497418"
+  },
+  "ten_nganh": "Quản trị kinh doanh",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01",
+    "C02",
+    "D01"
+  ]
+},{
+  "_id": {
+    "$oid": "615d01d197ef96b7c2497419"
+  },
+  "ten_nganh": "Marketing",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01",
+    "C02",
+    "D01"
+  ]
+},{
+  "_id": {
+    "$oid": "615d01e097ef96b7c249741a"
+  },
+  "ten_nganh": "Kinh doanh quốc tế",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01",
+    "C02",
+    "D01"
+  ]
+},{
+  "_id": {
+    "$oid": "615d01f497ef96b7c249741b"
+  },
+  "ten_nganh": "Kinh doanh thương mại",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01",
+    "C02",
+    "D01"
+  ]
+},{
+  "_id": {
+    "$oid": "615d020397ef96b7c249741c"
+  },
+  "ten_nganh": "Tài chính - Ngân hàng",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01",
+    "C02",
+    "D01"
+  ]
+},{
+  "_id": {
+    "$oid": "615d021397ef96b7c249741d"
+  },
+  "ten_nganh": "Kế tóan",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01",
+    "C02",
+    "D01"
+  ]
+},{
+  "_id": {
+    "$oid": "615d022597ef96b7c249741e"
+  },
+  "ten_nganh": "Kiểm toán",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01",
+    "C02",
+    "D01"
+  ]
+},{
+  "_id": {
+    "$oid": "615d024597ef96b7c249741f"
+  },
+  "chuyen_nganh": [
+    {
+      "_id": {
+        "$oid": "615d02a497ef96b7c2497420"
+      },
+      "ten_chuyen_nganh": "Luật Hành chính"
+    },
+    {
+      "_id": {
+        "$oid": "615d02b297ef96b7c2497421"
+      },
+      "ten_chuyen_nganh": "Luật Tư pháp"
+    },
+    {
+      "_id": {
+        "$oid": "615d02b797ef96b7c2497422"
+      },
+      "ten_chuyen_nganh": "Luật Thương mại"
+    }
+  ],
+  "ten_nganh": "Luật",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "C00",
+    "D01",
+    "D03"
+  ]
+},{
+  "_id": {
+    "$oid": "615d02c897ef96b7c2497423"
+  },
+  "ten_nganh": "Sinh học",
+  "to_hop_xet_tuyen": [
+    "A02",
+    "B00",
+    "B03",
+    "B08"
+  ]
+},{
+  "_id": {
+    "$oid": "615d02d897ef96b7c2497424"
+  },
+  "ten_nganh": "Công nghệ sinh học",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "B00",
+    "B08",
+    "B07"
+  ]
+},{
+  "_id": {
+    "$oid": "615d02e597ef96b7c2497425"
+  },
+  "ten_nganh": "Sinh học ứng dụng",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01",
+    "B00",
+    "B08"
+  ]
+},{
+  "_id": {
+    "$oid": "615d02fa97ef96b7c2497426"
+  },
+  "ten_nganh": "Hóa học",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "B00",
+    "C02",
+    "D07"
+  ]
+},{
+  "_id": {
+    "$oid": "615d030497ef96b7c2497427"
+  },
+  "ten_nganh": "Khoa học môi trường",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "B00",
+    "C02",
+    "D07"
+  ]
+},{
+  "_id": {
+    "$oid": "615d033697ef96b7c2497428"
+  },
+  "ten_nganh": "Hóa dược",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "B00",
+    "C02",
+    "D07"
+  ]
+},{
+  "_id": {
+    "$oid": "615d034e97ef96b7c2497429"
+  },
+  "ten_nganh": "Toán ứng dụng",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01",
+    "B00"
+  ]
+},{
+  "_id": {
+    "$oid": "615d037797ef96b7c249742a"
+  },
+  "ten_nganh": "Khoa học máy tính",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01"
+  ]
+},{
+  "_id": {
+    "$oid": "615d038797ef96b7c249742b"
+  },
+  "ten_nganh": "Kỹ thuật phần mềm",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01"
+  ]
+},{
+  "_id": {
+    "$oid": "615d039797ef96b7c249742c"
+  },
+  "ten_nganh": "Mạng máy tính và truyền thông dữ liệu",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01"
+  ]
+},{
+  "_id": {
+    "$oid": "615d03b897ef96b7c249742d"
+  },
+  "ten_nganh": "Hệ thống thông tin",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01"
+  ]
+},{
+  "_id": {
+    "$oid": "615d03d197ef96b7c249742e"
+  },
+  "chuyen_nganh": [
+    {
+      "_id": {
+        "$oid": "615d04b1e319086fdb114aa9"
+      },
+      "ten_chuyen_nganh": "Công nghệ thông tin"
+    },
+    {
+      "_id": {
+        "$oid": "615d04b6e319086fdb114aaa"
+      },
+      "ten_chuyen_nganh": "Tin học ứng dụng"
+    }
+  ],
+  "ten_nganh": "Công nghệ thông tin",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01"
+  ]
+},{
+  "_id": {
+    "$oid": "615d06bbe319086fdb114aab"
+  },
+  "ten_nganh": "Công nghệ kỹ thuật hóa học",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01",
+    "B00",
+    "D07"
+  ]
+},{
+  "_id": {
+    "$oid": "615d06d9e319086fdb114aac"
+  },
+  "ten_nganh": "Kỹ thuật vật liệu",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01",
+    "B00",
+    "D07"
+  ]
+},{
+  "_id": {
+    "$oid": "615d06f1e319086fdb114aad"
+  },
+  "ten_nganh": "Quản lý công nghiệp",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01",
+    "D01"
+  ]
+},{
+  "_id": {
+    "$oid": "615d0707e319086fdb114aae"
+  },
+  "ten_nganh": "Kỹ thuật điện",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01",
+    "D07"
+  ]
+},{
+  "_id": {
+    "$oid": "615d0732e319086fdb114ab0"
+  },
+  "chuyen_nganh": [
+    {
+      "_id": {
+        "$oid": "615d075fe319086fdb114ab1"
+      },
+      "ten_chuyen_nganh": "Cơ khí chế tạo máy"
+    }
+  ],
+  "ten_nganh": "Kỹ thuật cơ khí",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01"
+  ]
+},{
+  "_id": {
+    "$oid": "615d076ae319086fdb114ab2"
+  },
+  "ten_nganh": "Vật lý kỹ thuật",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01",
+    "A02",
+    "C01"
+  ]
+},{
+  "_id": {
+    "$oid": "615d0785e319086fdb114ab3"
+  },
+  "ten_nganh": "Kỹ thuật cơ điện tử",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01"
+  ]
+},{
+  "_id": {
+    "$oid": "615d079ce319086fdb114ab4"
+  },
+  "ten_nganh": "Kỹ thuật điện tử - viễn thông",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01"
+  ]
+},{
+  "_id": {
+    "$oid": "615d07b3e319086fdb114ab5"
+  },
+  "ten_nganh": "Kỹ thuật máy tính",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01"
+  ]
+},{
+  "_id": {
+    "$oid": "615d07c1e319086fdb114ab6"
+  },
+  "ten_nganh": "Kỹ thuật điều khiển và tự động hóa",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01"
+  ]
+},{
+  "_id": {
+    "$oid": "615d07dde319086fdb114ab7"
+  },
+  "ten_nganh": "Kỹ thuật môi trường",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01",
+    "B00",
+    "D07"
+  ]
+},{
+  "_id": {
+    "$oid": "615d07f7e319086fdb114ab8"
+  },
+  "ten_nganh": "Kỹ thuật xây dựng",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01"
+  ]
+},{
+  "_id": {
+    "$oid": "615d0804e319086fdb114ab9"
+  },
+  "ten_nganh": "Kỹ thuật xây dựng công trình thủy",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01"
+  ]
+},{
+  "_id": {
+    "$oid": "615d0815e319086fdb114aba"
+  },
+  "ten_nganh": "Kỹ thuật xây dựng công trình giao thông",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01"
+  ]
+},{
+  "_id": {
+    "$oid": "615d0826e319086fdb114abb"
+  },
+  "ten_nganh": "Công nghệ thực phẩm",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01",
+    "B00",
+    "D07"
+  ]
+},{
+  "_id": {
+    "$oid": "615d0834e319086fdb114abc"
+  },
+  "ten_nganh": "Công nghệ sau thu hoạch",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01",
+    "B00",
+    "D07"
+  ]
+},{
+  "_id": {
+    "$oid": "615d084ce319086fdb114abd"
+  },
+  "ten_nganh": "Công nghệ chế biến thủy sản",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01",
+    "B00",
+    "D07"
+  ]
+},{
+  "_id": {
+    "$oid": "615d0877e319086fdb114abe"
+  },
+  "ten_nganh": "Kinh tế nông nghiệp",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01",
+    "C02",
+    "D01"
+  ]
+},{
+  "_id": {
+    "$oid": "615d088be319086fdb114abf"
+  },
+  "ten_nganh": "Quản lý thủy sản",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "B00",
+    "B08",
+    "D07"
+  ]
+},{
+  "_id": {
+    "$oid": "615d0899e319086fdb114ac0"
+  },
+  "ten_nganh": "Nuôi trồng thủy sản",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "B00",
+    "B08",
+    "D07"
+  ]
+},{
+  "_id": {
+    "$oid": "615d0996e319086fdb114ac9"
+  },
+  "ten_nganh": "Văn học",
+  "to_hop_xet_tuyen": [
+    "C00",
+    "D01",
+    "D14",
+    "D15"
+  ]
+},{
+  "_id": {
+    "$oid": "615d09a2e319086fdb114aca"
+  },
+  "ten_nganh": "Thông tin - thư viên",
+  "to_hop_xet_tuyen": [
+    "A01",
+    "D01",
+    "D03",
+    "D29"
+  ]
+},{
+  "_id": {
+    "$oid": "615d09b2e319086fdb114acb"
+  },
+  "ten_nganh": "Xã hội học",
+  "to_hop_xet_tuyen": [
+    "A01",
+    "C00",
+    "C19",
+    "D01"
+  ]
+},{
+  "_id": {
+    "$oid": "615d09bee319086fdb114acc"
+  },
+  "ten_nganh": "Triết học",
+  "to_hop_xet_tuyen": [
+    "C00",
+    "D15",
+    "C19",
+    "D15"
+  ]
+},{
+  "_id": {
+    "$oid": "615d09cce319086fdb114acd"
+  },
+  "ten_nganh": "Chính trị học",
+  "to_hop_xet_tuyen": [
+    "C00",
+    "D15",
+    "C19",
+    "D15"
+  ]
+},{
+  "_id": {
+    "$oid": "615d09d7e319086fdb114ace"
+  },
+  "ten_nganh": "Kinh tế tài nguyên thiên nhiên",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01",
+    "C02",
+    "D01"
+  ]
+},{
+  "_id": {
+    "$oid": "615d09e6e319086fdb114acf"
+  },
+  "ten_nganh": "Kinh tế",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01",
+    "C02",
+    "D01"
+  ]
+},{
+  "_id": {
+    "$oid": "615d09ede319086fdb114ad0"
+  },
+  "ten_nganh": "Quản trị dịch vụ du lịch và lữ hành",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01",
+    "C02",
+    "D01"
+  ]
+},{
+  "_id": {
+    "$oid": "615d0a03e319086fdb114ad1"
+  },
+  "ten_nganh": "Quản lý tài nguyên và môi trường",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01",
+    "B00",
+    "D07"
+  ]
+},{
+  "_id": {
+    "$oid": "615d0a18e319086fdb114ad2"
+  },
+  "ten_nganh": "Quản lý đất đai",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A01",
+    "B00",
+    "D07"
+  ]
+},{
+  "_id": {
+    "$oid": "615d6f15d231153ada327f73"
+  },
+  "ten_nganh": "Bệnh học thủy sản",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "B08",
+    "B00",
+    "D07"
+  ]
+},{
+  "_id": {
+    "$oid": "615d6f24d231153ada327f74"
+  },
+  "ten_nganh": "Nông học",
+  "to_hop_xet_tuyen": [
+    "B08",
+    "B00",
+    "D07"
+  ]
+},{
+  "_id": {
+    "$oid": "615d6faad231153ada327f76"
+  },
+  "ten_nganh": "Khoa học cây trồng",
+  "chuyen_nganh": [
+    {
+      "_id": {
+        "$oid": "615d7029d231153ada327f77"
+      },
+      "ten_chuyen_nganh": "Khoa học cây trồng"
+    }
+  ],
+  "to_hop_xet_tuyen": [
+    "A02",
+    "B08",
+    "B00",
+    "D07"
+  ]
+},{
+  "_id": {
+    "$oid": "615d730cd231153ada327f78"
+  },
+  "ten_nganh": "Bảo vệ thực vật",
+  "to_hop_xet_tuyen": [
+    "B08",
+    "B00",
+    "D07"
+  ]
+},{
+  "_id": {
+    "$oid": "615d7343d231153ada327f79"
+  },
+  "ten_nganh": "Công nghệ hoa quả và cảnh quan",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "B08",
+    "B00",
+    "D07"
+  ]
+},{
+  "_id": {
+    "$oid": "615d7368d231153ada327f7a"
+  },
+  "ten_nganh": "Chăn nuôi",
+  "to_hop_xet_tuyen": [
+    "A00",
+    "A02",
+    "B00",
+    "B08"
+  ]
+},{
+  "_id": {
+    "$oid": "615d7570d231153ada327f7b"
+  },
+  "ten_nganh": "Thú y",
+  "to_hop_xet_tuyen": [
+    "B00",
+    "A02",
+    "B08",
+    "D07"
+  ]
+},{
+  "_id": {
+    "$oid": "615d75bdd231153ada327f7d"
+  },
+  "chuyen_nganh": [
+    {
+      "_id": {
+        "$oid": "615d75fed231153ada327f7e"
+      },
+      "ten_chuyen_nganh": "Hướng dẫn viên du lịch"
+    }
+  ],
+  "ten_nganh": "Việt Nam học",
+  "to_hop_xet_tuyen": [
+    "C00",
+    "D01",
+    "D14",
+    "D15"
+  ]
+},{
+  "_id": {
+    "$oid": "615d7673d231153ada327f7f"
+  },
+  "ten_nganh": "Ngôn ngữ Pháp",
+  "to_hop_xet_tuyen": [
+    "D01",
+    "D03",
+    "D14",
+    "D64"
+  ]
+}]

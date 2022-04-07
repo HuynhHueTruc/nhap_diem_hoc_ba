@@ -1,0 +1,1888 @@
+<div class="container" >
+  <div class="row line1 d-flex justify-content-center align-items-center">
+    <!-- <div class="col-sm-3  d-flex justify-content-center">
+      <p class="title">Thông Tin Thí Sinh</p>
+    </div> -->
+    <div class="col-sm-5 ml-0">
+      <div class="input-group">
+        <input type="search" class="form-control rounded" placeholder="Từ khóa ..." aria-label="Search"
+          aria-describedby="search-addon" />
+        <button type="button" class="btn btn-outline-primary ml-2">Tìm</button>
+      </div>
+    </div>
+    <div class="col-sm-4 d-flex justify-content-start">
+      <!-- <div class="dropdown show">
+        <a class="btn btn-primary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown"
+          aria-haspopup="true" aria-expanded="false">
+          Lọc
+        </a>
+        <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+          <a class="dropdown-item" href="#">Nam</a>
+          <a class="dropdown-item" href="#">Nữ</a>
+          <a class="dropdown-item" href="#">Mới nhất</a>
+          <a class="dropdown-item" href="#">Cũ nhất</a>
+        </div>
+      </div> -->
+      <button type="button" class="btn btn-outline-primary ml-4" (click)="dialog_them_thi_sinh(them_thi_sinh)"
+        data-controls-modal="modals" data-backdrop="static" data-keyboard="false">Thêm thí sinh</button>
+        <button type="button" class="btn btn-outline-primary ml-4" (click)="dialog_ket_qua(ket_qua)"
+        data-controls-modal="modals" data-backdrop="static" data-keyboard="false">Kết quả</button>
+    </div>
+  </div>
+
+  <div class="line2">
+    <div class="card ds">
+      <div class="card-body">
+        <table class="table table-bordered table-hover mb-0">
+          <thead>
+            <tr class="content">
+              <th class="align-middle">
+                <div class="form-check d-flex justify-content-center d-flex align-items-center">
+                  <input class="form-check-input" value="{{checkAll}}" [checked]="checkAll" (change)="kt_all_checked()"
+                    type="checkbox" id="flexCheckDefault">
+                </div>
+              </th>
+              <th class="align-middle">
+                <div class="d-flex justify-content-center">
+                  Số hồ sơ
+                </div>
+              </th>
+              <th class="align-middle">
+                <div class="d-flex justify-content-center">
+                  Họ tên
+                </div>
+              </th>
+              <th class="align-middle">
+                <div class="d-flex justify-content-center">
+                  Ngành tốt nghiêp
+                </div>
+              </th>
+              <th class="align-middle">
+                <div class="d-flex justify-content-center">
+                  Ngành xét tuyển
+                </div>
+              </th>
+              <th class="align-middle">
+                <div class="d-flex justify-content-center">
+                  Chi tiết
+                </div>
+              </th>
+              <th class="align-middle">
+                <div class="d-flex justify-content-center">
+                  Ngày cập nhật
+                </div>
+              </th>
+              <th class="align-middle">
+                <div class="d-flex justify-content-center">
+                  Tác vụ
+                </div>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <!-- <tr *ngFor="let ts of thisinhs; let i = index;">
+              <td class="align-middle">
+                <div class="form-check d-flex justify-content-center align-items-center">
+                  <input class="form-check-input" [id]="i" type="checkbox" name="itemcheck">
+                </div>
+              </td>
+              <td class="content">
+                <div class="d-flex justify-content-center">
+                  {{ts.so_ho_so}}
+                </div>
+              </td>
+              <td>
+                <div class="d-flex justify-content-center">
+                  {{ts.ho_ten}}
+                </div>
+              </td>
+              <td>
+                <div class="d-flex justify-content-center">
+                  {{nganhtotnghieps[i]?.ten_nganh}}
+                </div>
+              </td>
+              <td>
+                <div class="d-flex justify-content-center">
+                  {{nganhdangkys[i]?.ten_nganh}}
+                </div>
+              </td>
+              <td class="content ">
+                <div class="d-flex justify-content-center">
+                  <button class="buttonicon" data-controls-modal="modals_update" data-backdrop="static"
+                    data-keyboard="false" (click)="dialog_thong_tin_thi_sinh(thong_tin_thi_sinh, ts)">
+                    <i class="far fa-edit m-1"></i>
+                  </button>
+                </div>
+              </td>
+              <td class="content">
+                <div class="d-flex justify-content-center">
+                  {{ts.ngay_cap_nhat | date: 'shortDate'}}
+                </div>
+              </td>
+              <td class="content">
+                <div class="d-flex justify-content-center">
+                  <span class="action d-flex justify-content-start">
+                    <button class="buttonicon" data-controls-modal="modals_update" data-backdrop="static"
+                      data-keyboard="false" (click)="dialog_dang_ky_nganh(nhap_diem_hoc_ba, ts)">
+                      <i class="far fa-edit m-1"></i>
+                    </button>
+                    <button class="buttonicon" data-controls-modal="modals_delete" data-backdrop="static"
+                      data-keyboard="false" (click)="dialog_xoa_thi_sinh(xoa_thi_sinh, ts)">
+                      <i class="far fa-trash-alt m-1"></i>
+                    </button>
+                    <button class="buttonicon">
+                      <i class="far fa-envelope m-1"></i>
+                    </button>
+                  </span>
+                </div>
+              </td>
+            </tr> -->
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <!-- <div class="row line3">
+    <div class="col-sm-2"></div>
+    <div class="col-sm-8 d-flex justify-content-center">
+      <ul id="pagination">
+        <li *ngFor="let item of ds_thi_sinh | paginate: { itemsPerPage: 10, currentPage: p }"> </li>
+      </ul>
+      <pagination-controls (pageChange)="p = $event" (click)="chuyen_trang(p)"></pagination-controls>
+    </div>
+    <div class="col-sm-2"></div>
+
+  </div> -->
+</div>
+
+
+<!-- Dialog thông tin chi tiết thí sinh -->
+<div class="container" id="modals">
+  <ng-template #thong_tin_thi_sinh let-modal>
+    <div class="modal-header">
+      <h4 class="modal-title" id="thong_tin_thi_sinh">THÔNG TIN CHI TIẾT</h4>
+    </div>
+
+    <!-- <div class="modal-body">
+      <form class="form-horizontal" [formGroup]="form">
+        <div class="row">
+          <div class="col-sm-6">
+
+            <div class="form-group row">
+              <div class="col-sm-4">
+                <label class="require"> Số hồ sơ</label>
+              </div>
+              <div class="col-sm-8">
+                <input type="text" readonly class="form-control" id="so_ho_so" [(ngModel)]="thi_sinh.so_ho_so"
+                  name="so_ho_so" placeholder="Số hồ sơ" formControlName="so_ho_so" [pattern]="so_ho_so_pattern">
+              </div>
+              <div class="mess-err"
+                *ngIf="form.controls['so_ho_so'].invalid && (form.controls['so_ho_so'].dirty || form.controls['so_ho_so'].touched)">
+
+                <small class="err text-danger" *ngIf="form.controls['so_ho_so'].errors?.pattern"> Số hồ sơ là kiểu số
+                  nguyên dương nhỏ hơn 5000!</small>
+              </div>
+            </div>
+
+            <div class="form-group row">
+              <div class="col-sm-4">
+                <label class="require"> Họ và tên</label>
+              </div>
+              <div class="col-sm-8">
+                <input type="text" class="form-control" id="ho_ten" [(ngModel)]="thi_sinh.ho_ten" name="ho_ten"
+                  placeholder="Họ và tên" formControlName="ho_ten">
+              </div>
+            </div>
+
+            <div class="form-group row">
+              <div class="col-sm-4">
+                <label class="require">Ngày sinh</label>
+              </div>
+              <div class="col-sm-8">
+                <input type="date" class="form-control " id="ngay_sinh" [(ngModel)]="thi_sinh.ngay_sinh"
+                  name="ngay_sinh" placeholder="Ngày sinh" (change)="kiem_tra_ngay_sinh(thi_sinh.ngay_sinh)"
+                  formControlName="ngay_sinh">
+              </div>
+              <div class="mess-err">
+                <small id="err_ngay_sinh" class="err text-danger"> Chưa đủ 18 tuổi! </small>
+                <small id="err_ngay_sinh_plus" class="err text-danger"> Ngày sinh chưa hợp lệ! </small>
+              </div>
+            </div>
+
+            <div class="form-group row">
+              <div class="col-sm-4">
+                <label class="require">Địa chỉ Email</label>
+              </div>
+              <div class="col-sm-8">
+                <input type="email" id="email" class="form-control" formControlName="email" [(ngModel)]="thi_sinh.email"
+                  name="email" placeholder="Địa chỉ Email" [pattern]="email_pattern">
+              </div>
+              <div class="mess-err"
+                *ngIf="form.controls['email'].invalid && (form.controls['email'].dirty || form.controls['email'].touched)">
+                <small class="err text-danger" *ngIf="form.controls['email'].errors!.pattern"> Chưa đúng định dạng
+                  Email!
+                </small>
+              </div>
+            </div>
+
+            <div class="form-group row">
+              <div class="col-sm-4">
+                <label class="require">Số điện thoại</label>
+              </div>
+              <div class="col-sm-8">
+                <input type="text" class="form-control " id="dien_thoai" [(ngModel)]="thi_sinh.dien_thoai"
+                  name="dien_thoai" placeholder="Số điện thoại" formControlName="dien_thoai"
+                  [pattern]="dien_thoai_pattern">
+              </div>
+              <div class="mess-err" email
+                *ngIf="form.controls['dien_thoai'].invalid && (form.controls['dien_thoai'].dirty || form.controls['dien_thoai'].touched)">
+                <small class="err text-danger" *ngIf="form.controls['dien_thoai'].errors!.pattern"> Số điện thoại chưa
+                  hợp lệ!</small>
+              </div>
+            </div>
+
+            <div class="form-group row">
+              <div class="col-sm-4">
+                <label class="require">Giới tính</label>
+              </div>
+              <div class="col-sm-8">
+                <select class="form-control form-control-sm border-non setwidth" id="gioi_tinh"
+                  [(ngModel)]="thi_sinh.gioi_tinh" name="gioi_tinh" formControlName="gioi_tinh">
+                  <option class="item" disabled value="">-- Giới tính --</option>
+                  <option class="item" value="Nam">Nam</option>
+                  <option class="item" value="Nữ">Nữ</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="form-group row">
+              <div class="col-sm-4">
+                <label class="require">CMND/CCCD</label>
+              </div>
+              <div class="col-sm-8">
+                <input type="text" class="form-control" id="cmnd_cccd" [(ngModel)]="thi_sinh.cmnd_cccd" name="cmnd_cccd"
+                  placeholder="CMND/CCCD" formControlName="cmnd_cccd" [pattern]="cmnd_pattern">
+              </div>
+              <div class="mess-err"
+                *ngIf="form.controls['cmnd_cccd'].invalid && (form.controls['cmnd_cccd'].dirty || form.controls['cmnd_cccd'].touched)">
+                <small class="err text-danger" *ngIf="form.controls['cmnd_cccd'].errors!.pattern"> Độ dài số chứng minh
+                  nhân dân/căn cước
+                  công dân có 9 hoặc 12 số!</small>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-sm-6">
+
+            <div class=" form-group row">
+              <div class="col-sm-12">
+                <label>Địa chỉ</label>
+              </div>
+            </div>
+
+            <div class="form-group row">
+              <div class="col-sm-4">
+                <label class="require">Thành phố</label>
+              </div>
+              <div class="col-sm-8">
+                <select id="provinces" [(ngModel)]="thi_sinh.dia_chi[0].tinh_thanhpho" name="provinces"
+                  class="form-control form-control-sm border-non setwidth " (change)="chon_thanh_pho($event)"
+                  formControlName="provinces">
+                  <option class="item" selected disabled value="">-- Thành phố --</option>
+                  <option class="item" *ngFor="let eachThanhPho of ds_thanh_pho" [value]="eachThanhPho.name">
+                    {{eachThanhPho.name}}</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="form-group row">
+              <div class="col-sm-4">
+                <label class="require">Quận huyện</label>
+              </div>
+              <div class="col-sm-8">
+                <select id="districts" [(ngModel)]="thi_sinh.dia_chi[0].huyen_quan" name="districts"
+                  class="form-control form-control-sm border-non setwidth mt-3" (change)="chon_huyen_quan($event)"
+                  formControlName="districts">
+                  <option class="item" selected value="">-- Huyện/Quận --</option>
+                  <option class="item" *ngFor="let eachQuanHuyen of ds_huyen_quan" [value]="eachQuanHuyen.name">
+                    {{eachQuanHuyen.name}}</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="form-group row">
+              <div class="col-sm-4">
+                <label class="require">Xã Phường</label>
+              </div>
+              <div class="col-sm-8">
+                <select id="ward" [(ngModel)]="thi_sinh.dia_chi[0].xa_phuong" name="ward"
+                  class="form-control form-control-sm border-non setwidth mt-3" formControlName="ward">
+                  <option class="item" selected value="">-- Xã/Phường --</option>
+                  <option class="item" *ngFor="let eachXaPhuong of ds_xa_phuong" [value]="eachXaPhuong.name">
+                    {{eachXaPhuong.name}}</option>
+                </select>
+              </div>
+
+            </div>
+
+            <div class="form-group row">
+              <div class="col-sm-4">
+                <label class="require"> Dân tộc</label>
+              </div>
+              <div class="col-sm-8">
+                <input type="text" class="form-control " id="dan_toc" [(ngModel)]="thi_sinh.dan_toc" name="dan_toc"
+                  placeholder="Dân tộc" formControlName="dan_toc">
+              </div>
+            </div>
+
+            <div class="form-group row">
+              <div class="col-sm-4">
+                <label class="require">Nơi sinh</label>
+              </div>
+              <div class="col-sm-8">
+                <select id="noi_sinh" [(ngModel)]="thi_sinh.noi_sinh" name="noi_sinh"
+                  class="form-control form-control-sm border-non setwidth " formControlName="noi_sinh">
+                  <option class="item" selected disabled value="">-- Nơi sinh --</option>
+                  <option class="item" *ngFor="let eachThanhPho of ds_thanh_pho" [value]="eachThanhPho.name">
+                    {{eachThanhPho.name}}</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="form-group row d-flex justify-content-end">
+              <button type="button" class="btn btn-link" (click)="diem_hoc_ba_chi_tiet(hoc_ba_chi_tiet)">Xem điểm học
+                bạ</button>
+            </div>
+          </div>
+        </div>
+      </form>
+    </div>
+
+    <div class="modal-footer">
+      <button type="button" id="savebutton" class="btn btn-secondary" (click)="luu_thi_sinh()"
+        [disabled]="!form.valid">Lưu</button>
+      <button type="button" class="btn btn-secondary" (click)="modal.close('Close')">Hủy</button>
+    </div> -->
+  </ng-template>
+
+</div>
+
+<!-- Dialog thêm thông tin thí sinh -->
+<div class="container" id="modals">
+  <ng-template #them_thi_sinh let-modal>
+    <div class="modal-header">
+      <h4 class="modal-title" id="modal-basic-title">THÍ SINH MỚI</h4>
+    </div>
+
+    <!-- <div class="modal-body">
+      <form class="form-horizontal" [formGroup]="form">
+        <div class="row">
+          <div class="col-sm-6">
+
+            <div class="form-group row">
+              <div class="col-sm-4">
+                <label class="require"> Số hồ sơ</label>
+              </div>
+              <div class="col-sm-8">
+                <input type="text" class="form-control" id="so_ho_so" [(ngModel)]="thi_sinh.so_ho_so" name="so_ho_so"
+                  placeholder="Số hồ sơ" formControlName="so_ho_so" [pattern]="so_ho_so_pattern">
+              </div>
+              <div class="mess-err"
+                *ngIf="form.controls['so_ho_so'].invalid && (form.controls['so_ho_so'].dirty || form.controls['so_ho_so'].touched)">
+
+                <small class="err text-danger" *ngIf="form.controls['so_ho_so'].errors?.pattern"> Số hồ sơ là kiểu số
+                  nguyên dương nhỏ hơn 5000!</small>
+              </div>
+            </div>
+
+            <div class="form-group row">
+              <div class="col-sm-4">
+                <label class="require"> Họ và tên</label>
+              </div>
+              <div class="col-sm-8">
+                <input type="text" class="form-control" id="ho_ten" [(ngModel)]="thi_sinh.ho_ten" name="ho_ten"
+                  placeholder="Họ và tên" formControlName="ho_ten">
+              </div>
+            </div>
+
+            <div class="form-group row">
+              <div class="col-sm-4">
+                <label class="require">Ngày sinh</label>
+              </div>
+              <div class="col-sm-8">
+                <input type="date" class="form-control " id="ngay_sinh" [(ngModel)]="thi_sinh.ngay_sinh"
+                  name="ngay_sinh" placeholder="Ngày sinh" (change)="kiem_tra_ngay_sinh(thi_sinh.ngay_sinh)"
+                  formControlName="ngay_sinh">
+              </div>
+              <div class="mess-err">
+                <small id="err_ngay_sinh" class="err text-danger"> Chưa đủ 18 tuổi! </small>
+                <small id="err_ngay_sinh_plus" class="err text-danger"> Ngày sinh chưa hợp lệ! </small>
+              </div>
+            </div>
+
+            <div class="form-group row">
+              <div class="col-sm-4">
+                <label class="require">Địa chỉ Email</label>
+              </div>
+              <div class="col-sm-8">
+                <input type="email" id="email" class="form-control" formControlName="email" [(ngModel)]="thi_sinh.email"
+                  name="email" placeholder="Địa chỉ Email" [pattern]="email_pattern">
+              </div>
+              <div class="mess-err"
+                *ngIf="form.controls['email'].invalid && (form.controls['email'].dirty || form.controls['email'].touched)">
+                <small class="err text-danger" *ngIf="form.controls['email'].errors!.pattern"> Chưa đúng định dạng
+                  Email!
+                </small>
+              </div>
+            </div>
+
+            <div class="form-group row">
+              <div class="col-sm-4">
+                <label class="require">Số điện thoại</label>
+              </div>
+              <div class="col-sm-8">
+                <input type="text" class="form-control " id="dien_thoai" [(ngModel)]="thi_sinh.dien_thoai"
+                  name="dien_thoai" placeholder="Số điện thoại" formControlName="dien_thoai"
+                  [pattern]="dien_thoai_pattern">
+              </div>
+              <div class="mess-err" email
+                *ngIf="form.controls['dien_thoai'].invalid && (form.controls['dien_thoai'].dirty || form.controls['dien_thoai'].touched)">
+                <small class="err text-danger" *ngIf="form.controls['dien_thoai'].errors!.pattern"> Số điện thoại chưa
+                  hợp lệ!</small>
+              </div>
+            </div>
+
+            <div class="form-group row">
+              <div class="col-sm-4">
+                <label class="require">Giới tính</label>
+              </div>
+              <div class="col-sm-8">
+                <select class="form-control form-control-sm border-non setwidth" id="gioi_tinh"
+                  [(ngModel)]="thi_sinh.gioi_tinh" name="gioi_tinh" formControlName="gioi_tinh">
+                  <option class="item" disabled value="">-- Giới tính --</option>
+                  <option class="item" value="Nam">Nam</option>
+                  <option class="item" value="Nữ">Nữ</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="form-group row">
+              <div class="col-sm-4">
+                <label class="require">CMND/CCCD</label>
+              </div>
+              <div class="col-sm-8">
+                <input type="text" class="form-control" id="cmnd_cccd" [(ngModel)]="thi_sinh.cmnd_cccd" name="cmnd_cccd"
+                  placeholder="CMND/CCCD" formControlName="cmnd_cccd" [pattern]="cmnd_pattern">
+              </div>
+              <div class="mess-err"
+                *ngIf="form.controls['cmnd_cccd'].invalid && (form.controls['cmnd_cccd'].dirty || form.controls['cmnd_cccd'].touched)">
+                <small class="err text-danger" *ngIf="form.controls['cmnd_cccd'].errors!.pattern"> Độ dài số chứng minh
+                  nhân dân/căn cước
+                  công dân có 9 hoặc 12 số!</small>
+              </div>
+            </div>
+
+            <div class="form-group row">
+              <div class="col-sm-4">
+                <label class="require">Nơi sinh</label>
+              </div>
+              <div class="col-sm-8">
+                <select id="noi_sinh" [(ngModel)]="thi_sinh.noi_sinh" name="noi_sinh"
+                  class="form-control form-control-sm border-non setwidth " formControlName="noi_sinh">
+                  <option class="item" selected disabled value="">-- Nơi sinh --</option>
+                  <option class="item" *ngFor="let eachThanhPho of ds_thanh_pho" [value]="eachThanhPho.name">
+                    {{eachThanhPho.name}}</option>
+                </select>
+              </div>
+            </div>
+
+          </div>
+
+          <div class="col-sm-6">
+
+
+            <div class=" form-group row">
+              <div class="col-sm-12">
+                <label>Địa chỉ liên lạc</label>
+              </div>
+            </div>
+
+            <div class="form-group row">
+              <div class="col-sm-4">
+                <label class="require">Thành phố</label>
+              </div>
+              <div class="col-sm-8">
+                <select id="provinces" [(ngModel)]="thi_sinh.dia_chi[0].tinh_thanhpho" name="provinces"
+                  class="form-control form-control-sm border-non setwidth " (change)="chon_thanh_pho($event)"
+                  formControlName="provinces">
+                  <option class="item" selected disabled value="">-- Thành phố --</option>
+                  <option class="item" *ngFor="let eachThanhPho of ds_thanh_pho" [value]="eachThanhPho.name">
+                    {{eachThanhPho.name}}</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="form-group row">
+              <div class="col-sm-4">
+                <label class="require">Quận huyện</label>
+              </div>
+              <div class="col-sm-8">
+                <select id="districts" [(ngModel)]="thi_sinh.dia_chi[0].huyen_quan" name="districts"
+                  class="form-control form-control-sm border-non setwidth mt-3" (change)="chon_huyen_quan($event)"
+                  formControlName="districts">
+                  <option class="item" selected value="">-- Huyện/Quận --</option>
+                  <option class="item" *ngFor="let eachQuanHuyen of ds_huyen_quan" [value]="eachQuanHuyen.name">
+                    {{eachQuanHuyen.name}}</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="form-group row">
+              <div class="col-sm-4">
+                <label class="require">Xã Phường</label>
+              </div>
+              <div class="col-sm-8">
+                <select id="ward" [(ngModel)]="thi_sinh.dia_chi[0].xa_phuong" name="ward"
+                  class="form-control form-control-sm border-non setwidth mt-3" formControlName="ward">
+                  <option class="item" selected value="">-- Xã/Phường --</option>
+                  <option class="item" *ngFor="let eachXaPhuong of ds_xa_phuong" [value]="eachXaPhuong.name">
+                    {{eachXaPhuong.name}}</option>
+                </select>
+              </div>
+
+            </div>
+
+            <div class="form-group row">
+              <div class="col-sm-4">
+                <label class="require"> Dân tộc</label>
+              </div>
+              <div class="col-sm-8">
+                <input type="text" class="form-control " id="dan_toc" [(ngModel)]="thi_sinh.dan_toc" name="dan_toc"
+                  placeholder="Dân tộc" formControlName="dan_toc">
+              </div>
+            </div>
+
+            <div class="form-group row">
+              <div class="col-sm-4">
+                <label class="require"> Ngành tốt nghiệp</label>
+              </div>
+              <div class="col-sm-8">
+                <input type="text" class="form-control" id="nganh_tot_nghiep" [(ngModel)]="nganh_tot_nghiep.ten_nganh"
+                  name="nganh_tot_nghiep" placeholder="Ngành tốt nghiệp" formControlName="nganh_tot_nghiep">
+              </div>
+            </div>
+
+            <div class="form-group row">
+              <div class="col-sm-4">
+                <label> Chuyên ngành</label>
+              </div>
+              <div class="col-sm-8">
+                <input type="text" class="form-control" id="chuyen_nganh" [(ngModel)]="nganh_tot_nghiep.chuyen_nganh"
+                  name="chuyen_nganh" placeholder="Chuyên ngành" formControlName="chuyen_nganh">
+              </div>
+            </div>
+          </div>
+        </div>
+      </form>
+    </div>
+
+    <div class="modal-footer">
+      <button type="button" id="savebutton" class="btn btn-secondary" (click)="luu_thi_sinh()"
+        [disabled]="!form.valid">Lưu</button>
+      <button type="button" class="btn btn-secondary" (click)="modal.close('Close')">Hủy</button>
+    </div> -->
+  </ng-template>
+
+</div>
+
+<!-- Dialog nhập điểm học bạ -->
+<!-- <div class="container" id="modals">
+  <ng-template #nhap_diem_hoc_ba let-modal>
+    <div class="modal-header">
+      <h4 class="modal-title" id="nhap_diem">Điểm Học Bạ THPT</h4>
+    </div>
+
+    <div class="modal-body">
+      <form class="form-horizontal" [formGroup]="form_nhap_diem">
+        <div class="row">
+          <div class="col-sm-12">
+
+            <div class="form-group row">
+              <div class="col-sm-4">
+                <label class="require">Ngành đăng ký</label>
+              </div>
+              <div class="col-sm-8">
+                <select id="nganh_xet_tuyen" [(ngModel)]="nganh_xet_tuyen" name="nganh_xet_tuyen"
+                  class="form-control form-control-sm border-non setwidth " (change)="chon_nganh_xet_tuyen()"
+                  formControlName="nganh_xet_tuyen">
+                  <option class="item" selected disabled value="">-- Ngành đăng ký --</option>
+                  <option class="item" *ngFor="let each of ds_nganh_xet_tuyen" [value]="each.ten_nganh">
+                    {{each.ten_nganh}}</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="form-group row">
+              <div class="col-sm-4">
+                <label class="require">Chuyên ngành</label>
+              </div>
+              <div class="col-sm-8">
+                <select id="chuyen_nganh" [(ngModel)]="chuyen_nganh" name="chuyen_nganh"
+                  class="form-control form-control-sm border-non setwidth " (change)="chon_chuyen_nganh()"
+                  formControlName="chuyen_nganh">
+                  <option class="item" selected disabled value="">-- Chuyên ngành --</option>
+                  <option class="item" *ngFor="let each of ds_chuyen_nganh" [value]="each.ten_chuyen_nganh">
+                    {{each.ten_chuyen_nganh}}</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="form-group row">
+              <div class="col-sm-4">
+                <label class="require">Điểm tốt nghiệp toàn khóa</label>
+              </div>
+              <div class="col-sm-8">
+                <input type="number" class="form-control" id="toan11" [(ngModel)]="diem_tot_nghiep"
+                  name="diem_to_nghiep" placeholder="Điểm tốt nghiệp toàn khóa" formControlName="diem_so">
+              </div>
+
+            </div>
+
+            <div class="row" id="hoc_ba">
+              <div class="modal-body">
+                <nb-card>
+                  <nb-card-body>
+                    <nb-tabset fullWidth (changeTab)="chuyen_tab($event)">
+                      <nb-tab tabTitle="10">
+                        <div class="row">
+                          <h6>Nhập điểm lớp 10</h6>
+                        </div>
+                        <div class="row mt-2">
+                          <div class="col-sm-6">
+
+                            <div class="form-group row diem" id="{{ds_mon[0]?.ten_mon}}_10">
+                              <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                                <div class="col-sm-4">
+                                  <label class="require">Toán</label>
+                                </div>
+                                <div class="col-sm-8">
+                                  <input type="number" class="form-control" id="toan10"
+                                    [(ngModel)]="ds_diem_so_lop_10.toan" name="diem_so" placeholder="Điểm số"
+                                    formControlName="diem_toan_10" [pattern]="diem_so_pattern">
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="form-group row diem" id="{{ds_mon[1]?.ten_mon}}_10">
+                              <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                                <div class="col-sm-4">
+                                  <label class="require">Vật lý</label>
+                                </div>
+                                <div class="col-sm-8">
+                                  <input type="number" class="form-control" id="vatli10"
+                                    [(ngModel)]="ds_diem_so_lop_10.vat_li" name="diem_vat_li_10" placeholder="Điểm số"
+                                    formControlName="diem_vat_li_10" [pattern]="diem_so_pattern">
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="form-group row diem" id="{{ds_mon[2]?.ten_mon}}_10">
+                              <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                                <div class="col-sm-4">
+                                  <label class="require">Hóa học</label>
+                                </div>
+                                <div class="col-sm-8">
+                                  <input type="number" class="form-control " id="hoahoc10"
+                                    [(ngModel)]="ds_diem_so_lop_10.hoa_hoc" name="diem_so" placeholder="Điểm số"
+                                    formControlName="diem_hoa_hoc_10" [pattern]="diem_so_pattern">
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="form-group row diem" id="{{ds_mon[3]?.ten_mon}}_10">
+                              <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                                <div class="col-sm-4">
+                                  <label class="require">Sinh học</label>
+                                </div>
+                                <div class="col-sm-8">
+                                  <input type="number" class="form-control" id="sinhhoc10"
+                                    [(ngModel)]="ds_diem_so_lop_10.sinh_hoc" name="diem_so" placeholder="Điểm số"
+                                    formControlName="diem_sinh_hoc_10" [pattern]="diem_so_pattern">
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="form-group row diem" id="{{ds_mon[4]?.ten_mon}}_10">
+                              <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                                <div class="col-sm-4">
+                                  <label class="require">Ngữ văn</label>
+                                </div>
+                                <div class="col-sm-8">
+                                  <input type="number" class="form-control" id="nguvan10"
+                                    [(ngModel)]="ds_diem_so_lop_10.ngu_van" name="diem_so" placeholder="Điểm số"
+                                    formControlName="diem_ngu_van_10" [pattern]="diem_so_pattern">
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="form-group row diem" id="{{ds_mon[5]?.ten_mon}}_10">
+                              <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                                <div class="col-sm-4">
+                                  <label class="require">Lịch sử</label>
+                                </div>
+                                <div class="col-sm-8">
+                                  <input type="number" class="form-control" id="lichsu10"
+                                    [(ngModel)]="ds_diem_so_lop_10.lich_su" name="diem_so" placeholder="Điểm số"
+                                    formControlName="diem_lich_su_10" [pattern]="diem_so_pattern">
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+
+                          <div class="col-sm-6">
+                            <div class="form-group row diem" id="{{ds_mon[6]?.ten_mon}}_10">
+                              <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                                <div class="col-sm-4">
+                                  <label class="require">Địa lý</label>
+                                </div>
+                                <div class="col-sm-8">
+                                  <input type="number" class="form-control " id="diali10"
+                                    [(ngModel)]="ds_diem_so_lop_10.dia_li" name="diem_so" placeholder="Điểm số"
+                                    formControlName="diem_dia_li_10" [pattern]="diem_so_pattern">
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="form-group row diem" id="{{ds_mon[7]?.ten_mon}}_10">
+                              <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                                <div class="col-sm-4">
+                                  <label class="require">Tiếng Anh</label>
+                                </div>
+                                <div class="col-sm-8">
+                                  <input type="number" class="form-control" id="tienganh10"
+                                    [(ngModel)]="ds_diem_so_lop_10.tieng_anh" name="diem_so" placeholder="Điểm số"
+                                    formControlName="diem_tieng_anh_10" [pattern]="diem_so_pattern">
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="form-group row diem" id="{{ds_mon[8]?.ten_mon}}_10">
+                              <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                                <div class="col-sm-4 pr-0">
+                                  <label class="require">Tiếng Pháp</label>
+                                </div>
+                                <div class="col-sm-8">
+                                  <input type="number" class="form-control " id="tiengphap10"
+                                    [(ngModel)]="ds_diem_so_lop_10.tieng_phap" name="diem_so" placeholder="Điểm số"
+                                    formControlName="diem_tieng_phap_10" [pattern]="diem_so_pattern">
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="form-group row diem" id="{{ds_mon[9]?.ten_mon}}_10">
+                              <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                                <div class="col-sm-4">
+                                  <label class="require">GDCD</label>
+                                </div>
+                                <div class="col-sm-8">
+                                  <input type="number" class="form-control " id="gdcd10"
+                                    [(ngModel)]="ds_diem_so_lop_10.gdcd" name="diem_gdcd_10" placeholder="Điểm số"
+                                    formControlName="diem_gdcd_10" [pattern]="diem_so_pattern">
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="form-group row diem" id="{{ds_mon[10]?.ten_mon}}_10">
+                              <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                                <div class="col-sm-4">
+                                  <label class="require">TDTT</label>
+                                </div>
+                                <div class="col-sm-8">
+                                  <input type="number" class="form-control " id="tdtt10"
+                                    [(ngModel)]="ds_diem_so_lop_10.tdtt" name="diem_tdtt_10" placeholder="Điểm số"
+                                    formControlName="diem_tdtt_10" [pattern]="diem_so_pattern">
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="form-group row">
+                              <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                                <div class="col-sm-4">
+                                  <label class="require">Học lực</label>
+                                </div>
+                                <div class="col-sm-8">
+                                  <select class="form-control form-control-sm border-non setwidth" id="hocluc10"
+                                    [(ngModel)]="ds_diem_so_lop_10._id_hoc_luc" name="hoc_luc"
+                                    formControlName="hoc_luc_10">
+                                    <option class="item" disabled value="">-- Học lực --</option>
+                                    <option class="item" value="{{hl?._id}}" *ngFor="let hl of ds_hoc_luc">
+                                      {{hl?.hoc_luc}}</option>
+                                  </select>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="row">
+                          <div class="col-sm-6"></div>
+                          <div class="col-sm-6">
+                            <div class="row">
+                              <div class="col-sm-4"></div>
+                              <div class="col-sm-8 d-flex justify-content-center">
+                                <button type="button" id="savebutton" class="btn btn-secondary"
+                                  (click)="luu_diem_lop_10()">Lưu</button>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </nb-tab>
+
+
+                      <nb-tab tabTitle="11">
+                        <div class="row">
+                          <h6>Nhập điểm lớp 11</h6>
+                        </div>
+                        <div class="row mt-2">
+                          <div class="col-sm-6">
+                            <div class="form-group row diem" id="{{ds_mon[0]?.ten_mon}}_11">
+                              <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                                <div class="col-sm-4">
+                                  <label class="require">Toán</label>
+                                </div>
+                                <div class="col-sm-8">
+                                  <input type="number" class="form-control" id="toan11"
+                                    [(ngModel)]="ds_diem_so_lop_11.toan" name="diem_toan_11" placeholder="Điểm số"
+                                    formControlName="diem_toan_11" [pattern]="diem_so_pattern">
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="form-group row diem" id="{{ds_mon[1]?.ten_mon}}_11">
+                              <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                                <div class="col-sm-4">
+                                  <label class="require">Vật lý</label>
+                                </div>
+                                <div class="col-sm-8">
+                                  <input type="number" class="form-control" id="vatli11"
+                                    [(ngModel)]="ds_diem_so_lop_11.vat_li" name="diem_so" placeholder="Điểm số"
+                                    formControlName="diem_vat_li_11" [pattern]="diem_so_pattern">
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="form-group row diem" id="{{ds_mon[2]?.ten_mon}}_11">
+                              <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                                <div class="col-sm-4">
+                                  <label class="require">Hóa học</label>
+                                </div>
+                                <div class="col-sm-8">
+                                  <input type="number" class="form-control" id="hoahoc11"
+                                    [(ngModel)]="ds_diem_so_lop_11.hoa_hoc" name="diem_so" placeholder="Điểm số"
+                                    formControlName="diem_hoa_hoc_11" [pattern]="diem_so_pattern">
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="form-group row diem" id="{{ds_mon[3]?.ten_mon}}_11">
+                              <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                                <div class="col-sm-4">
+                                  <label class="require">Sinh học</label>
+                                </div>
+                                <div class="col-sm-8">
+                                  <input type="number" class="form-control" id="sinhhoc11"
+                                    [(ngModel)]="ds_diem_so_lop_11.sinh_hoc" name="diem_so" placeholder="Điểm số"
+                                    formControlName="diem_sinh_hoc_11" [pattern]="diem_so_pattern">
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="form-group row diem" id="{{ds_mon[4]?.ten_mon}}_11">
+                              <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                                <div class="col-sm-4">
+                                  <label class="require">Ngữ văn</label>
+                                </div>
+                                <div class="col-sm-8">
+                                  <input type="number" class="form-control" id="nguvan11"
+                                    [(ngModel)]="ds_diem_so_lop_11.ngu_van" name="diem_so" placeholder="Điểm số"
+                                    formControlName="diem_ngu_van_11" [pattern]="diem_so_pattern">
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="form-group row diem" id="{{ds_mon[5]?.ten_mon}}_11">
+                              <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                                <div class="col-sm-4">
+                                  <label class="require">Lịch sử</label>
+                                </div>
+                                <div class="col-sm-8">
+                                  <input type="number" class="form-control" id="lichsu11"
+                                    [(ngModel)]="ds_diem_so_lop_11.lich_su" name="diem_so" placeholder="Điểm số"
+                                    formControlName="diem_lich_su_11" [pattern]="diem_so_pattern">
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+
+                          <div class="col-sm-6">
+
+                            <div class="form-group row diem" id="{{ds_mon[6]?.ten_mon}}_11">
+                              <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                                <div class="col-sm-4">
+                                  <label class="require">Địa lý</label>
+                                </div>
+                                <div class="col-sm-8">
+                                  <input type="number" class="form-control" id="diali11"
+                                    [(ngModel)]="ds_diem_so_lop_11.dia_li" name="diem_so" placeholder="Điểm số"
+                                    formControlName="diem_dia_li_11" [pattern]="diem_so_pattern">
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="form-group row diem" id="{{ds_mon[7]?.ten_mon}}_11">
+                              <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                                <div class="col-sm-4">
+                                  <label class="require">Tiếng Anh</label>
+                                </div>
+                                <div class="col-sm-8">
+                                  <input type="number" class="form-control" id="tienganh11"
+                                    [(ngModel)]="ds_diem_so_lop_11.tieng_anh" name="diem_so" placeholder="Điểm số"
+                                    formControlName="diem_tieng_anh_11" [pattern]="diem_so_pattern">
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="form-group row diem" id="{{ds_mon[8]?.ten_mon}}_11">
+                              <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                                <div class="col-sm-4 pr-0">
+                                  <label class="require">Tiếng Pháp</label>
+                                </div>
+                                <div class="col-sm-8">
+                                  <input type="number" class="form-control" id="tiengphap11"
+                                    [(ngModel)]="ds_diem_so_lop_11.tieng_phap" name="diem_so" placeholder="Điểm số"
+                                    formControlName="diem_tieng_phap_11" [pattern]="diem_so_pattern">
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="form-group row diem" id="{{ds_mon[9]?.ten_mon}}_11">
+                              <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                                <div class="col-sm-4">
+                                  <label class="require">GDCD</label>
+                                </div>
+                                <div class="col-sm-8">
+                                  <input type="number" class="form-control" id="gdcd11"
+                                    [(ngModel)]="ds_diem_so_lop_11.gdcd" name="diem_so" placeholder="Điểm số"
+                                    formControlName="diem_gdcd_11" [pattern]="diem_so_pattern">
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="form-group row diem" id="{{ds_mon[10]?.ten_mon}}_11">
+                              <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                                <div class="col-sm-4">
+                                  <label class="require">TDTT</label>
+                                </div>
+                                <div class="col-sm-8">
+                                  <input type="number" class="form-control" id="tdtt11"
+                                    [(ngModel)]="ds_diem_so_lop_11.tdtt" name="diem_so" placeholder="Điểm số"
+                                    formControlName="diem_tdtt_11" [pattern]="diem_so_pattern">
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="form-group row">
+                              <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                                <div class="col-sm-4">
+                                  <label class="require">Học lực</label>
+                                </div>
+                                <div class="col-sm-8">
+                                  <select class="form-control form-control-sm border-non setwidth" id="hocluc11"
+                                    [(ngModel)]="ds_diem_so_lop_11._id_hoc_luc" name="hoc_luc"
+                                    formControlName="hoc_luc_11">
+                                    <option class="item" disabled value="">-- Học lực --</option>
+                                    <option class="item" value="{{hl?._id}}" *ngFor="let hl of ds_hoc_luc">
+                                      {{hl?.hoc_luc}}</option>
+                                  </select>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+
+                        </div>
+                        <div class="row">
+                          <div class="col-sm-6"></div>
+                          <div class="col-sm-6">
+                            <div class="row">
+                              <div class="col-sm-4"></div>
+                              <div class="col-sm-8 d-flex justify-content-center">
+                                <button type="button" id="savebutton" class="btn btn-secondary"
+                                  (click)="luu_diem_lop_11()">Lưu</button>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </nb-tab>
+
+
+                      <nb-tab tabTitle="12">
+                        <div class="row">
+                          <h6>Nhập điểm lớp 12</h6>
+                        </div>
+
+                        <div class="row mt-2">
+                          <div class="col-sm-6">
+                            <div class="form-group row diem" id="{{ds_mon[0]?.ten_mon}}_12">
+                              <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                                <div class="col-sm-4">
+                                  <label class="require">Toán</label>
+                                </div>
+                                <div class="col-sm-8">
+                                  <input type="number" class="form-control" id="toan12"
+                                    [(ngModel)]="ds_diem_so_lop_12.toan" name="diem_so" placeholder="Điểm số"
+                                    formControlName="diem_toan_12" [pattern]="diem_so_pattern">
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="form-group row diem" id="{{ds_mon[1]?.ten_mon}}_12">
+                              <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                                <div class="col-sm-4">
+                                  <label class="require">Vật lý</label>
+                                </div>
+                                <div class="col-sm-8">
+                                  <input type="number" class="form-control" id="vatli12"
+                                    [(ngModel)]="ds_diem_so_lop_12.vat_li" name="diem_so" placeholder="Điểm số"
+                                    formControlName="diem_vat_li_12" [pattern]="diem_so_pattern">
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="form-group row diem" id="{{ds_mon[2]?.ten_mon}}_12">
+                              <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                                <div class="col-sm-4">
+                                  <label class="require">Hóa học</label>
+                                </div>
+                                <div class="col-sm-8">
+                                  <input type="number" class="form-control " id="hoahoc12"
+                                    [(ngModel)]="ds_diem_so_lop_12.hoa_hoc" name="diem_so" placeholder="Điểm số"
+                                    formControlName="diem_hoa_hoc_12" [pattern]="diem_so_pattern">
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="form-group row diem" id="{{ds_mon[3]?.ten_mon}}_12">
+                              <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                                <div class="col-sm-4">
+                                  <label class="require">Sinh học</label>
+                                </div>
+                                <div class="col-sm-8">
+                                  <input type="number" class="form-control" id="sinhhoc12"
+                                    [(ngModel)]="ds_diem_so_lop_12.sinh_hoc" name="diem_so" placeholder="Điểm số"
+                                    formControlName="diem_sinh_hoc_12" [pattern]="diem_so_pattern">
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="form-group row diem" id="{{ds_mon[4]?.ten_mon}}_12">
+                              <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                                <div class="col-sm-4">
+                                  <label class="require">Ngữ văn</label>
+                                </div>
+                                <div class="col-sm-8">
+                                  <input type="number" class="form-control" id="nguvan12"
+                                    [(ngModel)]="ds_diem_so_lop_12.ngu_van" name="diem_so" placeholder="Điểm số"
+                                    formControlName="diem_ngu_van_12" [pattern]="diem_so_pattern">
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="form-group row diem" id="{{ds_mon[5]?.ten_mon}}_12">
+                              <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                                <div class="col-sm-4">
+                                  <label class="require">Lịch sử</label>
+                                </div>
+                                <div class="col-sm-8">
+                                  <input type="number" class="form-control" id="lichsu12"
+                                    [(ngModel)]="ds_diem_so_lop_12.lich_su" name="diem_so" placeholder="Điểm số"
+                                    formControlName="diem_lich_su_12" [pattern]="diem_so_pattern">
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+
+                          <div class="col-sm-6">
+
+                            <div class="form-group row diem" id="{{ds_mon[6]?.ten_mon}}_12">
+                              <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                                <div class="col-sm-4">
+                                  <label class="require">Địa lý</label>
+                                </div>
+                                <div class="col-sm-8">
+                                  <input type="number" class="form-control" id="diali12"
+                                    [(ngModel)]="ds_diem_so_lop_12.dia_li" name="diem_so" placeholder="Điểm số"
+                                    formControlName="diem_dia_li_12" [pattern]="diem_so_pattern">
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="form-group row diem" id="{{ds_mon[7]?.ten_mon}}_12">
+                              <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                                <div class="col-sm-4">
+                                  <label class="require">Tiếng Anh</label>
+                                </div>
+                                <div class="col-sm-8">
+                                  <input type="number" class="form-control " id="tienganh12"
+                                    [(ngModel)]="ds_diem_so_lop_12.tieng_anh" name="diem_so" placeholder="Điểm số"
+                                    formControlName="diem_tieng_anh_12" [pattern]="diem_so_pattern">
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="form-group row diem" id="{{ds_mon[8]?.ten_mon}}_12">
+                              <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                                <div class="col-sm-4 pr-0">
+                                  <label class="require">Tiếng Pháp</label>
+                                </div>
+                                <div class="col-sm-8">
+                                  <input type="number" class="form-control " id="tiengphap12"
+                                    [(ngModel)]="ds_diem_so_lop_12.tieng_phap" name="diem_so" placeholder="Điểm số"
+                                    formControlName="diem_tieng_phap_12" [pattern]="diem_so_pattern">
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="form-group row diem" id="{{ds_mon[9]?.ten_mon}}_12">
+                              <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                                <div class="col-sm-4">
+                                  <label class="require">GDCD</label>
+                                </div>
+                                <div class="col-sm-8">
+                                  <input type="number" class="form-control" id="gdcd12"
+                                    [(ngModel)]="ds_diem_so_lop_12.gdcd" name="diem_so" placeholder="Điểm số"
+                                    formControlName="diem_gdcd_12" [pattern]="diem_so_pattern">
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="form-group row diem" id="{{ds_mon[10]?.ten_mon}}_12">
+                              <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                                <div class="col-sm-4">
+                                  <label class="require">TDTT</label>
+                                </div>
+                                <div class="col-sm-8">
+                                  <input type="number" class="form-control" id="tdtt12"
+                                    [(ngModel)]="ds_diem_so_lop_12.tdtt" name="diem_so" placeholder="Điểm số"
+                                    formControlName="diem_tdtt_12" [pattern]="diem_so_pattern">
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="form-group row">
+                              <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                                <div class="col-sm-4">
+                                  <label class="require">Học lực</label>
+                                </div>
+                                <div class="col-sm-8">
+                                  <select class="form-control form-control-sm border-non setwidth" id="hocluc12"
+                                    [(ngModel)]="ds_diem_so_lop_12._id_hoc_luc" name="hoc_luc"
+                                    formControlName="hoc_luc_12">
+                                    <option class="item" disabled value="">-- Học lực --</option>
+                                    <option class="item" value="{{hl?._id}}" *ngFor="let hl of ds_hoc_luc">
+                                      {{hl?.hoc_luc}}</option>
+                                  </select>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="row">
+                          <div class="col-sm-6"></div>
+                          <div class="col-sm-6">
+                            <div class="row">
+                              <div class="col-sm-4"></div>
+                              <div class="col-sm-8 d-flex justify-content-center">
+                                <button type="button" id="savebutton" class="btn btn-secondary"
+                                  (click)="luu_diem_lop_12()">Lưu</button>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </nb-tab>
+                    </nb-tabset>
+
+                  </nb-card-body>
+                </nb-card>
+              </div>
+            </div>
+          </div>
+        </div>
+      </form>
+    </div>
+
+    <div class="modal-footer">
+      <button type="button" class="btn btn-secondary" (click)="modal.close('Close')">Hủy</button>
+    </div>
+  </ng-template>
+
+</div> -->
+
+<!-- Dialog thông tin chi tiết học bạ -->
+<!-- <div class="container" id="modals">
+  <ng-template #hoc_ba_chi_tiet let-modal>
+    <div class="modal-header">
+      <h4 class="modal-title" id="hoc_ba_chi_tiet">Học Bạ Chi Tiết</h4>
+    </div>
+
+
+    <div class="modal-body">
+
+      <form class="form-horizontal" [formGroup]="form_nhap_diem">
+        <div class="form-group row">
+          <div class="col-sm-4">
+            <label class="require">Ngành đăng ký</label>
+          </div>
+          <div class="col-sm-8">
+            <select id="nganh_xet_tuyen" [(ngModel)]="nganh_xet_tuyen" name="nganh_xet_tuyen"
+              class="form-control form-control-sm border-non setwidth " (change)="chon_nganh_xet_tuyen()"
+              formControlName="nganh_xet_tuyen">
+              <option class="item" selected disabled value="">-- Ngành đăng ký --</option>
+              <option class="item" *ngFor="let each of ds_nganh_xet_tuyen" [value]="each.ten_nganh">
+                {{each.ten_nganh}}</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="form-group row">
+          <div class="col-sm-4">
+            <label class="require">Chuyên ngành</label>
+          </div>
+          <div class="col-sm-8">
+            <select id="chuyen_nganh" [(ngModel)]="chuyen_nganh" name="chuyen_nganh"
+              class="form-control form-control-sm border-non setwidth " (change)="chon_chuyen_nganh()"
+              formControlName="chuyen_nganh">
+              <option class="item" selected disabled value="">-- Chuyên ngành --</option>
+              <option class="item" *ngFor="let each of ds_chuyen_nganh" [value]="each.ten_chuyen_nganh">
+                {{each.ten_chuyen_nganh}}</option>
+            </select>
+          </div>
+        </div>
+        <div class="form-group row">
+          <div class="col-sm-4">
+            <label class="require">Điểm tốt nghiệp toàn khóa</label>
+          </div>
+          <div class="col-sm-8">
+            <input type="number" class="form-control" id="toan11" [(ngModel)]="diem_tot_nghiep" name="diem_to_nghiep"
+              placeholder="Điểm tốt nghiệp toàn khóa" formControlName="diem_tot_nghiep">
+          </div>
+
+        </div>
+
+        <nb-card>
+          <nb-card-body>
+            <nb-tabset fullWidth (changeTab)="chuyen_tab($event)">
+              <nb-tab tabTitle="10">
+                <div class="row">
+                  <h6>Nhập điểm lớp 10</h6>
+                </div>
+                <div class="row mt-2">
+                  <div class="col-sm-6">
+
+                    <div class="form-group row" *ngIf="ds_diem_so_lop_10?.toan > 0" id="{{ds_mon[0]?.ten_mon}}_10">
+                      <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                        <div class="col-sm-4">
+                          <label class="require">Toán</label>
+                        </div>
+                        <div class="col-sm-8">
+                          <input type="number" class="form-control" id="toan10" [(ngModel)]="ds_diem_so_lop_10.toan"
+                            name="diem_so" placeholder="Điểm số" formControlName="diem_toan_10"
+                            [pattern]="diem_so_pattern">
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="form-group row" *ngIf="ds_diem_so_lop_10?.vat_li > 0" id="{{ds_mon[1]?.ten_mon}}_10">
+                      <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                        <div class="col-sm-4">
+                          <label class="require">Vật lý</label>
+                        </div>
+                        <div class="col-sm-8">
+                          <input type="number" class="form-control" id="vatli10" name="diem_so"
+                            [(ngModel)]="ds_diem_so_lop_10.vat_li" placeholder="Điểm số"
+                            formControlName="diem_vat_li_10" [pattern]="diem_so_pattern">
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="form-group row" *ngIf="ds_diem_so_lop_10?.hoa_hoc > 0" id="{{ds_mon[2]?.ten_mon}}_10">
+                      <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                        <div class="col-sm-4">
+                          <label class="require">Hóa học</label>
+                        </div>
+                        <div class="col-sm-8">
+                          <input type="number" class="form-control " id="hoahoc10" name="diem_so"
+                            [(ngModel)]="ds_diem_so_lop_10.hoa_hoc" placeholder="Điểm số"
+                            formControlName="diem_hoa_hoc_10" [pattern]="diem_so_pattern">
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="form-group row" *ngIf="ds_diem_so_lop_10?.sinh_hoc > 0" id="{{ds_mon[3]?.ten_mon}}_10">
+                      <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                        <div class="col-sm-4">
+                          <label class="require">Sinh học</label>
+                        </div>
+                        <div class="col-sm-8">
+                          <input type="number" class="form-control" id="sinhhoc10" name="diem_so"
+                            [(ngModel)]="ds_diem_so_lop_10.sinh_hoc" placeholder="Điểm số"
+                            formControlName="diem_sinh_hoc_10" [pattern]="diem_so_pattern">
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="form-group row" *ngIf="ds_diem_so_lop_10?.ngu_van > 0" id="{{ds_mon[4]?.ten_mon}}_10">
+                      <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                        <div class="col-sm-4">
+                          <label class="require">Ngữ văn</label>
+                        </div>
+                        <div class="col-sm-8">
+                          <input type="number" class="form-control" id="nguvan10" name="diem_so"
+                            [(ngModel)]="ds_diem_so_lop_10.ngu_van" placeholder="Điểm số"
+                            formControlName="diem_ngu_van_10" [pattern]="diem_so_pattern">
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="form-group row" *ngIf="ds_diem_so_lop_10?.lich_su > 0" id="{{ds_mon[5]?.ten_mon}}_10">
+                      <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                        <div class="col-sm-4">
+                          <label class="require">Lịch sử</label>
+                        </div>
+                        <div class="col-sm-8">
+                          <input type="number" class="form-control" id="lichsu10" name="diem_so"
+                            [(ngModel)]="ds_diem_so_lop_10.lich_su" placeholder="Điểm số"
+                            formControlName="diem_lich_su_10" [pattern]="diem_so_pattern">
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-sm-6">
+                    <div class="form-group row" *ngIf="ds_diem_so_lop_10?.dia_li > 0" id="{{ds_mon[6]?.ten_mon}}_10">
+                      <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                        <div class="col-sm-4">
+                          <label class="require">Địa lý</label>
+                        </div>
+                        <div class="col-sm-8">
+                          <input type="number" class="form-control " id="diali10" [(ngModel)]="ds_diem_so_lop_10.dia_li"
+                            name="diem_so" placeholder="Điểm số" formControlName="diem_dia_li_10"
+                            [pattern]="diem_so_pattern">
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="form-group row" *ngIf="ds_diem_so_lop_10?.tieng_anh > 0" id="{{ds_mon[7]?.ten_mon}}_10">
+                      <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                        <div class="col-sm-4">
+                          <label class="require">Tiếng Anh</label>
+                        </div>
+                        <div class="col-sm-8">
+                          <input type="number" class="form-control" id="tienganh10"
+                            [(ngModel)]="ds_diem_so_lop_10.tieng_anh" name="diem_so" placeholder="Điểm số"
+                            formControlName="diem_tieng_anh_10" [pattern]="diem_so_pattern">
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="form-group row" *ngIf="ds_diem_so_lop_10?.tieng_phap > 0"
+                      id="{{ds_mon[8]?.ten_mon}}_10">
+                      <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                        <div class="col-sm-4 pr-0">
+                          <label class="require">Tiếng Pháp</label>
+                        </div>
+                        <div class="col-sm-8">
+                          <input type="number" class="form-control " id="tiengphap10"
+                            [(ngModel)]="ds_diem_so_lop_10.tieng_phap" name="diem_so" placeholder="Điểm số"
+                            formControlName="diem_tieng_phap_10" [pattern]="diem_so_pattern">
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="form-group row" *ngIf="ds_diem_so_lop_10?.gdcd > 0" id="{{ds_mon[9]?.ten_mon}}_10">
+                      <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                        <div class="col-sm-4">
+                          <label class="require">GDCD</label>
+                        </div>
+                        <div class="col-sm-8">
+                          <input type="number" class="form-control " id="gdcd10" [(ngModel)]="ds_diem_so_lop_10.gdcd"
+                            name="diem_so" placeholder="Điểm số" formControlName="diem_gdcd_10"
+                            [pattern]="diem_so_pattern">
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="form-group row" *ngIf="ds_diem_so_lop_10?.tdtt > 0" id="{{ds_mon[10]?.ten_mon}}_10">
+                      <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                        <div class="col-sm-4">
+                          <label class="require">TDTT</label>
+                        </div>
+                        <div class="col-sm-8">
+                          <input type="number" class="form-control" id="tdtt10" [(ngModel)]="ds_diem_so_lop_10.tdtt"
+                            name="diem_so" placeholder="Điểm số" formControlName="diem_tdtt_10"
+                            [pattern]="diem_so_pattern">
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="form-group row">
+                      <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                        <div class="col-sm-4">
+                          <label class="require">Học lực</label>
+                        </div>
+                        <div class="col-sm-8">
+                          <select class="form-control form-control-sm border-non setwidth" id="hocluc10"
+                            [(ngModel)]="ds_diem_so_lop_10._id_hoc_luc" name="hoc_luc" formControlName="hoc_luc_10">
+                            <option class="item" disabled value="">-- Học lực --</option>
+                            <option class="item" value="{{hl?._id}}" *ngFor="let hl of ds_hoc_luc">{{hl?.hoc_luc}}
+                            </option>
+                          </select>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-sm-6"></div>
+                  <div class="col-sm-6">
+                    <div class="row">
+                      <div class="col-sm-4"></div>
+                      <div class="col-sm-8 d-flex justify-content-center">
+                        <button type="button" id="savebutton_chi_tiet" class="btn btn-secondary"
+                          (click)="luu_diem_lop_10()">Lưu</button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </nb-tab>
+
+
+              <nb-tab tabTitle="11">
+                <div class="row">
+                  <h6>Nhập điểm lớp 11</h6>
+                </div>
+                <div class="row mt-2">
+                  <div class="col-sm-6">
+                    <div class="form-group row" *ngIf="ds_diem_so_lop_11?.toan > 0" id="{{ds_mon[0]?.ten_mon}}_11">
+                      <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                        <div class="col-sm-4">
+                          <label class="require">Toán</label>
+                        </div>
+                        <div class="col-sm-8">
+                          <input type="number" class="form-control" id="toan11" [(ngModel)]="ds_diem_so_lop_11.toan"
+                            name="diem_so" placeholder="Điểm số" formControlName="diem_toan_11"
+                            [pattern]="diem_so_pattern">
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="form-group row" *ngIf="ds_diem_so_lop_11?.vat_li > 0" id="{{ds_mon[1]?.ten_mon}}_11">
+                      <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                        <div class="col-sm-4">
+                          <label class="require">Vật lý</label>
+                        </div>
+                        <div class="col-sm-8">
+                          <input type="number" class="form-control" id="vatli11" [(ngModel)]="ds_diem_so_lop_11.vat_li"
+                            name="diem_so" placeholder="Điểm số" formControlName="diem_vat_li_11"
+                            [pattern]="diem_so_pattern">
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="form-group row" *ngIf="ds_diem_so_lop_11?.hoa_hoc > 0" id="{{ds_mon[2]?.ten_mon}}_11">
+                      <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                        <div class="col-sm-4">
+                          <label class="require">Hóa học</label>
+                        </div>
+                        <div class="col-sm-8">
+                          <input type="number" class="form-control" id="hoahoc11"
+                            [(ngModel)]="ds_diem_so_lop_11.hoa_hoc" name="diem_so" placeholder="Điểm số"
+                            formControlName="diem_hoa_hoc_11" [pattern]="diem_so_pattern">
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="form-group row" *ngIf="ds_diem_so_lop_11?.sinh_hoc > 0" id="{{ds_mon[3]?.ten_mon}}_11">
+                      <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                        <div class="col-sm-4">
+                          <label class="require">Sinh học</label>
+                        </div>
+                        <div class="col-sm-8">
+                          <input type="number" class="form-control" id="sinhhoc11"
+                            [(ngModel)]="ds_diem_so_lop_11.sinh_hoc" name="diem_so" placeholder="Điểm số"
+                            formControlName="diem_sinh_hoc_11" [pattern]="diem_so_pattern">
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="form-group row" *ngIf="ds_diem_so_lop_11?.ngu_van > 0" id="{{ds_mon[4]?.ten_mon}}_11">
+                      <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                        <div class="col-sm-4">
+                          <label class="require">Ngữ văn</label>
+                        </div>
+                        <div class="col-sm-8">
+                          <input type="number" class="form-control" id="nguvan11"
+                            [(ngModel)]="ds_diem_so_lop_11.ngu_van" name="diem_so" placeholder="Điểm số"
+                            formControlName="diem_ngu_van_11" [pattern]="diem_so_pattern">
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="form-group row" *ngIf="ds_diem_so_lop_11?.lich_su > 0" id="{{ds_mon[5]?.ten_mon}}_11">
+                      <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                        <div class="col-sm-4">
+                          <label class="require">Lịch sử</label>
+                        </div>
+                        <div class="col-sm-8">
+                          <input type="number" class="form-control" id="lichsu11"
+                            [(ngModel)]="ds_diem_so_lop_11.lich_su" name="diem_so" placeholder="Điểm số"
+                            formControlName="diem_lich_su_11" [pattern]="diem_so_pattern">
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-sm-6">
+
+                    <div class="form-group row" *ngIf="ds_diem_so_lop_11?.dia_li > 0" id="{{ds_mon[6]?.ten_mon}}_11">
+                      <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                        <div class="col-sm-4">
+                          <label class="require">Địa lý</label>
+                        </div>
+                        <div class="col-sm-8">
+                          <input type="number" class="form-control" id="diali11" [(ngModel)]="ds_diem_so_lop_11.dia_li"
+                            name="diem_so" placeholder="Điểm số" formControlName="diem_dia_li_11"
+                            [pattern]="diem_so_pattern">
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="form-group row" *ngIf="ds_diem_so_lop_11?.tieng_anh > 0" id="{{ds_mon[7]?.ten_mon}}_11">
+                      <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                        <div class="col-sm-4">
+                          <label class="require">Tiếng Anh</label>
+                        </div>
+                        <div class="col-sm-8">
+                          <input type="number" class="form-control" id="tienganh11"
+                            [(ngModel)]="ds_diem_so_lop_11.tieng_anh" name="diem_so" placeholder="Điểm số"
+                            formControlName="diem_tieng_anh_11" [pattern]="diem_so_pattern">
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="form-group row" *ngIf="ds_diem_so_lop_11?.tieng_phap > 0"
+                      id="{{ds_mon[8]?.ten_mon}}_11">
+                      <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                        <div class="col-sm-4 pr-0">
+                          <label class="require">Tiếng Pháp</label>
+                        </div>
+                        <div class="col-sm-8">
+                          <input type="number" class="form-control" id="tiengphap11"
+                            [(ngModel)]="ds_diem_so_lop_11.tieng_phap" name="diem_so" placeholder="Điểm số"
+                            formControlName="diem_tieng_phap_11" [pattern]="diem_so_pattern">
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="form-group row" *ngIf="ds_diem_so_lop_11?.gdcd > 0" id="{{ds_mon[9]?.ten_mon}}_11">
+                      <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                        <div class="col-sm-4">
+                          <label class="require">GDCD</label>
+                        </div>
+                        <div class="col-sm-8">
+                          <input type="number" class="form-control" id="gdcd11" [(ngModel)]="ds_diem_so_lop_11.gdcd"
+                            name="diem_gdcd" placeholder="Điểm số" formControlName="diem_gdcd_11"
+                            [pattern]="diem_so_pattern">
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="form-group row" *ngIf="ds_diem_so_lop_11?.tdtt > 0" id="{{ds_mon[10]?.ten_mon}}_11">
+                      <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                        <div class="col-sm-4">
+                          <label class="require">TDTT</label>
+                        </div>
+                        <div class="col-sm-8">
+                          <input type="number" class="form-control" id="tdtt11" [(ngModel)]="ds_diem_so_lop_11.tdtt"
+                            name="diem_so" placeholder="Điểm số" formControlName="diem_tdtt_11"
+                            [pattern]="diem_so_pattern">
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="form-group row">
+                      <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                        <div class="col-sm-4">
+                          <label class="require">Học lực</label>
+                        </div>
+                        <div class="col-sm-8">
+                          <select class="form-control form-control-sm border-non setwidth" id="hocluc11"
+                            [(ngModel)]="ds_diem_so_lop_11._id_hoc_luc" name="hoc_luc" formControlName="hoc_luc_11">
+                            <option class="item" disabled value="">-- Học lực --</option>
+                            <option class="item" value="{{hl?._id}}" *ngFor="let hl of ds_hoc_luc">{{hl?.hoc_luc}}
+                            </option>
+                          </select>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-sm-6"></div>
+                  <div class="col-sm-6">
+                    <div class="row">
+                      <div class="col-sm-4"></div>
+                      <div class="col-sm-8 d-flex justify-content-center">
+                        <button type="button" id="savebutton_chi_tiet" class="btn btn-secondary"
+                          (click)="luu_diem_lop_11()">Lưu</button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </nb-tab>
+
+
+              <nb-tab tabTitle="12">
+                <div class="row">
+                  <h6>Nhập điểm lớp 12</h6>
+                </div>
+
+                <div class="row mt-2">
+                  <div class="col-sm-6">
+                    <div class="form-group row" *ngIf="ds_diem_so_lop_12?.toan > 0" id="{{ds_mon[0]?.ten_mon}}_12">
+                      <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                        <div class="col-sm-4">
+                          <label class="require">Toán</label>
+                        </div>
+                        <div class="col-sm-8">
+                          <input type="number" class="form-control" id="toan12" [(ngModel)]="ds_diem_so_lop_12.toan"
+                            name="diem_so" placeholder="Điểm số" formControlName="diem_toan_12"
+                            [pattern]="diem_so_pattern">
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="form-group row" *ngIf="ds_diem_so_lop_12?.vat_li > 0" id="{{ds_mon[1]?.ten_mon}}_12">
+                      <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                        <div class="col-sm-4">
+                          <label class="require">Vật lý</label>
+                        </div>
+                        <div class="col-sm-8">
+                          <input type="number" class="form-control" id="vatli12" [(ngModel)]="ds_diem_so_lop_12.vat_li"
+                            name="diem_so" placeholder="Điểm số" formControlName="diem_vat_li_12"
+                            [pattern]="diem_so_pattern">
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="form-group row" *ngIf="ds_diem_so_lop_12?.hoa_hoc > 0" id="{{ds_mon[2]?.ten_mon}}_12">
+                      <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                        <div class="col-sm-4">
+                          <label class="require">Hóa học</label>
+                        </div>
+                        <div class="col-sm-8">
+                          <input type="number" class="form-control " id="hoahoc12"
+                            [(ngModel)]="ds_diem_so_lop_12.hoa_hoc" name="diem_so" placeholder="Điểm số"
+                            formControlName="diem_hoa_hoc_12" [pattern]="diem_so_pattern">
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="form-group row" *ngIf="ds_diem_so_lop_12?.sinh_hoc > 0" id="{{ds_mon[3]?.ten_mon}}_12">
+                      <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                        <div class="col-sm-4">
+                          <label class="require">Sinh học</label>
+                        </div>
+                        <div class="col-sm-8">
+                          <input type="number" class="form-control" id="sinhhoc12"
+                            [(ngModel)]="ds_diem_so_lop_12.sinh_hoc" name="diem_so" placeholder="Điểm số"
+                            formControlName="diem_sinh_hoc_12" [pattern]="diem_so_pattern">
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="form-group row" *ngIf="ds_diem_so_lop_12?.ngu_van > 0" id="{{ds_mon[4]?.ten_mon}}_12">
+                      <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                        <div class="col-sm-4">
+                          <label class="require">Ngữ văn</label>
+                        </div>
+                        <div class="col-sm-8">
+                          <input type="number" class="form-control" id="nguvan12"
+                            [(ngModel)]="ds_diem_so_lop_12.ngu_van" name="diem_so" placeholder="Điểm số"
+                            formControlName="diem_ngu_van_12" [pattern]="diem_so_pattern">
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="form-group row" *ngIf="ds_diem_so_lop_12?.lich_su > 0" id="{{ds_mon[5]?.ten_mon}}_12">
+                      <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                        <div class="col-sm-4">
+                          <label class="require">Lịch sử</label>
+                        </div>
+                        <div class="col-sm-8">
+                          <input type="number" class="form-control" id="lichsu12"
+                            [(ngModel)]="ds_diem_so_lop_12.lich_su" name="diem_so" placeholder="Điểm số"
+                            formControlName="diem_lich_su_12" [pattern]="diem_so_pattern">
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-sm-6">
+
+                    <div class="form-group row" *ngIf="ds_diem_so_lop_12?.dia_li > 0" id="{{ds_mon[6]?.ten_mon}}_12">
+                      <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                        <div class="col-sm-4">
+                          <label class="require">Địa lý</label>
+                        </div>
+                        <div class="col-sm-8">
+                          <input type="number" class="form-control" id="diali12" [(ngModel)]="ds_diem_so_lop_12.dia_li"
+                            name="diem_so" placeholder="Điểm số" formControlName="diem_dia_li_12"
+                            [pattern]="diem_so_pattern">
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="form-group row" *ngIf="ds_diem_so_lop_12?.tieng_anh > 0" id="{{ds_mon[7]?.ten_mon}}_12">
+                      <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                        <div class="col-sm-4">
+                          <label class="require">Tiếng Anh</label>
+                        </div>
+                        <div class="col-sm-8">
+                          <input type="number" class="form-control " id="tienganh12"
+                            [(ngModel)]="ds_diem_so_lop_12.tieng_anh" name="diem_so" placeholder="Điểm số"
+                            formControlName="diem_tieng_anh_12" [pattern]="diem_so_pattern">
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="form-group row" *ngIf="ds_diem_so_lop_12?.tieng_phap > 0"
+                      id="{{ds_mon[8]?.ten_mon}}_12">
+                      <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                        <div class="col-sm-4 pr-0">
+                          <label class="require">Tiếng Pháp</label>
+                        </div>
+                        <div class="col-sm-8">
+                          <input type="number" class="form-control " id="tiengphap12"
+                            [(ngModel)]="ds_diem_so_lop_12.tieng_phap" name="diem_so" placeholder="Điểm số"
+                            formControlName="diem_tieng_phap_12" [pattern]="diem_so_pattern">
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="form-group row" *ngIf="ds_diem_so_lop_12?.gdcd > 0" id="{{ds_mon[9]?.ten_mon}}_12">
+                      <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                        <div class="col-sm-4">
+                          <label class="require">GDCD</label>
+                        </div>
+                        <div class="col-sm-8">
+                          <input type="number" class="form-control" id="gdcd12" [(ngModel)]="ds_diem_so_lop_12.gdcd"
+                            name="diem_so" placeholder="Điểm số" formControlName="diem_gdcd_12"
+                            [pattern]="diem_so_pattern">
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="form-group row" *ngIf="ds_diem_so_lop_12?.tdtt > 0" id="{{ds_mon[10]?.ten_mon}}_12">
+                      <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                        <div class="col-sm-4">
+                          <label class="require">TDTT</label>
+                        </div>
+                        <div class="col-sm-8">
+                          <input type="number" class="form-control" id="tdtt12" [(ngModel)]="ds_diem_so_lop_12.tdtt"
+                            name="diem_so" placeholder="Điểm số" formControlName="diem_tdtt_12"
+                            [pattern]="diem_so_pattern">
+                        </div>
+                      </div>
+                    </div>
+
+                    <div class="form-group row">
+                      <div class="col-sm-12 d-flex flex-row bd-highlight mb-3 p-0">
+                        <div class="col-sm-4">
+                          <label class="require">Học lực</label>
+                        </div>
+                        <div class="col-sm-8">
+                          <select class="form-control form-control-sm border-non setwidth" id="hocluc12"
+                            [(ngModel)]="ds_diem_so_lop_12._id_hoc_luc" name="hoc_luc" formControlName="hoc_luc_12">
+                            <option class="item" disabled value="">-- Học lực --</option>
+                            <option class="item" value="{{hl?._id}}" *ngFor="let hl of ds_hoc_luc">{{hl?.hoc_luc}}
+                            </option>
+                          </select>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-sm-6"></div>
+                  <div class="col-sm-6">
+                    <div class="row">
+                      <div class="col-sm-4"></div>
+                      <div class="col-sm-8 d-flex justify-content-center">
+                        <button type="button" id="savebutton_chi_tiet" class="btn btn-secondary"
+                          (click)="luu_diem_lop_12()">Lưu</button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </nb-tab>
+            </nb-tabset>
+
+          </nb-card-body>
+        </nb-card>
+      </form>
+    </div>
+
+    <div class="modal-footer">
+      <button type="button" id="control_hoc_ba" class="btn btn-secondary" (click)="mo_chinh_sua_diem_hoc_ba()"> Chỉnh
+        sửa </button>
+    </div>
+  </ng-template>
+
+</div> -->
+
+<!-- Dialog xác nhận xóa thí sinh -->
+<!-- <div class="container" id="modals">
+  <ng-template #xoa_thi_sinh let-modal>
+    <div class="modal-header">
+      <h4 class="modal-title" id="modal-basic-title">XÓA THÍ SINH</h4>
+    </div>
+
+    <div class="modal-body">
+      <p>Bạn có thật sự muốn xóa thí sinh này?</p>
+    </div>
+
+    <div class="modal-footer">
+      <button type="button" id="deletebutton" class="btn btn-secondary" (click)="xoa_ts()">Xác nhận</button>
+      <button type="button" class="btn btn-secondary" (click)="modal.close('Close')">Hủy</button>
+    </div>
+  </ng-template>
+
+</div> -->
+
+<!-- Dialog xem kết quả -->
+<div class="container" id="modals">
+  <ng-template #ket_qua let-modal>
+    <div class="modal-header">
+      <h4 class="modal-title" id="ket_qua_title">Xem Kết Quả</h4>
+    </div>
+
+    <div class="modal-body">
+      <p>Nơi này để xem kết quả</p>
+    </div>
+
+    <div class="modal-footer">
+      <button type="button" class="btn btn-secondary" (click)="modal.close('Close')">Hủy</button>
+    </div>
+  </ng-template>
+
+</div>

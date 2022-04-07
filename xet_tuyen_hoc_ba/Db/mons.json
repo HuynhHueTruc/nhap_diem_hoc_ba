@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "6155e2b73697fad9dfe8b449"
+  },
+  "ten_mon": "Toán"
+},{
+  "_id": {
+    "$oid": "6155e2d23697fad9dfe8b44a"
+  },
+  "ten_mon": "Vật lí"
+},{
+  "_id": {
+    "$oid": "6155e2e93697fad9dfe8b44b"
+  },
+  "ten_mon": "Hóa học"
+},{
+  "_id": {
+    "$oid": "6155e2f83697fad9dfe8b44c"
+  },
+  "ten_mon": "Sinh học"
+},{
+  "_id": {
+    "$oid": "6155e3193697fad9dfe8b44e"
+  },
+  "ten_mon": "Ngữ văn"
+},{
+  "_id": {
+    "$oid": "6155e3233697fad9dfe8b44f"
+  },
+  "ten_mon": "Lịch sử"
+},{
+  "_id": {
+    "$oid": "6155e32f3697fad9dfe8b450"
+  },
+  "ten_mon": "Địa lí"
+},{
+  "_id": {
+    "$oid": "6155e3383697fad9dfe8b451"
+  },
+  "ten_mon": "Tiếng Anh"
+},{
+  "_id": {
+    "$oid": "6155e34a3697fad9dfe8b452"
+  },
+  "ten_mon": "Tiếng Pháp"
+},{
+  "_id": {
+    "$oid": "6155e35c3697fad9dfe8b453"
+  },
+  "ten_mon": "GDCD"
+},{
+  "_id": {
+    "$oid": "6155e3733697fad9dfe8b455"
+  },
+  "ten_mon": "Thể dục thể thao"
+},{
+  "_id": {
+    "$oid": "6155e37b3697fad9dfe8b456"
+  },
+  "ten_mon": "GDQP-AN"
+}]

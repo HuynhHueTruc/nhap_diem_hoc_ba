@@ -1,0 +1,8438 @@
+[{
+  "_id": {
+    "$oid": "6165aa53c8f67628cc49213b"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165aa53c8f67628cc49213b"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "61697d42940b3c171cc084df"
+      },
+      "toan": 5.3,
+      "vat_li": 6.2,
+      "hoa_hoc": 6.7,
+      "ngu_van": 8.2,
+      "lich_su": 7.9,
+      "dia_li": 6.9,
+      "tieng_anh": 8.4,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "61697d42940b3c171cc084e0"
+      },
+      "toan": 5.9,
+      "vat_li": 6.8,
+      "hoa_hoc": 5.3,
+      "ngu_van": 7.9,
+      "lich_su": 7.5,
+      "dia_li": 6.8,
+      "tieng_anh": 5.5,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "61697d42940b3c171cc084e1"
+      },
+      "toan": 6.5,
+      "vat_li": 7.9,
+      "hoa_hoc": 6.3,
+      "ngu_van": 8.2,
+      "lich_su": 8.6,
+      "dia_li": 8.7,
+      "tieng_anh": 7.7,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 3.07,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165ac5bc88deafecd55174e"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165ac5bc88deafecd55174b"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616af715f32ef23324bc285b"
+      },
+      "toan": 6.2,
+      "hoa_hoc": 6.7,
+      "sinh_hoc": 6.3,
+      "tieng_anh": 3.6,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616af77ef32ef23324bc286e"
+      },
+      "toan": 7,
+      "hoa_hoc": 6.4,
+      "sinh_hoc": 7.4,
+      "tieng_anh": 5.2,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616af7acf32ef23324bc287a"
+      },
+      "toan": 7.5,
+      "hoa_hoc": 6.8,
+      "sinh_hoc": 7.2,
+      "tieng_anh": 6.1,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.76,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165acffc88deafecd551752"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165acffc88deafecd55174f"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "6166357092f9f39db33d9799"
+      },
+      "toan": 0,
+      "vat_li": 0,
+      "hoa_hoc": 0,
+      "sinh_hoc": 0,
+      "ngu_van": 0,
+      "lich_su": 0,
+      "dia_li": 0,
+      "tieng_anh": 0,
+      "tieng_phap": 0,
+      "gdcd": 0,
+      "tdtt": 0,
+      "_id_hoc_luc": ""
+    },
+    {
+      "_id": {
+        "$oid": "6166357792f9f39db33d979a"
+      },
+      "toan": 0,
+      "vat_li": 0,
+      "hoa_hoc": 0,
+      "sinh_hoc": 0,
+      "ngu_van": 0,
+      "lich_su": 0,
+      "dia_li": 0,
+      "tieng_anh": 0,
+      "tieng_phap": 0,
+      "gdcd": 0,
+      "tdtt": 0,
+      "_id_hoc_luc": ""
+    },
+    {
+      "_id": {
+        "$oid": "6166357c92f9f39db33d979b"
+      },
+      "toan": 0,
+      "vat_li": 0,
+      "hoa_hoc": 0,
+      "sinh_hoc": 0,
+      "ngu_van": 0,
+      "lich_su": 0,
+      "dia_li": 0,
+      "tieng_anh": 0,
+      "tieng_phap": 0,
+      "gdcd": 0,
+      "tdtt": 0,
+      "_id_hoc_luc": ""
+    }
+  ],
+  "diem_tot_nghiep": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165ad4ac88deafecd551756"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165ad49c88deafecd551753"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "61698782940b3c171cc085ab"
+      },
+      "toan": 5,
+      "hoa_hoc": 3.1,
+      "sinh_hoc": 6,
+      "tieng_anh": 5.6,
+      "_id_hoc_luc": "615d0ac6e319086fdb114ad9"
+    },
+    {
+      "_id": {
+        "$oid": "61698782940b3c171cc085ac"
+      },
+      "toan": 4.5,
+      "hoa_hoc": 3.9,
+      "sinh_hoc": 6.3,
+      "tieng_anh": 6.1,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "61698782940b3c171cc085ad"
+      },
+      "toan": 7.3,
+      "hoa_hoc": 6.1,
+      "sinh_hoc": 7.3,
+      "tieng_anh": 5.6,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.61,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165addfc88deafecd55175a"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165addfc88deafecd551757"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "6169883c940b3c171cc085c9"
+      },
+      "toan": 8,
+      "ngu_van": 7.3,
+      "lich_su": 8.4,
+      "dia_li": 8.1,
+      "tieng_anh": 7.5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "6169883c940b3c171cc085ca"
+      },
+      "toan": 8.2,
+      "ngu_van": 7.6,
+      "lich_su": 8.7,
+      "dia_li": 8.4,
+      "tieng_anh": 7.7,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "6169883c940b3c171cc085cb"
+      },
+      "toan": 8.5,
+      "ngu_van": 8.5,
+      "lich_su": 7,
+      "dia_li": 8.3,
+      "tieng_anh": 7.3,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    }
+  ],
+  "diem_tot_nghiep": 3.22,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165ae3fc88deafecd55175e"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165ae3fc88deafecd55175b"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ada592eaa231698912bf7"
+      },
+      "toan": 6.5,
+      "vat_li": 5.3,
+      "hoa_hoc": 6.1,
+      "sinh_hoc": 6.6,
+      "tieng_anh": 3.7,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ada592eaa231698912bf8"
+      },
+      "toan": 4.9,
+      "vat_li": 5.8,
+      "hoa_hoc": 5.4,
+      "sinh_hoc": 6.8,
+      "tieng_anh": 5.6,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ada592eaa231698912bf9"
+      },
+      "toan": 6.8,
+      "vat_li": 6.5,
+      "hoa_hoc": 6.8,
+      "sinh_hoc": 6.8,
+      "tieng_anh": 6.5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.82,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165af4cc88deafecd551762"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165af4cc88deafecd55175f"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616988c8940b3c171cc085e0"
+      },
+      "toan": 5.9,
+      "vat_li": 5.6,
+      "hoa_hoc": 7,
+      "ngu_van": 6.4,
+      "lich_su": 7.5,
+      "dia_li": 6.2,
+      "tieng_anh": 5.9,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616988c8940b3c171cc085e1"
+      },
+      "toan": 4.8,
+      "vat_li": 6.6,
+      "hoa_hoc": 6.4,
+      "ngu_van": 5.4,
+      "lich_su": 8.7,
+      "dia_li": 6.5,
+      "tieng_anh": 5.5,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616988c8940b3c171cc085e2"
+      },
+      "toan": 6.2,
+      "vat_li": 6.8,
+      "hoa_hoc": 6.5,
+      "ngu_van": 7,
+      "lich_su": 7.6,
+      "dia_li": 6.9,
+      "tieng_anh": 6.1,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.85,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165afa0c88deafecd551766"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165afa0c88deafecd551763"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "6169898f940b3c171cc085fe"
+      },
+      "toan": 7.1,
+      "vat_li": 7.2,
+      "hoa_hoc": 6.5,
+      "ngu_van": 6.8,
+      "lich_su": 8,
+      "dia_li": 7,
+      "tieng_anh": 5.5,
+      "tieng_phap": 8.4,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "6169898f940b3c171cc085ff"
+      },
+      "toan": 7.4,
+      "vat_li": 6.6,
+      "hoa_hoc": 6.4,
+      "ngu_van": 5.9,
+      "lich_su": 7.8,
+      "dia_li": 8.6,
+      "tieng_anh": 6.7,
+      "tieng_phap": 8.4,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "6169898f940b3c171cc08600"
+      },
+      "toan": 6.8,
+      "vat_li": 5.9,
+      "hoa_hoc": 6.4,
+      "ngu_van": 7.1,
+      "lich_su": 7.5,
+      "dia_li": 7.6,
+      "tieng_anh": 6.8,
+      "tieng_phap": 9.3,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.97,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165afe8c88deafecd55176a"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165afe8c88deafecd551767"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "61698a44940b3c171cc08615"
+      },
+      "toan": 7.1,
+      "vat_li": 5.8,
+      "hoa_hoc": 4.8,
+      "ngu_van": 7.4,
+      "lich_su": 7.8,
+      "dia_li": 6.6,
+      "tieng_anh": 5.8,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "61698a44940b3c171cc08616"
+      },
+      "toan": 5.7,
+      "vat_li": 6.3,
+      "hoa_hoc": 5.2,
+      "ngu_van": 7.1,
+      "lich_su": 9.1,
+      "dia_li": 6.7,
+      "tieng_anh": 5,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "61698a44940b3c171cc08617"
+      },
+      "toan": 6.8,
+      "vat_li": 6.2,
+      "hoa_hoc": 6.5,
+      "ngu_van": 7.4,
+      "lich_su": 7.9,
+      "dia_li": 7,
+      "tieng_anh": 5.6,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.99,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b060c88deafecd55176e"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165b060c88deafecd55176b"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "61698aa1940b3c171cc0862c"
+      },
+      "toan": 6.8,
+      "ngu_van": 7.4,
+      "lich_su": 7.6,
+      "dia_li": 8.8,
+      "tieng_anh": 7,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "61698aa1940b3c171cc0862d"
+      },
+      "toan": 7.1,
+      "ngu_van": 6.6,
+      "lich_su": 8.3,
+      "dia_li": 7.8,
+      "tieng_anh": 7.9,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "61698aa1940b3c171cc0862e"
+      },
+      "toan": 8.3,
+      "ngu_van": 7.2,
+      "lich_su": 6.7,
+      "dia_li": 7.9,
+      "tieng_anh": 7.2,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.58,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b581c88deafecd551772"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165b581c88deafecd55176f"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "61698b46940b3c171cc08643"
+      },
+      "toan": 4.1,
+      "ngu_van": 6.3,
+      "lich_su": 7.3,
+      "dia_li": 6.4,
+      "tieng_anh": 6.9,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "61698b46940b3c171cc08644"
+      },
+      "toan": 5.4,
+      "ngu_van": 6,
+      "lich_su": 7,
+      "dia_li": 6.7,
+      "tieng_anh": 6.7,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "61698b46940b3c171cc08645"
+      },
+      "toan": 7.8,
+      "ngu_van": 7.2,
+      "lich_su": 7.2,
+      "dia_li": 7.4,
+      "tieng_anh": 6.9,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 3.11,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b617c88deafecd551776"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165b617c88deafecd551773"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "61698ee0940b3c171cc08674"
+      },
+      "toan": 6,
+      "vat_li": 5.2,
+      "hoa_hoc": 4.5,
+      "ngu_van": 6.2,
+      "tieng_anh": 5.3,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "61698ee0940b3c171cc08675"
+      },
+      "toan": 5.5,
+      "vat_li": 5.2,
+      "hoa_hoc": 4.6,
+      "ngu_van": 6.2,
+      "tieng_anh": 5.2,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "61698ee0940b3c171cc08676"
+      },
+      "toan": 6,
+      "vat_li": 5.7,
+      "hoa_hoc": 5.8,
+      "ngu_van": 7.4,
+      "tieng_anh": 5.4,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.81,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b668c88deafecd55177a"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165b668c88deafecd551777"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616636eb92f9f39db33d97bd"
+      },
+      "toan": 0,
+      "vat_li": 0,
+      "hoa_hoc": 0,
+      "sinh_hoc": 0,
+      "ngu_van": 0,
+      "lich_su": 0,
+      "dia_li": 0,
+      "tieng_anh": 0,
+      "tieng_phap": 0,
+      "gdcd": 0,
+      "tdtt": 0,
+      "_id_hoc_luc": ""
+    },
+    {
+      "_id": {
+        "$oid": "616636ef92f9f39db33d97be"
+      },
+      "toan": 0,
+      "vat_li": 0,
+      "hoa_hoc": 0,
+      "sinh_hoc": 0,
+      "ngu_van": 0,
+      "lich_su": 0,
+      "dia_li": 0,
+      "tieng_anh": 0,
+      "tieng_phap": 0,
+      "gdcd": 0,
+      "tdtt": 0,
+      "_id_hoc_luc": ""
+    },
+    {
+      "_id": {
+        "$oid": "616636f692f9f39db33d97bf"
+      },
+      "toan": 0,
+      "vat_li": 0,
+      "hoa_hoc": 0,
+      "sinh_hoc": 0,
+      "ngu_van": 0,
+      "lich_su": 0,
+      "dia_li": 0,
+      "tieng_anh": 0,
+      "tieng_phap": 0,
+      "gdcd": 0,
+      "tdtt": 0,
+      "_id_hoc_luc": ""
+    }
+  ],
+  "diem_tot_nghiep": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b6b6c88deafecd55177e"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165b6b6c88deafecd55177b"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616adac72eaa231698912c1a"
+      },
+      "toan": 5,
+      "vat_li": 3.5,
+      "hoa_hoc": 3.6,
+      "sinh_hoc": 4.2,
+      "tieng_anh": 5.4,
+      "_id_hoc_luc": "615d0ac6e319086fdb114ad9"
+    },
+    {
+      "_id": {
+        "$oid": "616adac72eaa231698912c1b"
+      },
+      "toan": 6.2,
+      "vat_li": 6,
+      "hoa_hoc": 4.2,
+      "sinh_hoc": 8.2,
+      "tieng_anh": 6.2,
+      "_id_hoc_luc": "615d0ac6e319086fdb114ad9"
+    },
+    {
+      "_id": {
+        "$oid": "616adac72eaa231698912c1c"
+      },
+      "toan": 5.3,
+      "vat_li": 8.1,
+      "hoa_hoc": 7.7,
+      "sinh_hoc": 6.3,
+      "tieng_anh": 5.7,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.27,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b6fdc88deafecd551782"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165b6fdc88deafecd55177f"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "61698f69940b3c171cc0868b"
+      },
+      "toan": 4,
+      "vat_li": 6.4,
+      "hoa_hoc": 5.5,
+      "tieng_anh": 4.4,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "61698f69940b3c171cc0868c"
+      },
+      "toan": 5.8,
+      "vat_li": 4.6,
+      "hoa_hoc": 5,
+      "tieng_anh": 4.3,
+      "_id_hoc_luc": "615d0ac6e319086fdb114ad9"
+    },
+    {
+      "_id": {
+        "$oid": "61698f69940b3c171cc0868d"
+      },
+      "toan": 6.6,
+      "vat_li": 5.9,
+      "hoa_hoc": 6.5,
+      "tieng_anh": 5.7,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 7.7,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b73fc88deafecd551786"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165b73fc88deafecd551783"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "61698fff940b3c171cc086a2"
+      },
+      "toan": 4.1,
+      "ngu_van": 6.9,
+      "lich_su": 7.8,
+      "dia_li": 6.2,
+      "tieng_anh": 6.9,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "61698fff940b3c171cc086a3"
+      },
+      "toan": 4.1,
+      "ngu_van": 6.4,
+      "lich_su": 6.5,
+      "dia_li": 6.9,
+      "tieng_anh": 7.4,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "61698fff940b3c171cc086a4"
+      },
+      "toan": 6.3,
+      "ngu_van": 6.6,
+      "lich_su": 6,
+      "dia_li": 7.2,
+      "tieng_anh": 5,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    }
+  ],
+  "diem_tot_nghiep": 2.53,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b7a4c88deafecd55178a"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165b7a4c88deafecd551787"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616fba2073b12f3e3c67f5a9"
+      },
+      "toan": 8.9,
+      "vat_li": 7.9,
+      "hoa_hoc": 8.9,
+      "ngu_van": 8.2,
+      "tieng_anh": 7,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616fba4673b12f3e3c67f5b5"
+      },
+      "toan": 7.3,
+      "vat_li": 7.6,
+      "hoa_hoc": 8.9,
+      "ngu_van": 8,
+      "tieng_anh": 8.4,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616fbdf573b12f3e3c67f5cc"
+      },
+      "toan": 7.5,
+      "vat_li": 7.6,
+      "hoa_hoc": 7.3,
+      "ngu_van": 8.6,
+      "tieng_anh": 6.5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.18,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b7ecc88deafecd55178e"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165b7ecc88deafecd55178b"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "6169964d940b3c171cc08701"
+      },
+      "toan": 6.4,
+      "vat_li": 6,
+      "hoa_hoc": 5.1,
+      "ngu_van": 6.4,
+      "tieng_anh": 6.1,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "6169964d940b3c171cc08702"
+      },
+      "toan": 6,
+      "vat_li": 5.7,
+      "hoa_hoc": 4.3,
+      "ngu_van": 6.9,
+      "tieng_anh": 5.8,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "6169964d940b3c171cc08703"
+      },
+      "toan": 6.5,
+      "vat_li": 5.2,
+      "hoa_hoc": 5.1,
+      "ngu_van": 7.3,
+      "tieng_anh": 5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.59,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b87dc88deafecd551792"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165b87dc88deafecd55178f"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616996c3940b3c171cc0871d"
+      },
+      "toan": 7,
+      "ngu_van": 5.4,
+      "lich_su": 8.2,
+      "dia_li": 8,
+      "tieng_anh": 6.4,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616996c3940b3c171cc0871e"
+      },
+      "toan": 6.6,
+      "ngu_van": 7.9,
+      "lich_su": 9,
+      "dia_li": 8.6,
+      "tieng_anh": 6.5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616996c3940b3c171cc0871f"
+      },
+      "toan": 8.4,
+      "ngu_van": 8.3,
+      "lich_su": 7.5,
+      "dia_li": 7.8,
+      "tieng_anh": 7.7,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    }
+  ],
+  "diem_tot_nghiep": 3.26,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6165b8d8c88deafecd551796"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6165b8d8c88deafecd551793"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616997ef940b3c171cc0873e"
+      },
+      "toan": 7.5,
+      "vat_li": 6.9,
+      "hoa_hoc": 5.1,
+      "ngu_van": 7,
+      "lich_su": 7.4,
+      "dia_li": 8.6,
+      "tieng_anh": 5.7,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616997ef940b3c171cc0873f"
+      },
+      "toan": 6,
+      "vat_li": 6.3,
+      "hoa_hoc": 5,
+      "ngu_van": 6.8,
+      "lich_su": 8.6,
+      "dia_li": 7.8,
+      "tieng_anh": 6.5,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616997ef940b3c171cc08740"
+      },
+      "toan": 7.3,
+      "vat_li": 6.7,
+      "hoa_hoc": 6.7,
+      "ngu_van": 7.6,
+      "lich_su": 8.3,
+      "dia_li": 9.1,
+      "tieng_anh": 6.2,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.83,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616633b63575a3ebf2e20f9c"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616633b63575a3ebf2e20f99"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "61699878940b3c171cc0875f"
+      },
+      "toan": 6.6,
+      "hoa_hoc": 5.4,
+      "sinh_hoc": 5,
+      "tieng_anh": 4.1,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "61699878940b3c171cc08760"
+      },
+      "toan": 4.8,
+      "hoa_hoc": 6.2,
+      "sinh_hoc": 6.4,
+      "tieng_anh": 5.3,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "61699878940b3c171cc08761"
+      },
+      "toan": 6.3,
+      "hoa_hoc": 6.2,
+      "sinh_hoc": 5.6,
+      "tieng_anh": 6.4,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    }
+  ],
+  "diem_tot_nghiep": 2.84,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61663434cd4238852e9ddc09"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61663434cd4238852e9ddc06"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616998cb940b3c171cc08776"
+      },
+      "toan": 4.2,
+      "hoa_hoc": 4.8,
+      "sinh_hoc": 4.2,
+      "tieng_anh": 3.3,
+      "_id_hoc_luc": "615d0ac6e319086fdb114ad9"
+    },
+    {
+      "_id": {
+        "$oid": "616998cb940b3c171cc08777"
+      },
+      "toan": 4.4,
+      "hoa_hoc": 4.7,
+      "sinh_hoc": 5.3,
+      "tieng_anh": 5.5,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616998cb940b3c171cc08778"
+      },
+      "toan": 5.4,
+      "hoa_hoc": 6.6,
+      "sinh_hoc": 6.9,
+      "tieng_anh": 4.7,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    }
+  ],
+  "diem_tot_nghiep": 2.04,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166a973cd4238852e9ddc0d"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166a973cd4238852e9ddc0a"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616d2cea3b76141670d787df"
+      },
+      "toan": 8.1,
+      "vat_li": 6.8,
+      "hoa_hoc": 8.2,
+      "ngu_van": 7.5,
+      "tieng_anh": 7,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616d2d333b76141670d787eb"
+      },
+      "toan": 8.3,
+      "vat_li": 8,
+      "hoa_hoc": 7,
+      "ngu_van": 7.7,
+      "tieng_anh": 6.5,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616d2d523b76141670d787f7"
+      },
+      "toan": 8.1,
+      "vat_li": 8.1,
+      "hoa_hoc": 7.7,
+      "ngu_van": 7.4,
+      "tieng_anh": 6.5,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    }
+  ],
+  "diem_tot_nghiep": 3.17,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166a9efcd4238852e9ddc11"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166a9efcd4238852e9ddc0e"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "61699936940b3c171cc0878d"
+      },
+      "toan": 7.2,
+      "vat_li": 7.2,
+      "hoa_hoc": 7,
+      "ngu_van": 6.5,
+      "lich_su": 8,
+      "dia_li": 7.7,
+      "tieng_anh": 8.3,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "61699936940b3c171cc0878e"
+      },
+      "toan": 7.2,
+      "vat_li": 7.1,
+      "hoa_hoc": 8.3,
+      "ngu_van": 6.6,
+      "lich_su": 7.6,
+      "dia_li": 6.7,
+      "tieng_anh": 7.3,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "61699936940b3c171cc0878f"
+      },
+      "toan": 8.2,
+      "vat_li": 7.4,
+      "hoa_hoc": 7.6,
+      "ngu_van": 7.3,
+      "lich_su": 6.5,
+      "dia_li": 6.6,
+      "tieng_anh": 7.1,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.9,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166aa39cd4238852e9ddc15"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166aa39cd4238852e9ddc12"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616999e0940b3c171cc087bc"
+      },
+      "toan": 6.5,
+      "vat_li": 7.2,
+      "hoa_hoc": 7.6,
+      "tieng_anh": 5.6,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616999e0940b3c171cc087bd"
+      },
+      "toan": 6,
+      "vat_li": 6.7,
+      "hoa_hoc": 7.1,
+      "tieng_anh": 6.1,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616999e0940b3c171cc087be"
+      },
+      "toan": 6.6,
+      "vat_li": 5.7,
+      "hoa_hoc": 8.2,
+      "tieng_anh": 6.1,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.74,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166aaa9cd4238852e9ddc19"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166aaa9cd4238852e9ddc16"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "61699a66940b3c171cc087ea"
+      },
+      "toan": 7.5,
+      "vat_li": 5.8,
+      "hoa_hoc": 6.3,
+      "ngu_van": 7.5,
+      "tieng_anh": 5.5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "61699a66940b3c171cc087eb"
+      },
+      "toan": 6.9,
+      "vat_li": 6,
+      "hoa_hoc": 7.2,
+      "ngu_van": 5.8,
+      "tieng_anh": 5.3,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "61699a66940b3c171cc087ec"
+      },
+      "toan": 6.5,
+      "vat_li": 6.7,
+      "hoa_hoc": 7.4,
+      "ngu_van": 6.6,
+      "tieng_anh": 5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 3.04,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166aae7cd4238852e9ddc1d"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166aae7cd4238852e9ddc1a"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "61699b0a940b3c171cc08818"
+      },
+      "toan": 6.4,
+      "ngu_van": 6.2,
+      "lich_su": 8.3,
+      "dia_li": 8.3,
+      "tieng_anh": 8.3,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "61699b0a940b3c171cc08819"
+      },
+      "toan": 6,
+      "ngu_van": 6.9,
+      "lich_su": 7.5,
+      "dia_li": 7.4,
+      "tieng_anh": 8.3,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "61699b0a940b3c171cc0881a"
+      },
+      "toan": 6.4,
+      "ngu_van": 6.7,
+      "lich_su": 7.9,
+      "dia_li": 7.4,
+      "tieng_anh": 7.1,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.25,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ab28cd4238852e9ddc21"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ab28cd4238852e9ddc1e"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "61699b90940b3c171cc0883b"
+      },
+      "toan": 7.5,
+      "vat_li": 7.3,
+      "hoa_hoc": 6.7,
+      "ngu_van": 7.1,
+      "tieng_anh": 5.7,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "61699b90940b3c171cc0883c"
+      },
+      "toan": 5.9,
+      "vat_li": 6.6,
+      "hoa_hoc": 6.1,
+      "ngu_van": 7.1,
+      "tieng_anh": 7.1,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "61699b90940b3c171cc0883d"
+      },
+      "toan": 6.9,
+      "vat_li": 7.4,
+      "hoa_hoc": 6.6,
+      "ngu_van": 8,
+      "tieng_anh": 5.6,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 3.07,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ab65cd4238852e9ddc25"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ab65cd4238852e9ddc22"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "61699c04940b3c171cc0885e"
+      },
+      "toan": 6.8,
+      "ngu_van": 6.5,
+      "lich_su": 6.5,
+      "dia_li": 6.6,
+      "tieng_anh": 6.4,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "61699c04940b3c171cc0885f"
+      },
+      "toan": 6.3,
+      "ngu_van": 6,
+      "lich_su": 5.9,
+      "dia_li": 6.4,
+      "tieng_anh": 6.4,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "61699c04940b3c171cc08860"
+      },
+      "toan": 6.3,
+      "ngu_van": 6.1,
+      "lich_su": 6.3,
+      "dia_li": 4.6,
+      "tieng_anh": 5.7,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    }
+  ],
+  "diem_tot_nghiep": 2.46,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166abb1cd4238852e9ddc29"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166abb1cd4238852e9ddc26"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "61699c75940b3c171cc08881"
+      },
+      "toan": 6.1,
+      "vat_li": 6,
+      "hoa_hoc": 6,
+      "ngu_van": 7,
+      "lich_su": 8,
+      "dia_li": 8.8,
+      "tieng_anh": 5.5,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "61699c75940b3c171cc08882"
+      },
+      "toan": 6.4,
+      "vat_li": 6.7,
+      "hoa_hoc": 5.6,
+      "ngu_van": 7.9,
+      "lich_su": 8.9,
+      "dia_li": 8.1,
+      "tieng_anh": 6.7,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "61699c75940b3c171cc08883"
+      },
+      "toan": 5.9,
+      "vat_li": 6.5,
+      "hoa_hoc": 5.9,
+      "ngu_van": 8.2,
+      "lich_su": 8.6,
+      "dia_li": 8.3,
+      "tieng_anh": 7.1,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 3.19,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ac35cd4238852e9ddc2d"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ac35cd4238852e9ddc2a"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "61699cd7940b3c171cc088a4"
+      },
+      "toan": 5,
+      "vat_li": 3.8,
+      "hoa_hoc": 4.3,
+      "tieng_anh": 7,
+      "_id_hoc_luc": "615d0ac6e319086fdb114ad9"
+    },
+    {
+      "_id": {
+        "$oid": "61699cd7940b3c171cc088a5"
+      },
+      "toan": 3.7,
+      "vat_li": 3.5,
+      "hoa_hoc": 3.7,
+      "tieng_anh": 3.5,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "61699cd7940b3c171cc088a6"
+      },
+      "toan": 7.4,
+      "vat_li": 5.7,
+      "hoa_hoc": 6.4,
+      "tieng_anh": 5.7,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.99,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ac6ccd4238852e9ddc31"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ac6ccd4238852e9ddc2e"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "61699d3e940b3c171cc088c7"
+      },
+      "toan": 5.5,
+      "vat_li": 7.4,
+      "hoa_hoc": 6.4,
+      "sinh_hoc": 6.2,
+      "tieng_anh": 5.6,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "61699d3e940b3c171cc088c8"
+      },
+      "toan": 5.9,
+      "vat_li": 5.3,
+      "hoa_hoc": 4.8,
+      "sinh_hoc": 5.4,
+      "tieng_anh": 5.2,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "61699d3e940b3c171cc088c9"
+      },
+      "toan": 6.5,
+      "vat_li": 6,
+      "hoa_hoc": 7.8,
+      "sinh_hoc": 7.5,
+      "tieng_anh": 6.3,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.31,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166acb1cd4238852e9ddc35"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166acb1cd4238852e9ddc32"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "61699dc9940b3c171cc088ec"
+      },
+      "toan": 5.1,
+      "vat_li": 6,
+      "hoa_hoc": 5.5,
+      "ngu_van": 6,
+      "tieng_anh": 6,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "61699dc9940b3c171cc088ed"
+      },
+      "toan": 7.3,
+      "vat_li": 7.9,
+      "hoa_hoc": 5.6,
+      "ngu_van": 6.9,
+      "tieng_anh": 5.9,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "61699dc9940b3c171cc088ee"
+      },
+      "toan": 7,
+      "vat_li": 6.7,
+      "hoa_hoc": 7.5,
+      "ngu_van": 6.5,
+      "tieng_anh": 5.3,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 3.32,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166acf6cd4238852e9ddc39"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166acf6cd4238852e9ddc36"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "61699e45940b3c171cc0890f"
+      },
+      "toan": 5,
+      "vat_li": 5.2,
+      "hoa_hoc": 5,
+      "sinh_hoc": 6.8,
+      "tieng_anh": 3.8,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "61699e45940b3c171cc08910"
+      },
+      "toan": 6.3,
+      "vat_li": 5.3,
+      "hoa_hoc": 5.9,
+      "sinh_hoc": 5.5,
+      "tieng_anh": 4.7,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "61699e45940b3c171cc08911"
+      },
+      "toan": 7.2,
+      "vat_li": 7.4,
+      "hoa_hoc": 7.6,
+      "sinh_hoc": 6,
+      "tieng_anh": 6.1,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.86,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ad7fcd4238852e9ddc41"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ad7fcd4238852e9ddc3e"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "6169a1af940b3c171cc08974"
+      },
+      "toan": 3.6,
+      "vat_li": 5.3,
+      "hoa_hoc": 4.5,
+      "ngu_van": 7.2,
+      "lich_su": 7.5,
+      "dia_li": 6.7,
+      "tieng_anh": 5.1,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "6169a1af940b3c171cc08975"
+      },
+      "toan": 5,
+      "vat_li": 5,
+      "hoa_hoc": 5.7,
+      "ngu_van": 6.5,
+      "lich_su": 7.3,
+      "dia_li": 8.1,
+      "tieng_anh": 5,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "6169a1af940b3c171cc08976"
+      },
+      "toan": 5.7,
+      "vat_li": 5,
+      "hoa_hoc": 6.7,
+      "ngu_van": 7.3,
+      "lich_su": 8.6,
+      "dia_li": 7.9,
+      "tieng_anh": 5.7,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.51,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166adb9cd4238852e9ddc45"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166adb9cd4238852e9ddc42"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "6169a208940b3c171cc08997"
+      },
+      "ngu_van": 7.4,
+      "lich_su": 9.5,
+      "dia_li": 8.5,
+      "tieng_anh": 8,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "6169a208940b3c171cc08998"
+      },
+      "ngu_van": 7.5,
+      "lich_su": 7.9,
+      "dia_li": 6.8,
+      "tieng_anh": 7,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "6169a208940b3c171cc08999"
+      },
+      "ngu_van": 7.7,
+      "lich_su": 8.3,
+      "dia_li": 7.6,
+      "tieng_anh": 5.5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 3.4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166adf4cd4238852e9ddc49"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166adf4cd4238852e9ddc46"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "6169a26b940b3c171cc089ba"
+      },
+      "toan": 5.5,
+      "vat_li": 5.8,
+      "hoa_hoc": 5.9,
+      "sinh_hoc": 7.3,
+      "tieng_anh": 4.6,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "6169a26b940b3c171cc089bb"
+      },
+      "toan": 6.4,
+      "vat_li": 5.5,
+      "hoa_hoc": 5,
+      "sinh_hoc": 6.9,
+      "tieng_anh": 5.3,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "6169a26b940b3c171cc089bc"
+      },
+      "toan": 6.9,
+      "vat_li": 7.1,
+      "hoa_hoc": 6,
+      "sinh_hoc": 6.1,
+      "tieng_anh": 5.7,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.68,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ae43cd4238852e9ddc4d"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ae43cd4238852e9ddc4a"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "6169a2cf940b3c171cc089dd"
+      },
+      "toan": 8.7,
+      "vat_li": 6.7,
+      "hoa_hoc": 7.2,
+      "ngu_van": 8,
+      "tieng_anh": 7,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "6169a2cf940b3c171cc089de"
+      },
+      "toan": 7.3,
+      "vat_li": 5.7,
+      "hoa_hoc": 7.5,
+      "ngu_van": 7.7,
+      "tieng_anh": 6.2,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "6169a2cf940b3c171cc089df"
+      },
+      "toan": 7.7,
+      "vat_li": 6.7,
+      "hoa_hoc": 6.7,
+      "ngu_van": 7.9,
+      "tieng_anh": 6.8,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 3.33,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ae8ccd4238852e9ddc51"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ae8ccd4238852e9ddc4e"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "6169a32b940b3c171cc08a00"
+      },
+      "toan": 6.6,
+      "vat_li": 7.2,
+      "hoa_hoc": 8.1,
+      "ngu_van": 7.2,
+      "tieng_anh": 6,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "6169a32b940b3c171cc08a01"
+      },
+      "toan": 6.5,
+      "vat_li": 6.7,
+      "hoa_hoc": 7.4,
+      "ngu_van": 6.5,
+      "tieng_anh": 6,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "6169a32b940b3c171cc08a02"
+      },
+      "toan": 6.6,
+      "vat_li": 7.4,
+      "hoa_hoc": 7.9,
+      "ngu_van": 7.8,
+      "tieng_anh": 5.8,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 3.41,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e34e43f8917a04cd51ee"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e34d43f8917a04cd51eb"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "6169a392940b3c171cc08a23"
+      },
+      "toan": 6.5,
+      "vat_li": 5.3,
+      "hoa_hoc": 7.6,
+      "ngu_van": 6.2,
+      "tieng_anh": 7,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "6169a392940b3c171cc08a24"
+      },
+      "toan": 7.2,
+      "vat_li": 7.4,
+      "hoa_hoc": 6.4,
+      "ngu_van": 6.2,
+      "tieng_anh": 8.2,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "6169a392940b3c171cc08a25"
+      },
+      "toan": 6.8,
+      "vat_li": 6.4,
+      "hoa_hoc": 6.4,
+      "ngu_van": 5,
+      "tieng_anh": 7.4,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.98,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e40b43f8917a04cd51f2"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e40b43f8917a04cd51ef"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "6169a3ef940b3c171cc08a46"
+      },
+      "toan": 4,
+      "vat_li": 4.4,
+      "hoa_hoc": 6.5,
+      "ngu_van": 6,
+      "lich_su": 5.4,
+      "dia_li": 6.3,
+      "tieng_anh": 4.8,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "6169a3ef940b3c171cc08a47"
+      },
+      "toan": 4.5,
+      "vat_li": 4.4,
+      "hoa_hoc": 4.2,
+      "ngu_van": 6.7,
+      "lich_su": 5.9,
+      "dia_li": 7.5,
+      "tieng_anh": 5,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "6169a3ef940b3c171cc08a48"
+      },
+      "toan": 5.7,
+      "vat_li": 6.1,
+      "hoa_hoc": 5.3,
+      "ngu_van": 7.7,
+      "lich_su": 6.5,
+      "dia_li": 6.7,
+      "tieng_anh": 5,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 3.03,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e48243f8917a04cd51f6"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e48243f8917a04cd51f3"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "6169a457940b3c171cc08a69"
+      },
+      "toan": 5.4,
+      "ngu_van": 5.7,
+      "lich_su": 7.9,
+      "dia_li": 6.9,
+      "tieng_anh": 4.9,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "6169a457940b3c171cc08a6a"
+      },
+      "toan": 4.8,
+      "ngu_van": 7.5,
+      "lich_su": 7.9,
+      "dia_li": 6.2,
+      "tieng_anh": 5.5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "6169a457940b3c171cc08a6b"
+      },
+      "toan": 5.9,
+      "ngu_van": 7.6,
+      "lich_su": 8.2,
+      "dia_li": 6.1,
+      "tieng_anh": 7.1,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.66,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e50b43f8917a04cd51fa"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e50b43f8917a04cd51f7"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "6169a4cd940b3c171cc08a8c"
+      },
+      "toan": 4.5,
+      "ngu_van": 6,
+      "lich_su": 6.7,
+      "dia_li": 7.4,
+      "tieng_anh": 5.3,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "6169a4cd940b3c171cc08a8d"
+      },
+      "toan": 4.4,
+      "ngu_van": 7,
+      "lich_su": 7.3,
+      "dia_li": 7.6,
+      "tieng_anh": 5.1,
+      "_id_hoc_luc": "615d0ac6e319086fdb114ad9"
+    },
+    {
+      "_id": {
+        "$oid": "6169a4cd940b3c171cc08a8e"
+      },
+      "toan": 7.1,
+      "ngu_van": 6,
+      "lich_su": 7.2,
+      "dia_li": 7.1,
+      "tieng_anh": 6.5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.7,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e55b43f8917a04cd51fe"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e55b43f8917a04cd51fb"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616adb372eaa231698912c3d"
+      },
+      "toan": 4.9,
+      "ngu_van": 5.1,
+      "lich_su": 5.6,
+      "dia_li": 6.6,
+      "tieng_anh": 6.6,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616adb372eaa231698912c3e"
+      },
+      "toan": 5.8,
+      "ngu_van": 5.1,
+      "lich_su": 7.2,
+      "dia_li": 7.7,
+      "tieng_anh": 5.9,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616adb372eaa231698912c3f"
+      },
+      "toan": 6.3,
+      "ngu_van": 5.1,
+      "lich_su": 5.9,
+      "dia_li": 7.4,
+      "tieng_anh": 5.7,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    }
+  ],
+  "diem_tot_nghiep": 2.31,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e5ab43f8917a04cd5202"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e5ab43f8917a04cd51ff"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "6169a553940b3c171cc08aaf"
+      },
+      "toan": 8.5,
+      "vat_li": 8.4,
+      "hoa_hoc": 6.2,
+      "sinh_hoc": 8.3,
+      "tieng_anh": 7.7,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "6169a553940b3c171cc08ab0"
+      },
+      "toan": 6.4,
+      "vat_li": 6.1,
+      "hoa_hoc": 7.3,
+      "sinh_hoc": 9,
+      "tieng_anh": 6.2,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "6169a553940b3c171cc08ab1"
+      },
+      "toan": 8.6,
+      "vat_li": 6.6,
+      "hoa_hoc": 7.7,
+      "sinh_hoc": 7.1,
+      "tieng_anh": 7.9,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    }
+  ],
+  "diem_tot_nghiep": 3.21,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e5f943f8917a04cd5206"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e5f943f8917a04cd5203"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "6169a5a5940b3c171cc08ad2"
+      },
+      "toan": 5.7,
+      "hoa_hoc": 6.1,
+      "sinh_hoc": 7.7,
+      "tieng_anh": 7.5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "6169a5a5940b3c171cc08ad3"
+      },
+      "toan": 6.5,
+      "hoa_hoc": 6.1,
+      "sinh_hoc": 8.7,
+      "tieng_anh": 7.5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "6169a5a5940b3c171cc08ad4"
+      },
+      "toan": 8,
+      "hoa_hoc": 6.7,
+      "sinh_hoc": 8.7,
+      "tieng_anh": 8.1,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    }
+  ],
+  "diem_tot_nghiep": 2.88,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e64943f8917a04cd520a"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e64943f8917a04cd5207"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "6169a621940b3c171cc08b00"
+      },
+      "toan": 5.1,
+      "vat_li": 6.2,
+      "hoa_hoc": 5.2,
+      "ngu_van": 6.3,
+      "tieng_anh": 4,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "6169a621940b3c171cc08b01"
+      },
+      "toan": 5.5,
+      "vat_li": 5.4,
+      "hoa_hoc": 6.1,
+      "ngu_van": 6.2,
+      "tieng_anh": 4.7,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "6169a621940b3c171cc08b02"
+      },
+      "toan": 6.2,
+      "vat_li": 7.8,
+      "hoa_hoc": 6.6,
+      "ngu_van": 6.6,
+      "tieng_anh": 5.6,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.61,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e67e43f8917a04cd520e"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e67e43f8917a04cd520b"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "6169a83b940b3c171cc08b23"
+      },
+      "toan": 5.5,
+      "vat_li": 7.3,
+      "hoa_hoc": 5.9,
+      "ngu_van": 6.7,
+      "lich_su": 6.9,
+      "dia_li": 6.7,
+      "tieng_anh": 4.6,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "6169a83b940b3c171cc08b24"
+      },
+      "toan": 6.1,
+      "vat_li": 8.1,
+      "hoa_hoc": 5.1,
+      "ngu_van": 6.9,
+      "lich_su": 6.5,
+      "dia_li": 7.4,
+      "tieng_anh": 7,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "6169a83b940b3c171cc08b25"
+      },
+      "toan": 7.2,
+      "vat_li": 7.6,
+      "hoa_hoc": 6,
+      "ngu_van": 6.4,
+      "lich_su": 6.1,
+      "dia_li": 7,
+      "tieng_anh": 5.5,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 3.15,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e6e843f8917a04cd5212"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e6e843f8917a04cd520f"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "6169a8b8940b3c171cc08b51"
+      },
+      "toan": 8.3,
+      "vat_li": 6.4,
+      "hoa_hoc": 5.9,
+      "ngu_van": 6.8,
+      "lich_su": 6.2,
+      "dia_li": 7.1,
+      "tieng_anh": 6.3,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "6169a8b8940b3c171cc08b52"
+      },
+      "toan": 5.7,
+      "vat_li": 7,
+      "hoa_hoc": 4.6,
+      "ngu_van": 6.9,
+      "lich_su": 6.7,
+      "dia_li": 6.7,
+      "tieng_anh": 5.7,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "6169a8b8940b3c171cc08b53"
+      },
+      "toan": 6.7,
+      "vat_li": 5.6,
+      "hoa_hoc": 5.5,
+      "ngu_van": 6.6,
+      "lich_su": 5.9,
+      "dia_li": 6.3,
+      "tieng_anh": 5.8,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 3.21,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e72743f8917a04cd5216"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e72743f8917a04cd5213"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "6169a906940b3c171cc08b74"
+      },
+      "toan": 5.6,
+      "vat_li": 5.9,
+      "hoa_hoc": 7.1,
+      "tieng_anh": 5.8,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "6169a906940b3c171cc08b75"
+      },
+      "toan": 6.4,
+      "vat_li": 7.4,
+      "hoa_hoc": 7.2,
+      "tieng_anh": 6.8,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "6169a906940b3c171cc08b76"
+      },
+      "toan": 7.5,
+      "vat_li": 7,
+      "hoa_hoc": 7.9,
+      "tieng_anh": 7.8,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.29,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e7c943f8917a04cd521b"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e7c943f8917a04cd5218"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "6169a9ee940b3c171cc08bba"
+      },
+      "toan": 6,
+      "ngu_van": 5.3,
+      "lich_su": 5,
+      "dia_li": 7.1,
+      "tieng_anh": 7.9,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "6169a9ee940b3c171cc08bbb"
+      },
+      "toan": 6.4,
+      "ngu_van": 5,
+      "lich_su": 5.3,
+      "dia_li": 6.9,
+      "tieng_anh": 8,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "6169a9ee940b3c171cc08bbc"
+      },
+      "toan": 6.5,
+      "ngu_van": 5.9,
+      "lich_su": 5.1,
+      "dia_li": 6.2,
+      "tieng_anh": 7.8,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    }
+  ],
+  "diem_tot_nghiep": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e81643f8917a04cd521f"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e81643f8917a04cd521c"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "6169aa6d940b3c171cc08bdf"
+      },
+      "toan": 8.8,
+      "vat_li": 8.3,
+      "hoa_hoc": 6.8,
+      "ngu_van": 6.3,
+      "lich_su": 9,
+      "dia_li": 9.3,
+      "tieng_anh": 4.3,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "6169aa6d940b3c171cc08be0"
+      },
+      "toan": 8.8,
+      "vat_li": 8.4,
+      "hoa_hoc": 7.3,
+      "ngu_van": 7.5,
+      "lich_su": 8.5,
+      "dia_li": 8.9,
+      "tieng_anh": 6.1,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "6169aa6d940b3c171cc08be1"
+      },
+      "toan": 8.6,
+      "vat_li": 7.4,
+      "hoa_hoc": 6.9,
+      "ngu_van": 8.3,
+      "lich_su": 7.8,
+      "dia_li": 8.1,
+      "tieng_anh": 6.6,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 3.21,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e85d43f8917a04cd5223"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e85d43f8917a04cd5220"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "6169aada940b3c171cc08c02"
+      },
+      "toan": 5.3,
+      "ngu_van": 5.2,
+      "lich_su": 5.6,
+      "dia_li": 6.7,
+      "tieng_anh": 4.8,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "6169aada940b3c171cc08c03"
+      },
+      "toan": 5.8,
+      "ngu_van": 5.8,
+      "lich_su": 6.4,
+      "dia_li": 6.7,
+      "tieng_anh": 5.1,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "6169aada940b3c171cc08c04"
+      },
+      "toan": 7.1,
+      "ngu_van": 5.3,
+      "lich_su": 6.2,
+      "dia_li": 5.9,
+      "tieng_anh": 5.6,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.55,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e89b43f8917a04cd5227"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e89b43f8917a04cd5224"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a75bb2eaa231698911ba4"
+      },
+      "toan": 5.3,
+      "ngu_van": 7.6,
+      "lich_su": 6.1,
+      "dia_li": 4.7,
+      "tieng_anh": 5.3,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a75bb2eaa231698911ba5"
+      },
+      "toan": 6.8,
+      "ngu_van": 7.4,
+      "lich_su": 6.1,
+      "dia_li": 7.3,
+      "tieng_anh": 5.7,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a75bb2eaa231698911ba6"
+      },
+      "toan": 7.8,
+      "ngu_van": 8.7,
+      "lich_su": 7.7,
+      "dia_li": 7.2,
+      "tieng_anh": 7.2,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    }
+  ],
+  "diem_tot_nghiep": 3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e8e843f8917a04cd522b"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e8e843f8917a04cd5228"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a76252eaa231698911bcb"
+      },
+      "toan": 5.5,
+      "vat_li": 5.6,
+      "hoa_hoc": 4.8,
+      "tieng_anh": 4.6,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a76252eaa231698911bcc"
+      },
+      "toan": 4.5,
+      "vat_li": 5.1,
+      "hoa_hoc": 5.2,
+      "tieng_anh": 4.3,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a76252eaa231698911bcd"
+      },
+      "toan": 5.8,
+      "vat_li": 5.1,
+      "hoa_hoc": 5.5,
+      "tieng_anh": 4.7,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    }
+  ],
+  "diem_tot_nghiep": 2.44,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e94943f8917a04cd522f"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e94943f8917a04cd522c"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a76812eaa231698911bf9"
+      },
+      "toan": 5.3,
+      "ngu_van": 5.5,
+      "lich_su": 4,
+      "dia_li": 6,
+      "tieng_anh": 5.1,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a76812eaa231698911bfa"
+      },
+      "toan": 6.1,
+      "ngu_van": 5.6,
+      "lich_su": 5.3,
+      "dia_li": 6.4,
+      "tieng_anh": 7.2,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a76812eaa231698911bfb"
+      },
+      "toan": 6.4,
+      "ngu_van": 4.7,
+      "lich_su": 5.2,
+      "dia_li": 5.2,
+      "tieng_anh": 7.5,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    }
+  ],
+  "diem_tot_nghiep": 2.65,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e9b243f8917a04cd5233"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e9b243f8917a04cd5230"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a76dd2eaa231698911c27"
+      },
+      "toan": 7.2,
+      "ngu_van": 6.7,
+      "lich_su": 8.1,
+      "dia_li": 8.5,
+      "tieng_anh": 5.7,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a76dd2eaa231698911c28"
+      },
+      "toan": 6.8,
+      "ngu_van": 7.3,
+      "lich_su": 8.3,
+      "dia_li": 8.6,
+      "tieng_anh": 6.5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a76dd2eaa231698911c29"
+      },
+      "toan": 7.5,
+      "ngu_van": 7.7,
+      "lich_su": 8.4,
+      "dia_li": 9.3,
+      "tieng_anh": 7.8,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.81,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166e9fa43f8917a04cd5237"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166e9fa43f8917a04cd5234"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a77242eaa231698911c4a"
+      },
+      "toan": 6.5,
+      "vat_li": 6.2,
+      "hoa_hoc": 5.4,
+      "ngu_van": 6.1,
+      "tieng_anh": 6.8,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a77242eaa231698911c4b"
+      },
+      "toan": 6.1,
+      "vat_li": 6.2,
+      "hoa_hoc": 7.3,
+      "ngu_van": 7.4,
+      "tieng_anh": 7.5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a77242eaa231698911c4c"
+      },
+      "toan": 6.8,
+      "vat_li": 5.9,
+      "hoa_hoc": 5.6,
+      "ngu_van": 6.8,
+      "tieng_anh": 7,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 3.24,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ea3543f8917a04cd523b"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ea3543f8917a04cd5238"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a77942eaa231698911c78"
+      },
+      "toan": 4.6,
+      "vat_li": 5.6,
+      "hoa_hoc": 7.2,
+      "ngu_van": 5.6,
+      "lich_su": 5.6,
+      "dia_li": 6.7,
+      "tieng_anh": 0,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a77942eaa231698911c79"
+      },
+      "toan": 5.5,
+      "vat_li": 5.7,
+      "hoa_hoc": 6.8,
+      "ngu_van": 5.9,
+      "lich_su": 5.8,
+      "dia_li": 6.7,
+      "tieng_anh": 0,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a77942eaa231698911c7a"
+      },
+      "toan": 7.1,
+      "vat_li": 8,
+      "hoa_hoc": 9.1,
+      "ngu_van": 6.6,
+      "lich_su": 8.4,
+      "dia_li": 7.9,
+      "tieng_anh": 0,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.52,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ea7543f8917a04cd523f"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ea7543f8917a04cd523c"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a77e92eaa231698911c9b"
+      },
+      "toan": 6.3,
+      "vat_li": 7.1,
+      "hoa_hoc": 5.8,
+      "tieng_anh": 6.8,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a77e92eaa231698911c9c"
+      },
+      "toan": 7,
+      "vat_li": 7.9,
+      "hoa_hoc": 8,
+      "tieng_anh": 6.7,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a77e92eaa231698911c9d"
+      },
+      "toan": 6.9,
+      "vat_li": 7.3,
+      "hoa_hoc": 7.7,
+      "tieng_anh": 6.5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 3.02,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166eabe43f8917a04cd5243"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166eabe43f8917a04cd5240"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a78a72eaa231698911cd0"
+      },
+      "toan": 8,
+      "ngu_van": 6.9,
+      "lich_su": 9.3,
+      "dia_li": 8.8,
+      "tieng_anh": 7.9,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "616a78a72eaa231698911cd1"
+      },
+      "toan": 8.6,
+      "ngu_van": 7.4,
+      "lich_su": 8.9,
+      "dia_li": 8.3,
+      "tieng_anh": 7.4,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "616a78a72eaa231698911cd2"
+      },
+      "toan": 9.7,
+      "ngu_van": 7.6,
+      "lich_su": 8.3,
+      "dia_li": 8.4,
+      "tieng_anh": 5.8,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 3.23,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ecee43f8917a04cd5247"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ecee43f8917a04cd5244"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a790f2eaa231698911cf3"
+      },
+      "toan": 7.6,
+      "vat_li": 6.4,
+      "hoa_hoc": 5.5,
+      "ngu_van": 6.9,
+      "lich_su": 7.2,
+      "dia_li": 7.9,
+      "tieng_anh": 5.5,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a790f2eaa231698911cf4"
+      },
+      "toan": 6.5,
+      "vat_li": 6.8,
+      "hoa_hoc": 5.6,
+      "ngu_van": 7.4,
+      "lich_su": 8.2,
+      "dia_li": 8.7,
+      "tieng_anh": 5.7,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a790f2eaa231698911cf5"
+      },
+      "toan": 6.5,
+      "vat_li": 7.1,
+      "hoa_hoc": 6.5,
+      "ngu_van": 7.8,
+      "lich_su": 7.6,
+      "dia_li": 7.5,
+      "tieng_anh": 6,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.62,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ed2843f8917a04cd524b"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ed2843f8917a04cd5248"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a795e2eaa231698911d16"
+      },
+      "toan": 5.5,
+      "vat_li": 5.2,
+      "hoa_hoc": 4.6,
+      "tieng_anh": 5.6,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a795e2eaa231698911d17"
+      },
+      "toan": 5.4,
+      "vat_li": 5.8,
+      "hoa_hoc": 5.9,
+      "tieng_anh": 6.1,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a795e2eaa231698911d18"
+      },
+      "toan": 6.6,
+      "vat_li": 6.2,
+      "hoa_hoc": 6.5,
+      "tieng_anh": 6,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.62,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166edd543f8917a04cd524f"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166edd543f8917a04cd524c"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a79c92eaa231698911d39"
+      },
+      "toan": 8.2,
+      "ngu_van": 7.5,
+      "lich_su": 8.5,
+      "dia_li": 8.4,
+      "tieng_anh": 6,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a79c92eaa231698911d3a"
+      },
+      "toan": 8.8,
+      "ngu_van": 8,
+      "lich_su": 9.3,
+      "dia_li": 9.1,
+      "tieng_anh": 7,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "616a79c92eaa231698911d3b"
+      },
+      "toan": 9.2,
+      "ngu_van": 9.4,
+      "lich_su": 8.9,
+      "dia_li": 8.8,
+      "tieng_anh": 8,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    }
+  ],
+  "diem_tot_nghiep": 3.6,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ee4843f8917a04cd5253"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ee4843f8917a04cd5250"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616adbb02eaa231698912c60"
+      },
+      "toan": 8,
+      "vat_li": 6.6,
+      "hoa_hoc": 7.3,
+      "ngu_van": 7,
+      "tieng_anh": 7.4,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616adbb02eaa231698912c61"
+      },
+      "toan": 8.6,
+      "vat_li": 7.2,
+      "hoa_hoc": 8,
+      "ngu_van": 6.9,
+      "tieng_anh": 7.6,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "616adbb02eaa231698912c62"
+      },
+      "toan": 9.3,
+      "vat_li": 9.5,
+      "hoa_hoc": 8,
+      "ngu_van": 7.1,
+      "tieng_anh": 7.7,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    }
+  ],
+  "diem_tot_nghiep": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ef4743f8917a04cd5257"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ef4743f8917a04cd5254"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a7a612eaa231698911d67"
+      },
+      "toan": 5.5,
+      "vat_li": 5.4,
+      "hoa_hoc": 6.7,
+      "tieng_anh": 5.7,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a7a612eaa231698911d68"
+      },
+      "toan": 6.7,
+      "vat_li": 7.9,
+      "hoa_hoc": 7.1,
+      "tieng_anh": 7,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a7a612eaa231698911d69"
+      },
+      "toan": 6.6,
+      "vat_li": 8.3,
+      "hoa_hoc": 8.2,
+      "tieng_anh": 7.2,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 3.19,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166efbb43f8917a04cd525b"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166efbb43f8917a04cd5258"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "6166efbb0bda9625d425805d"
+      },
+      "toan": 0,
+      "vat_li": 0,
+      "hoa_hoc": 0,
+      "sinh_hoc": 0,
+      "ngu_van": 0,
+      "lich_su": 0,
+      "dia_li": 0,
+      "tieng_anh": 0,
+      "tieng_phap": 0,
+      "gdcd": 0,
+      "tdtt": 0,
+      "_id_hoc_luc": ""
+    },
+    {
+      "_id": {
+        "$oid": "6166efbb0bda9625d425805e"
+      },
+      "toan": 0,
+      "vat_li": 0,
+      "hoa_hoc": 0,
+      "sinh_hoc": 0,
+      "ngu_van": 0,
+      "lich_su": 0,
+      "dia_li": 0,
+      "tieng_anh": 0,
+      "tieng_phap": 0,
+      "gdcd": 0,
+      "tdtt": 0,
+      "_id_hoc_luc": ""
+    },
+    {
+      "_id": {
+        "$oid": "6166efbb0bda9625d425805f"
+      },
+      "toan": 0,
+      "vat_li": 0,
+      "hoa_hoc": 0,
+      "sinh_hoc": 0,
+      "ngu_van": 0,
+      "lich_su": 0,
+      "dia_li": 0,
+      "tieng_anh": 0,
+      "tieng_phap": 0,
+      "gdcd": 0,
+      "tdtt": 0,
+      "_id_hoc_luc": ""
+    }
+  ],
+  "diem_tot_nghiep": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f07643f8917a04cd525f"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f07643f8917a04cd525c"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616adc2d2eaa231698912c83"
+      },
+      "toan": 6.6,
+      "vat_li": 5.1,
+      "hoa_hoc": 4.7,
+      "ngu_van": 6.5,
+      "tieng_anh": 7.7,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616adc2d2eaa231698912c84"
+      },
+      "toan": 6.1,
+      "vat_li": 5.9,
+      "hoa_hoc": 4,
+      "ngu_van": 5.1,
+      "tieng_anh": 8,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616adc2d2eaa231698912c85"
+      },
+      "toan": 7.1,
+      "vat_li": 7.8,
+      "hoa_hoc": 6.4,
+      "ngu_van": 6.2,
+      "tieng_anh": 7.7,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f0b443f8917a04cd5263"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f0b343f8917a04cd5260"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a7ac52eaa231698911d8c"
+      },
+      "toan": 8.3,
+      "vat_li": 9.5,
+      "hoa_hoc": 8.5,
+      "sinh_hoc": 9.2,
+      "tieng_anh": 8.5,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "616a7ac52eaa231698911d8d"
+      },
+      "toan": 7.7,
+      "vat_li": 9.4,
+      "hoa_hoc": 8.7,
+      "sinh_hoc": 9.6,
+      "tieng_anh": 8.8,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "616a7ac52eaa231698911d8e"
+      },
+      "toan": 7.8,
+      "vat_li": 9.3,
+      "hoa_hoc": 8.5,
+      "sinh_hoc": 9,
+      "tieng_anh": 8.3,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    }
+  ],
+  "diem_tot_nghiep": 3.56,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f0e943f8917a04cd5267"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f0e943f8917a04cd5264"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a7b3a2eaa231698911daf"
+      },
+      "toan": 6.5,
+      "ngu_van": 5.7,
+      "lich_su": 8.7,
+      "dia_li": 8,
+      "tieng_anh": 6.1,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a7b3a2eaa231698911db0"
+      },
+      "toan": 6.9,
+      "ngu_van": 6.6,
+      "lich_su": 8.1,
+      "dia_li": 7.1,
+      "tieng_anh": 6,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a7b3a2eaa231698911db1"
+      },
+      "toan": 8.1,
+      "ngu_van": 6.6,
+      "lich_su": 9.4,
+      "dia_li": 9.4,
+      "tieng_anh": 7.8,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    }
+  ],
+  "diem_tot_nghiep": 2.27,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f1a243f8917a04cd526b"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f1a243f8917a04cd5268"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a7b8f2eaa231698911ddd"
+      },
+      "toan": 6.8,
+      "vat_li": 7,
+      "hoa_hoc": 6.3,
+      "ngu_van": 6.7,
+      "tieng_anh": 6.4,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a7b8f2eaa231698911dde"
+      },
+      "toan": 5.6,
+      "vat_li": 8,
+      "hoa_hoc": 4.9,
+      "ngu_van": 5.6,
+      "tieng_anh": 4.5,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a7b8f2eaa231698911ddf"
+      },
+      "toan": 7,
+      "vat_li": 7.7,
+      "hoa_hoc": 7.7,
+      "ngu_van": 6.5,
+      "tieng_anh": 6.3,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 3.04,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f1da43f8917a04cd526f"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f1da43f8917a04cd526c"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616c344dd80f842a1cc6ee08"
+      },
+      "toan": 7.4,
+      "vat_li": 7.5,
+      "hoa_hoc": 7.4,
+      "ngu_van": 6.7,
+      "tieng_anh": 5.5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616c3484d80f842a1cc6ee14"
+      },
+      "toan": 8.3,
+      "vat_li": 8.6,
+      "hoa_hoc": 7.8,
+      "ngu_van": 7.5,
+      "tieng_anh": 6.6,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "616c34a5d80f842a1cc6ee20"
+      },
+      "toan": 8.4,
+      "vat_li": 8.4,
+      "hoa_hoc": 8.4,
+      "ngu_van": 7.8,
+      "tieng_anh": 7.1,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    }
+  ],
+  "diem_tot_nghiep": 2.99,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f20f43f8917a04cd5273"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f20f43f8917a04cd5270"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a7eb72eaa231698911e69"
+      },
+      "toan": 6.2,
+      "ngu_van": 5.3,
+      "lich_su": 5.3,
+      "dia_li": 5.6,
+      "tieng_anh": 4.8,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a7eb72eaa231698911e6a"
+      },
+      "toan": 6.3,
+      "ngu_van": 4.8,
+      "lich_su": 4.7,
+      "dia_li": 5.3,
+      "tieng_anh": 4.6,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a7eb72eaa231698911e6b"
+      },
+      "toan": 5.5,
+      "ngu_van": 3.7,
+      "lich_su": 5.2,
+      "dia_li": 5.9,
+      "tieng_anh": 5.8,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    }
+  ],
+  "diem_tot_nghiep": 2.29,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f27d43f8917a04cd5278"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f27d43f8917a04cd5275"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a7f392eaa231698911e8c"
+      },
+      "toan": 6.2,
+      "vat_li": 6.2,
+      "hoa_hoc": 6.4,
+      "tieng_anh": 6.5,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a7f392eaa231698911e8d"
+      },
+      "toan": 6.1,
+      "vat_li": 6.3,
+      "hoa_hoc": 5.9,
+      "tieng_anh": 5.9,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a7f392eaa231698911e8e"
+      },
+      "toan": 5.7,
+      "vat_li": 6.2,
+      "hoa_hoc": 5.1,
+      "tieng_anh": 6.8,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    }
+  ],
+  "diem_tot_nghiep": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f2f843f8917a04cd527c"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f2f843f8917a04cd5279"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a7fc62eaa231698911eaf"
+      },
+      "toan": 9.4,
+      "vat_li": 9.4,
+      "hoa_hoc": 9.6,
+      "ngu_van": 7.3,
+      "lich_su": 8.8,
+      "dia_li": 8.5,
+      "tieng_anh": 7.7,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "616a7fc62eaa231698911eb0"
+      },
+      "toan": 8.5,
+      "vat_li": 8.2,
+      "hoa_hoc": 7.9,
+      "ngu_van": 7.5,
+      "lich_su": 9.6,
+      "dia_li": 8.5,
+      "tieng_anh": 8.2,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "616a7fc62eaa231698911eb1"
+      },
+      "toan": 8.6,
+      "vat_li": 8.6,
+      "hoa_hoc": 8.1,
+      "ngu_van": 7.5,
+      "lich_su": 8.2,
+      "dia_li": 7.8,
+      "tieng_anh": 7.4,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    }
+  ],
+  "diem_tot_nghiep": 3.06,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f33443f8917a04cd5280"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f33443f8917a04cd527d"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a80fe2eaa231698911ed2"
+      },
+      "toan": 5.9,
+      "vat_li": 4.9,
+      "hoa_hoc": 4.4,
+      "ngu_van": 6.2,
+      "lich_su": 5.3,
+      "dia_li": 5.6,
+      "tieng_anh": 4.4,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a80fe2eaa231698911ed3"
+      },
+      "toan": 6.4,
+      "vat_li": 5.4,
+      "hoa_hoc": 4.5,
+      "ngu_van": 6.9,
+      "lich_su": 5.6,
+      "dia_li": 7.1,
+      "tieng_anh": 4.5,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a80fe2eaa231698911ed4"
+      },
+      "toan": 6.2,
+      "vat_li": 5.1,
+      "hoa_hoc": 4.5,
+      "ngu_van": 6.3,
+      "lich_su": 5.2,
+      "dia_li": 6,
+      "tieng_anh": 5.1,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    }
+  ],
+  "diem_tot_nghiep": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f38043f8917a04cd5284"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f38043f8917a04cd5281"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616adcc02eaa231698912ca6"
+      },
+      "toan": 6.5,
+      "vat_li": 6.2,
+      "hoa_hoc": 5.1,
+      "ngu_van": 6.1,
+      "tieng_anh": 3.9,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616adcc02eaa231698912ca7"
+      },
+      "toan": 5.6,
+      "vat_li": 5,
+      "hoa_hoc": 4.5,
+      "ngu_van": 6.6,
+      "tieng_anh": 5.5,
+      "_id_hoc_luc": "615d0ac6e319086fdb114ad9"
+    },
+    {
+      "_id": {
+        "$oid": "616adcc02eaa231698912ca8"
+      },
+      "toan": 4.9,
+      "vat_li": 5.7,
+      "hoa_hoc": 5,
+      "ngu_van": 6.3,
+      "tieng_anh": 4.5,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    }
+  ],
+  "diem_tot_nghiep": 2.88,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f3c143f8917a04cd5288"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f3c143f8917a04cd5285"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a818f2eaa231698911ef5"
+      },
+      "toan": 4.3,
+      "vat_li": 5.6,
+      "hoa_hoc": 8.1,
+      "ngu_van": 5.4,
+      "tieng_anh": 6.4,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a818f2eaa231698911ef6"
+      },
+      "toan": 6.3,
+      "vat_li": 6.2,
+      "hoa_hoc": 6.6,
+      "ngu_van": 5.7,
+      "tieng_anh": 5.5,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a818f2eaa231698911ef7"
+      },
+      "toan": 6.5,
+      "vat_li": 6.2,
+      "hoa_hoc": 6.4,
+      "ngu_van": 5.3,
+      "tieng_anh": 5.5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.52,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f3fb43f8917a04cd528c"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f3fb43f8917a04cd5289"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616add232eaa231698912cc9"
+      },
+      "toan": 5.9,
+      "vat_li": 5.7,
+      "hoa_hoc": 6.4,
+      "ngu_van": 5.5,
+      "tieng_anh": 4.6,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616add232eaa231698912cca"
+      },
+      "toan": 4.5,
+      "vat_li": 4.9,
+      "hoa_hoc": 4.7,
+      "ngu_van": 6.4,
+      "tieng_anh": 4.6,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616add232eaa231698912ccb"
+      },
+      "toan": 6.5,
+      "vat_li": 5.8,
+      "hoa_hoc": 6.3,
+      "ngu_van": 7.7,
+      "tieng_anh": 6.4,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.83,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f43843f8917a04cd5290"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f43843f8917a04cd528d"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a82922eaa231698911f39"
+      },
+      "toan": 5,
+      "vat_li": 5.8,
+      "hoa_hoc": 6.1,
+      "sinh_hoc": 6.1,
+      "tieng_anh": 6.1,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a82922eaa231698911f3a"
+      },
+      "toan": 6,
+      "vat_li": 6.2,
+      "hoa_hoc": 6,
+      "sinh_hoc": 7.8,
+      "tieng_anh": 6.5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a82922eaa231698911f3b"
+      },
+      "toan": 8,
+      "vat_li": 6.4,
+      "hoa_hoc": 6,
+      "sinh_hoc": 7.2,
+      "tieng_anh": 6.7,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 3.24,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f47743f8917a04cd5294"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f47743f8917a04cd5291"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a83ce2eaa231698911f89"
+      },
+      "toan": 8,
+      "vat_li": 7.6,
+      "hoa_hoc": 6.2,
+      "sinh_hoc": 5.4,
+      "tieng_anh": 5.4,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a83ce2eaa231698911f8a"
+      },
+      "toan": 7,
+      "vat_li": 6,
+      "hoa_hoc": 5.4,
+      "sinh_hoc": 6.2,
+      "tieng_anh": 5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a83ce2eaa231698911f8b"
+      },
+      "toan": 6.2,
+      "vat_li": 5.8,
+      "hoa_hoc": 5.7,
+      "sinh_hoc": 6.2,
+      "tieng_anh": 5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.56,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f4c543f8917a04cd5298"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f4c543f8917a04cd5295"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a847b2eaa231698911fac"
+      },
+      "toan": 5.9,
+      "vat_li": 7.6,
+      "hoa_hoc": 7.9,
+      "ngu_van": 5.5,
+      "tieng_anh": 5,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a847b2eaa231698911fad"
+      },
+      "toan": 6.8,
+      "vat_li": 7.3,
+      "hoa_hoc": 7.1,
+      "ngu_van": 6.6,
+      "tieng_anh": 6.3,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a847b2eaa231698911fae"
+      },
+      "toan": 6.8,
+      "vat_li": 7.3,
+      "hoa_hoc": 8.3,
+      "ngu_van": 6.6,
+      "tieng_anh": 5.6,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 3.53,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f4ff43f8917a04cd529c"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f4ff43f8917a04cd5299"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a86492eaa231698911fcf"
+      },
+      "toan": 7.8,
+      "vat_li": 7.8,
+      "hoa_hoc": 7.3,
+      "ngu_van": 7.2,
+      "tieng_anh": 6.4,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a86492eaa231698911fd0"
+      },
+      "toan": 7.5,
+      "vat_li": 7.8,
+      "hoa_hoc": 6.8,
+      "ngu_van": 6.4,
+      "tieng_anh": 5.5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a86492eaa231698911fd1"
+      },
+      "toan": 8.3,
+      "vat_li": 7.8,
+      "hoa_hoc": 8.9,
+      "ngu_van": 7.3,
+      "tieng_anh": 8.2,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    }
+  ],
+  "diem_tot_nghiep": 3.39,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f56943f8917a04cd52a0"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f56943f8917a04cd529d"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a86d72eaa231698911ffd"
+      },
+      "toan": 4.7,
+      "hoa_hoc": 4.8,
+      "sinh_hoc": 5.1,
+      "tieng_anh": 5,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a86d72eaa231698911ffe"
+      },
+      "toan": 5.3,
+      "hoa_hoc": 5.4,
+      "sinh_hoc": 7.7,
+      "tieng_anh": 3.9,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a86d72eaa231698911fff"
+      },
+      "toan": 6.7,
+      "hoa_hoc": 6.8,
+      "sinh_hoc": 6.8,
+      "tieng_anh": 6.2,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.58,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f82b43f8917a04cd52a4"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f82b43f8917a04cd52a1"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a87902eaa231698912020"
+      },
+      "toan": 4.5,
+      "vat_li": 4.5,
+      "hoa_hoc": 4.4,
+      "ngu_van": 5.6,
+      "tieng_anh": 4.2,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a87902eaa231698912021"
+      },
+      "toan": 5.9,
+      "vat_li": 5.4,
+      "hoa_hoc": 4.8,
+      "ngu_van": 5.4,
+      "tieng_anh": 4.4,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a87902eaa231698912022"
+      },
+      "toan": 6.8,
+      "vat_li": 5.5,
+      "hoa_hoc": 7.3,
+      "ngu_van": 5.1,
+      "tieng_anh": 5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.21,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f89043f8917a04cd52a8"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f89043f8917a04cd52a5"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "6166f8900bda9625d425816c"
+      },
+      "toan": 0,
+      "vat_li": 0,
+      "hoa_hoc": 0,
+      "sinh_hoc": 0,
+      "ngu_van": 0,
+      "lich_su": 0,
+      "dia_li": 0,
+      "tieng_anh": 0,
+      "tieng_phap": 0,
+      "gdcd": 0,
+      "tdtt": 0,
+      "_id_hoc_luc": ""
+    },
+    {
+      "_id": {
+        "$oid": "6166f8900bda9625d425816d"
+      },
+      "toan": 0,
+      "vat_li": 0,
+      "hoa_hoc": 0,
+      "sinh_hoc": 0,
+      "ngu_van": 0,
+      "lich_su": 0,
+      "dia_li": 0,
+      "tieng_anh": 0,
+      "tieng_phap": 0,
+      "gdcd": 0,
+      "tdtt": 0,
+      "_id_hoc_luc": ""
+    },
+    {
+      "_id": {
+        "$oid": "6166f8900bda9625d425816e"
+      },
+      "toan": 0,
+      "vat_li": 0,
+      "hoa_hoc": 0,
+      "sinh_hoc": 0,
+      "ngu_van": 0,
+      "lich_su": 0,
+      "dia_li": 0,
+      "tieng_anh": 0,
+      "tieng_phap": 0,
+      "gdcd": 0,
+      "tdtt": 0,
+      "_id_hoc_luc": ""
+    }
+  ],
+  "diem_tot_nghiep": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f8eb43f8917a04cd52ac"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f8eb43f8917a04cd52a9"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a88312eaa231698912043"
+      },
+      "toan": 7.6,
+      "vat_li": 7.6,
+      "hoa_hoc": 6,
+      "ngu_van": 6.1,
+      "tieng_anh": 6.2,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a88312eaa231698912044"
+      },
+      "toan": 7,
+      "vat_li": 7.3,
+      "hoa_hoc": 8.4,
+      "ngu_van": 6.7,
+      "tieng_anh": 7.1,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a88312eaa231698912045"
+      },
+      "toan": 9.4,
+      "vat_li": 9.8,
+      "hoa_hoc": 9.3,
+      "ngu_van": 8.1,
+      "tieng_anh": 7.8,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    }
+  ],
+  "diem_tot_nghiep": 2.6,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f93743f8917a04cd52b0"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f93743f8917a04cd52ad"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a89dc2eaa231698912066"
+      },
+      "toan": 5,
+      "vat_li": 6.7,
+      "hoa_hoc": 6.8,
+      "tieng_anh": 5,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a89dc2eaa231698912067"
+      },
+      "toan": 5.2,
+      "vat_li": 7.8,
+      "hoa_hoc": 8.5,
+      "tieng_anh": 5.5,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a89dc2eaa231698912068"
+      },
+      "toan": 7.2,
+      "vat_li": 7.7,
+      "hoa_hoc": 7.1,
+      "tieng_anh": 5.5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 3.18,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f98743f8917a04cd52b4"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f98743f8917a04cd52b1"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a8a832eaa231698912089"
+      },
+      "toan": 4.4,
+      "vat_li": 4,
+      "hoa_hoc": 5,
+      "ngu_van": 7.3,
+      "tieng_anh": 7.4,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a8a832eaa23169891208a"
+      },
+      "toan": 7.3,
+      "vat_li": 5.3,
+      "hoa_hoc": 5,
+      "ngu_van": 7.6,
+      "tieng_anh": 6.5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a8a832eaa23169891208b"
+      },
+      "toan": 5.8,
+      "vat_li": 6.3,
+      "hoa_hoc": 5.5,
+      "ngu_van": 7.1,
+      "tieng_anh": 7,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 3.23,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f9c443f8917a04cd52b8"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f9c443f8917a04cd52b5"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a8afc2eaa2316989120ac"
+      },
+      "toan": 8.1,
+      "vat_li": 8.1,
+      "hoa_hoc": 7.5,
+      "ngu_van": 5.3,
+      "tieng_anh": 8.3,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a8afc2eaa2316989120ad"
+      },
+      "toan": 8,
+      "vat_li": 7.4,
+      "hoa_hoc": 7.7,
+      "ngu_van": 7.3,
+      "tieng_anh": 8.2,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "616a8afc2eaa2316989120ae"
+      },
+      "toan": 8.4,
+      "vat_li": 8,
+      "hoa_hoc": 8,
+      "ngu_van": 7.7,
+      "tieng_anh": 7.2,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    }
+  ],
+  "diem_tot_nghiep": 3.28,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166f9fd43f8917a04cd52bc"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166f9fd43f8917a04cd52b9"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a8b952eaa2316989120da"
+      },
+      "toan": 7.9,
+      "vat_li": 6,
+      "hoa_hoc": 5,
+      "ngu_van": 5,
+      "tieng_anh": 4.7,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a8b952eaa2316989120db"
+      },
+      "toan": 7.2,
+      "vat_li": 7.8,
+      "hoa_hoc": 6.1,
+      "ngu_van": 6,
+      "tieng_anh": 6.8,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a8b952eaa2316989120dc"
+      },
+      "toan": 6.9,
+      "vat_li": 7.8,
+      "hoa_hoc": 5.9,
+      "ngu_van": 6.2,
+      "tieng_anh": 6.6,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.99,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fa3643f8917a04cd52c0"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fa3643f8917a04cd52bd"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a8c212eaa2316989120fd"
+      },
+      "toan": 5,
+      "ngu_van": 4.6,
+      "lich_su": 5.4,
+      "dia_li": 6.4,
+      "tieng_anh": 3.7,
+      "_id_hoc_luc": "615d0ac6e319086fdb114ad9"
+    },
+    {
+      "_id": {
+        "$oid": "616a8c212eaa2316989120fe"
+      },
+      "toan": 4.6,
+      "ngu_van": 5.7,
+      "lich_su": 7,
+      "dia_li": 6.7,
+      "tieng_anh": 4.7,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a8c212eaa2316989120ff"
+      },
+      "toan": 5.6,
+      "ngu_van": 5.3,
+      "lich_su": 5.1,
+      "dia_li": 5.7,
+      "tieng_anh": 5.6,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    }
+  ],
+  "diem_tot_nghiep": 2.79,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fa7f43f8917a04cd52c4"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fa7f43f8917a04cd52c1"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ad05b2eaa231698912912"
+      },
+      "toan": 8.7,
+      "vat_li": 9,
+      "hoa_hoc": 8.6,
+      "ngu_van": 7,
+      "tieng_anh": 8,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "616ad05b2eaa231698912913"
+      },
+      "toan": 7.4,
+      "vat_li": 8.4,
+      "hoa_hoc": 7.9,
+      "ngu_van": 8.3,
+      "tieng_anh": 8.7,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "616ad05b2eaa231698912914"
+      },
+      "toan": 8.3,
+      "vat_li": 9.1,
+      "hoa_hoc": 8,
+      "ngu_van": 8,
+      "tieng_anh": 8.7,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    }
+  ],
+  "diem_tot_nghiep": 3.56,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166face43f8917a04cd52c8"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166face43f8917a04cd52c5"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616addc42eaa231698912cec"
+      },
+      "toan": 5.5,
+      "vat_li": 7.7,
+      "hoa_hoc": 6.7,
+      "ngu_van": 6,
+      "lich_su": 7.5,
+      "dia_li": 7.6,
+      "tieng_anh": 6.3,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616addc42eaa231698912ced"
+      },
+      "toan": 6.4,
+      "vat_li": 6.1,
+      "hoa_hoc": 6.8,
+      "ngu_van": 6.5,
+      "lich_su": 8,
+      "dia_li": 8.1,
+      "tieng_anh": 5.4,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616addc42eaa231698912cee"
+      },
+      "toan": 6.6,
+      "vat_li": 6.6,
+      "hoa_hoc": 7.7,
+      "ngu_van": 6.6,
+      "lich_su": 7.5,
+      "dia_li": 6.8,
+      "tieng_anh": 5.9,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 3.23,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fb3343f8917a04cd52cc"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fb3343f8917a04cd52c9"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a8ce72eaa23169891212d"
+      },
+      "toan": 5.1,
+      "vat_li": 6.1,
+      "hoa_hoc": 6,
+      "sinh_hoc": 6.9,
+      "tieng_anh": 4.4,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a8ce72eaa23169891212e"
+      },
+      "toan": 7.1,
+      "vat_li": 5.1,
+      "hoa_hoc": 5.6,
+      "sinh_hoc": 7,
+      "tieng_anh": 6,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a8ce72eaa23169891212f"
+      },
+      "toan": 7.7,
+      "vat_li": 6.2,
+      "hoa_hoc": 8.1,
+      "sinh_hoc": 6.6,
+      "tieng_anh": 5.7,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.41,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fb6c43f8917a04cd52d0"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fb6c43f8917a04cd52cd"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a8db42eaa23169891215b"
+      },
+      "toan": 6.7,
+      "vat_li": 4.4,
+      "hoa_hoc": 7.3,
+      "ngu_van": 7.3,
+      "lich_su": 7.9,
+      "dia_li": 7.6,
+      "tieng_anh": 5,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a8db42eaa23169891215c"
+      },
+      "toan": 6.4,
+      "vat_li": 5.1,
+      "hoa_hoc": 6,
+      "ngu_van": 7.1,
+      "lich_su": 7.6,
+      "dia_li": 7.2,
+      "tieng_anh": 5.2,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a8db42eaa23169891215d"
+      },
+      "toan": 7.9,
+      "vat_li": 5.7,
+      "hoa_hoc": 7.1,
+      "ngu_van": 7.1,
+      "lich_su": 7.4,
+      "dia_li": 8.6,
+      "tieng_anh": 6.4,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.72,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fbc343f8917a04cd52d4"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fbc343f8917a04cd52d1"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a8e262eaa23169891217e"
+      },
+      "toan": 8.1,
+      "ngu_van": 8.4,
+      "lich_su": 8.3,
+      "dia_li": 9,
+      "tieng_anh": 7.9,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "616a8e262eaa23169891217f"
+      },
+      "toan": 8.3,
+      "ngu_van": 8.1,
+      "lich_su": 7.4,
+      "dia_li": 7.9,
+      "tieng_anh": 7.7,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "616a8e262eaa231698912180"
+      },
+      "toan": 7.6,
+      "ngu_van": 8.4,
+      "lich_su": 6.9,
+      "dia_li": 8.1,
+      "tieng_anh": 7.8,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    }
+  ],
+  "diem_tot_nghiep": 2.83,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fc0243f8917a04cd52d8"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fc0243f8917a04cd52d5"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616d30413b76141670d7880d"
+      },
+      "toan": 3.9,
+      "vat_li": 5.1,
+      "hoa_hoc": 6.3,
+      "ngu_van": 5.3,
+      "tieng_anh": 5.4,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "616d30573b76141670d78819"
+      },
+      "toan": 4.8,
+      "vat_li": 5.5,
+      "hoa_hoc": 6.5,
+      "ngu_van": 4.8,
+      "tieng_anh": 5.5,
+      "_id_hoc_luc": "615d0ac6e319086fdb114ad9"
+    },
+    {
+      "_id": {
+        "$oid": "616d30763b76141670d78825"
+      },
+      "toan": 5.6,
+      "vat_li": 5.7,
+      "hoa_hoc": 5.7,
+      "ngu_van": 4.8,
+      "tieng_anh": 4.3,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    }
+  ],
+  "diem_tot_nghiep": 2.52,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fc4643f8917a04cd52dc"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fc4643f8917a04cd52d9"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "6166fc460bda9625d4258222"
+      },
+      "toan": 0,
+      "vat_li": 0,
+      "hoa_hoc": 0,
+      "sinh_hoc": 0,
+      "ngu_van": 0,
+      "lich_su": 0,
+      "dia_li": 0,
+      "tieng_anh": 0,
+      "tieng_phap": 0,
+      "gdcd": 0,
+      "tdtt": 0,
+      "_id_hoc_luc": ""
+    },
+    {
+      "_id": {
+        "$oid": "6166fc460bda9625d4258223"
+      },
+      "toan": 0,
+      "vat_li": 0,
+      "hoa_hoc": 0,
+      "sinh_hoc": 0,
+      "ngu_van": 0,
+      "lich_su": 0,
+      "dia_li": 0,
+      "tieng_anh": 0,
+      "tieng_phap": 0,
+      "gdcd": 0,
+      "tdtt": 0,
+      "_id_hoc_luc": ""
+    },
+    {
+      "_id": {
+        "$oid": "6166fc460bda9625d4258224"
+      },
+      "toan": 0,
+      "vat_li": 0,
+      "hoa_hoc": 0,
+      "sinh_hoc": 0,
+      "ngu_van": 0,
+      "lich_su": 0,
+      "dia_li": 0,
+      "tieng_anh": 0,
+      "tieng_phap": 0,
+      "gdcd": 0,
+      "tdtt": 0,
+      "_id_hoc_luc": ""
+    }
+  ],
+  "diem_tot_nghiep": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fc8943f8917a04cd52e0"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fc8943f8917a04cd52dd"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a90cb2eaa2316989121a1"
+      },
+      "toan": 4.1,
+      "vat_li": 4.9,
+      "hoa_hoc": 5.3,
+      "tieng_anh": 5.7,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a90cb2eaa2316989121a2"
+      },
+      "toan": 4.1,
+      "vat_li": 4.1,
+      "hoa_hoc": 3.1,
+      "tieng_anh": 3.8,
+      "_id_hoc_luc": "615d0ac6e319086fdb114ad9"
+    },
+    {
+      "_id": {
+        "$oid": "616a90cb2eaa2316989121a3"
+      },
+      "toan": 6.9,
+      "vat_li": 7.3,
+      "hoa_hoc": 6.8,
+      "tieng_anh": 6.5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.49,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fcdd43f8917a04cd52e4"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fcdd43f8917a04cd52e1"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "6166fcdd0bda9625d425823e"
+      },
+      "toan": 0,
+      "vat_li": 0,
+      "hoa_hoc": 0,
+      "sinh_hoc": 0,
+      "ngu_van": 0,
+      "lich_su": 0,
+      "dia_li": 0,
+      "tieng_anh": 0,
+      "tieng_phap": 0,
+      "gdcd": 0,
+      "tdtt": 0,
+      "_id_hoc_luc": ""
+    },
+    {
+      "_id": {
+        "$oid": "6166fcdd0bda9625d425823f"
+      },
+      "toan": 0,
+      "vat_li": 0,
+      "hoa_hoc": 0,
+      "sinh_hoc": 0,
+      "ngu_van": 0,
+      "lich_su": 0,
+      "dia_li": 0,
+      "tieng_anh": 0,
+      "tieng_phap": 0,
+      "gdcd": 0,
+      "tdtt": 0,
+      "_id_hoc_luc": ""
+    },
+    {
+      "_id": {
+        "$oid": "6166fcdd0bda9625d4258240"
+      },
+      "toan": 0,
+      "vat_li": 0,
+      "hoa_hoc": 0,
+      "sinh_hoc": 0,
+      "ngu_van": 0,
+      "lich_su": 0,
+      "dia_li": 0,
+      "tieng_anh": 0,
+      "tieng_phap": 0,
+      "gdcd": 0,
+      "tdtt": 0,
+      "_id_hoc_luc": ""
+    }
+  ],
+  "diem_tot_nghiep": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fd1943f8917a04cd52e8"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fd1943f8917a04cd52e5"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a914d2eaa2316989121c4"
+      },
+      "toan": 7.1,
+      "vat_li": 7.7,
+      "hoa_hoc": 7.2,
+      "ngu_van": 7.4,
+      "tieng_anh": 7.4,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a914d2eaa2316989121c5"
+      },
+      "toan": 7.3,
+      "vat_li": 7.5,
+      "hoa_hoc": 8,
+      "ngu_van": 7.6,
+      "tieng_anh": 6.7,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a914d2eaa2316989121c6"
+      },
+      "toan": 8.5,
+      "vat_li": 8.3,
+      "hoa_hoc": 8.7,
+      "ngu_van": 7.6,
+      "tieng_anh": 8,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    }
+  ],
+  "diem_tot_nghiep": 3.43,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fd4f43f8917a04cd52ec"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fd4f43f8917a04cd52e9"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a91c82eaa2316989121e7"
+      },
+      "toan": 6.3,
+      "vat_li": 7.4,
+      "hoa_hoc": 6,
+      "ngu_van": 6.6,
+      "tieng_anh": 7,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a91c82eaa2316989121e8"
+      },
+      "toan": 5.8,
+      "vat_li": 7.4,
+      "hoa_hoc": 6.7,
+      "ngu_van": 6.7,
+      "tieng_anh": 7.3,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a91c82eaa2316989121e9"
+      },
+      "toan": 7.2,
+      "vat_li": 7.3,
+      "hoa_hoc": 7.9,
+      "ngu_van": 7.3,
+      "tieng_anh": 7.8,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.64,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fd9243f8917a04cd52f0"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fd9243f8917a04cd52ed"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a924a2eaa23169891220a"
+      },
+      "toan": 5.9,
+      "vat_li": 5.1,
+      "hoa_hoc": 6.4,
+      "tieng_anh": 0,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a924a2eaa23169891220b"
+      },
+      "toan": 6.5,
+      "vat_li": 6.2,
+      "hoa_hoc": 6.4,
+      "tieng_anh": 0,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a924a2eaa23169891220c"
+      },
+      "toan": 5,
+      "vat_li": 5.9,
+      "hoa_hoc": 6.4,
+      "tieng_anh": 0,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    }
+  ],
+  "diem_tot_nghiep": 2.21,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fdce43f8917a04cd52f4"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fdce43f8917a04cd52f1"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a93032eaa231698912238"
+      },
+      "toan": 7.5,
+      "vat_li": 8,
+      "hoa_hoc": 7.8,
+      "ngu_van": 6.9,
+      "lich_su": 7.5,
+      "dia_li": 8.1,
+      "tieng_anh": 6.6,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a93032eaa231698912239"
+      },
+      "toan": 7.3,
+      "vat_li": 7.5,
+      "hoa_hoc": 7.8,
+      "ngu_van": 7.6,
+      "lich_su": 8.6,
+      "dia_li": 7.8,
+      "tieng_anh": 6.5,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a93032eaa23169891223a"
+      },
+      "toan": 7.7,
+      "vat_li": 7,
+      "hoa_hoc": 6.7,
+      "ngu_van": 6.9,
+      "lich_su": 6.9,
+      "dia_li": 8.1,
+      "tieng_anh": 6.2,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.77,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fe0443f8917a04cd52f8"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fe0443f8917a04cd52f5"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a937b2eaa23169891225b"
+      },
+      "toan": 8.7,
+      "ngu_van": 7.1,
+      "lich_su": 7.8,
+      "dia_li": 8.3,
+      "tieng_anh": 8,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "616a937b2eaa23169891225c"
+      },
+      "toan": 8,
+      "ngu_van": 7.1,
+      "lich_su": 9.4,
+      "dia_li": 9.1,
+      "tieng_anh": 8.2,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "616a937b2eaa23169891225d"
+      },
+      "toan": 8.3,
+      "ngu_van": 7.6,
+      "lich_su": 8,
+      "dia_li": 8.6,
+      "tieng_anh": 7.6,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    }
+  ],
+  "diem_tot_nghiep": 3.02,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fe3a43f8917a04cd52fc"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fe3a43f8917a04cd52f9"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a94682eaa23169891227e"
+      },
+      "toan": 9,
+      "ngu_van": 7.7,
+      "lich_su": 7.4,
+      "dia_li": 8.8,
+      "tieng_anh": 8.4,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a94682eaa23169891227f"
+      },
+      "toan": 8.1,
+      "ngu_van": 7.7,
+      "lich_su": 7.7,
+      "dia_li": 9,
+      "tieng_anh": 8.8,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "616a94682eaa231698912280"
+      },
+      "toan": 8.3,
+      "ngu_van": 7,
+      "lich_su": 8.1,
+      "dia_li": 8,
+      "tieng_anh": 7.5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 3.22,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fe7d43f8917a04cd5300"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fe7d43f8917a04cd52fd"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a94fa2eaa2316989122b7"
+      },
+      "toan": 6.6,
+      "ngu_van": 6.8,
+      "lich_su": 7.4,
+      "dia_li": 7.8,
+      "tieng_anh": 8.1,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a94fa2eaa2316989122b8"
+      },
+      "toan": 7.2,
+      "ngu_van": 6.1,
+      "lich_su": 7.5,
+      "dia_li": 7.5,
+      "tieng_anh": 6.2,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a94fa2eaa2316989122b9"
+      },
+      "toan": 7.9,
+      "ngu_van": 6.9,
+      "lich_su": 8.3,
+      "dia_li": 8.6,
+      "tieng_anh": 6,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 3.12,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166feb943f8917a04cd5304"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166feb943f8917a04cd5301"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a95932eaa2316989122e5"
+      },
+      "toan": 7.3,
+      "ngu_van": 7.4,
+      "lich_su": 7,
+      "dia_li": 7.7,
+      "tieng_anh": 7.8,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a95932eaa2316989122e6"
+      },
+      "toan": 6.8,
+      "ngu_van": 6.6,
+      "lich_su": 7.7,
+      "dia_li": 7.8,
+      "tieng_anh": 6.2,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a95932eaa2316989122e7"
+      },
+      "toan": 6.9,
+      "ngu_van": 6.9,
+      "lich_su": 8,
+      "dia_li": 8.4,
+      "tieng_anh": 6,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.92,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ff1e43f8917a04cd5308"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ff1e43f8917a04cd5305"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a96a22eaa23169891231e"
+      },
+      "toan": 6.9,
+      "ngu_van": 6.3,
+      "lich_su": 8.3,
+      "dia_li": 8.6,
+      "tieng_anh": 7.8,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a96a22eaa23169891231f"
+      },
+      "toan": 7.2,
+      "ngu_van": 6.5,
+      "lich_su": 8.3,
+      "dia_li": 8.9,
+      "tieng_anh": 7.8,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a96a22eaa231698912320"
+      },
+      "toan": 7.5,
+      "ngu_van": 6.6,
+      "lich_su": 6.9,
+      "dia_li": 8,
+      "tieng_anh": 8.2,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.83,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ff5543f8917a04cd530c"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ff5543f8917a04cd5309"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a97532eaa231698912341"
+      },
+      "toan": 6,
+      "ngu_van": 5.8,
+      "lich_su": 6.6,
+      "dia_li": 6.5,
+      "tieng_anh": 6.7,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a97532eaa231698912342"
+      },
+      "toan": 6.6,
+      "ngu_van": 6.5,
+      "lich_su": 7.4,
+      "dia_li": 7.3,
+      "tieng_anh": 6.8,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a97532eaa231698912343"
+      },
+      "toan": 7.7,
+      "ngu_van": 7.3,
+      "lich_su": 7.9,
+      "dia_li": 7.5,
+      "tieng_anh": 6.7,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.78,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ff8d43f8917a04cd5310"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ff8d43f8917a04cd530d"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a97eb2eaa231698912364"
+      },
+      "toan": 7.3,
+      "ngu_van": 7.6,
+      "lich_su": 8.2,
+      "dia_li": 7.6,
+      "tieng_anh": 7.4,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a97eb2eaa231698912365"
+      },
+      "toan": 7.7,
+      "ngu_van": 7.8,
+      "lich_su": 8.7,
+      "dia_li": 8.1,
+      "tieng_anh": 6.3,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a97eb2eaa231698912366"
+      },
+      "toan": 8.8,
+      "ngu_van": 7.9,
+      "lich_su": 7.4,
+      "dia_li": 8.7,
+      "tieng_anh": 7.7,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    }
+  ],
+  "diem_tot_nghiep": 3.03,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166ffc443f8917a04cd5314"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166ffc443f8917a04cd5311"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a98532eaa231698912387"
+      },
+      "toan": 5.6,
+      "ngu_van": 7.3,
+      "lich_su": 7.9,
+      "dia_li": 7.8,
+      "tieng_anh": 7.2,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a98532eaa231698912388"
+      },
+      "toan": 7.2,
+      "ngu_van": 7.2,
+      "lich_su": 5.4,
+      "dia_li": 7.7,
+      "tieng_anh": 8,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a98532eaa231698912389"
+      },
+      "toan": 8.6,
+      "ngu_van": 7.6,
+      "lich_su": 6.6,
+      "dia_li": 8.3,
+      "tieng_anh": 8.1,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    }
+  ],
+  "diem_tot_nghiep": 2.68,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6166fff743f8917a04cd5318"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6166fff743f8917a04cd5315"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a98c42eaa2316989123aa"
+      },
+      "toan": 7.9,
+      "vat_li": 6.1,
+      "hoa_hoc": 7.9,
+      "tieng_anh": 6.8,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a98c42eaa2316989123ab"
+      },
+      "toan": 7.9,
+      "vat_li": 6.6,
+      "hoa_hoc": 6.9,
+      "tieng_anh": 6.3,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a98c42eaa2316989123ac"
+      },
+      "toan": 7.7,
+      "vat_li": 6.6,
+      "hoa_hoc": 7.2,
+      "tieng_anh": 5.6,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 3.37,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167002f43f8917a04cd531c"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167002f43f8917a04cd5319"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a99482eaa2316989123cd"
+      },
+      "toan": 6.1,
+      "vat_li": 6.7,
+      "hoa_hoc": 5.7,
+      "ngu_van": 7.1,
+      "lich_su": 7.5,
+      "dia_li": 7.2,
+      "tieng_anh": 9.2,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a99482eaa2316989123ce"
+      },
+      "toan": 6,
+      "vat_li": 5,
+      "hoa_hoc": 6.4,
+      "ngu_van": 6.9,
+      "lich_su": 7.8,
+      "dia_li": 7.3,
+      "tieng_anh": 8.2,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a99482eaa2316989123cf"
+      },
+      "toan": 7.4,
+      "vat_li": 6.6,
+      "hoa_hoc": 6.7,
+      "ngu_van": 7.6,
+      "lich_su": 7.7,
+      "dia_li": 7.3,
+      "tieng_anh": 9.1,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.84,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167006943f8917a04cd5320"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167006943f8917a04cd531d"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a99be2eaa2316989123f0"
+      },
+      "toan": 7.3,
+      "vat_li": 7.3,
+      "hoa_hoc": 6.5,
+      "ngu_van": 6.4,
+      "tieng_anh": 4.8,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a99be2eaa2316989123f1"
+      },
+      "toan": 6.5,
+      "vat_li": 6.5,
+      "hoa_hoc": 5.1,
+      "ngu_van": 6.9,
+      "tieng_anh": 5.3,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a99be2eaa2316989123f2"
+      },
+      "toan": 7.9,
+      "vat_li": 6.7,
+      "hoa_hoc": 6.9,
+      "ngu_van": 7.2,
+      "tieng_anh": 6.2,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.54,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616700a443f8917a04cd5324"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616700a443f8917a04cd5321"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a9a532eaa23169891241e"
+      },
+      "toan": 5.2,
+      "ngu_van": 5.7,
+      "lich_su": 8.3,
+      "dia_li": 7.1,
+      "tieng_anh": 5.8,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a9a532eaa23169891241f"
+      },
+      "toan": 6.8,
+      "ngu_van": 5.7,
+      "lich_su": 7.3,
+      "dia_li": 7.1,
+      "tieng_anh": 6.5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a9a532eaa231698912420"
+      },
+      "toan": 6.5,
+      "ngu_van": 5.6,
+      "lich_su": 6.3,
+      "dia_li": 7.6,
+      "tieng_anh": 6.9,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.73,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616700e443f8917a04cd5328"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616700e443f8917a04cd5325"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a9acb2eaa231698912441"
+      },
+      "toan": 6.1,
+      "ngu_van": 6.2,
+      "lich_su": 7.1,
+      "dia_li": 5.8,
+      "tieng_anh": 6.3,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a9acb2eaa231698912442"
+      },
+      "toan": 6.4,
+      "ngu_van": 6.6,
+      "lich_su": 7.7,
+      "dia_li": 7.5,
+      "tieng_anh": 7.2,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a9acb2eaa231698912443"
+      },
+      "toan": 5.9,
+      "ngu_van": 6.8,
+      "lich_su": 6.3,
+      "dia_li": 7.2,
+      "tieng_anh": 5.7,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    }
+  ],
+  "diem_tot_nghiep": 2.13,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616701a143f8917a04cd532c"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616701a143f8917a04cd5329"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a9b472eaa231698912464"
+      },
+      "toan": 4.3,
+      "ngu_van": 6,
+      "lich_su": 5.9,
+      "dia_li": 6.3,
+      "tieng_anh": 4.2,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a9b472eaa231698912465"
+      },
+      "toan": 5.4,
+      "ngu_van": 6.4,
+      "lich_su": 5.9,
+      "dia_li": 8.5,
+      "tieng_anh": 6.5,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a9b472eaa231698912466"
+      },
+      "toan": 7,
+      "ngu_van": 6.1,
+      "lich_su": 6.5,
+      "dia_li": 7.1,
+      "tieng_anh": 7.4,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.53,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616701dd43f8917a04cd5330"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616701dd43f8917a04cd532d"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a9bd72eaa231698912487"
+      },
+      "toan": 6.1,
+      "vat_li": 7.1,
+      "ngu_van": 7.7,
+      "lich_su": 9.6,
+      "dia_li": 8,
+      "tieng_anh": 7,
+      "gdcd": 6.7,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a9bd72eaa231698912488"
+      },
+      "toan": 6.8,
+      "vat_li": 7.5,
+      "ngu_van": 7.3,
+      "lich_su": 8.7,
+      "dia_li": 6.9,
+      "tieng_anh": 8,
+      "gdcd": 8.2,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a9bd72eaa231698912489"
+      },
+      "toan": 6.9,
+      "vat_li": 7.1,
+      "ngu_van": 7.1,
+      "lich_su": 8.4,
+      "dia_li": 7.2,
+      "tieng_anh": 6.8,
+      "gdcd": 8.5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 3.24,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167021a43f8917a04cd5334"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167021a43f8917a04cd5331"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616d430535492e11c85e4cf1"
+      },
+      "toan": 6.7,
+      "vat_li": 7,
+      "hoa_hoc": 4.6,
+      "ngu_van": 6.9,
+      "lich_su": 5.3,
+      "dia_li": 6.9,
+      "tieng_anh": 6.3,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "616d432c35492e11c85e4cfd"
+      },
+      "toan": 6.2,
+      "vat_li": 6.8,
+      "hoa_hoc": 5.6,
+      "ngu_van": 5.5,
+      "lich_su": 8.6,
+      "dia_li": 7,
+      "tieng_anh": 6.2,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "616d434d35492e11c85e4d09"
+      },
+      "toan": 6.3,
+      "vat_li": 6.2,
+      "hoa_hoc": 6.1,
+      "ngu_van": 6.7,
+      "lich_su": 6.7,
+      "dia_li": 6.6,
+      "tieng_anh": 5.5,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.31,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167025143f8917a04cd5338"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167025043f8917a04cd5335"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a9c592eaa2316989124aa"
+      },
+      "toan": 8.5,
+      "ngu_van": 6.3,
+      "lich_su": 8.3,
+      "dia_li": 8.4,
+      "tieng_anh": 7.5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a9c592eaa2316989124ab"
+      },
+      "toan": 8.5,
+      "ngu_van": 7.2,
+      "lich_su": 8.2,
+      "dia_li": 8.9,
+      "tieng_anh": 8,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a9c592eaa2316989124ac"
+      },
+      "toan": 8,
+      "ngu_van": 7,
+      "lich_su": 6.2,
+      "dia_li": 7.1,
+      "tieng_anh": 7.4,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.54,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167028943f8917a04cd533c"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167028943f8917a04cd5339"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a9cd82eaa2316989124cd"
+      },
+      "toan": 5,
+      "vat_li": 5.3,
+      "hoa_hoc": 6.4,
+      "tieng_anh": 6.1,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a9cd82eaa2316989124ce"
+      },
+      "toan": 5.6,
+      "vat_li": 7.3,
+      "hoa_hoc": 6.2,
+      "tieng_anh": 5.5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a9cd82eaa2316989124cf"
+      },
+      "toan": 8,
+      "vat_li": 6.4,
+      "hoa_hoc": 6.8,
+      "tieng_anh": 6.7,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.68,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616702bc43f8917a04cd5340"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616702bc43f8917a04cd533d"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a9d552eaa2316989124fb"
+      },
+      "toan": 5.1,
+      "vat_li": 5.9,
+      "hoa_hoc": 5,
+      "sinh_hoc": 6,
+      "tieng_anh": 4.9,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a9d552eaa2316989124fc"
+      },
+      "toan": 4.1,
+      "vat_li": 4.4,
+      "hoa_hoc": 4.2,
+      "sinh_hoc": 7.5,
+      "tieng_anh": 5.5,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a9d552eaa2316989124fd"
+      },
+      "toan": 6.7,
+      "vat_li": 6.6,
+      "hoa_hoc": 6.4,
+      "sinh_hoc": 6.7,
+      "tieng_anh": 5.7,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.25,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616702f743f8917a04cd5344"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616702f743f8917a04cd5341"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a9dbe2eaa23169891251e"
+      },
+      "toan": 8.8,
+      "ngu_van": 8.1,
+      "lich_su": 9,
+      "dia_li": 9,
+      "tieng_anh": 9.1,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "616a9dbe2eaa23169891251f"
+      },
+      "toan": 8.5,
+      "ngu_van": 8.2,
+      "lich_su": 9,
+      "dia_li": 9,
+      "tieng_anh": 8.4,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "616a9dbe2eaa231698912520"
+      },
+      "toan": 9.1,
+      "ngu_van": 8.2,
+      "lich_su": 8.9,
+      "dia_li": 8.6,
+      "tieng_anh": 7.7,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    }
+  ],
+  "diem_tot_nghiep": 3.3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167032b43f8917a04cd5348"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167032b43f8917a04cd5345"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a9e342eaa231698912541"
+      },
+      "toan": 6.9,
+      "ngu_van": 7,
+      "lich_su": 9.6,
+      "dia_li": 8.5,
+      "tieng_anh": 6.9,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a9e342eaa231698912542"
+      },
+      "toan": 7.2,
+      "ngu_van": 7.7,
+      "lich_su": 9.2,
+      "dia_li": 7.7,
+      "tieng_anh": 6.9,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616a9e342eaa231698912543"
+      },
+      "toan": 7.9,
+      "ngu_van": 8,
+      "lich_su": 7.9,
+      "dia_li": 8.2,
+      "tieng_anh": 7.7,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    }
+  ],
+  "diem_tot_nghiep": 2.8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167036643f8917a04cd534c"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167036643f8917a04cd5349"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ffa7a73b12f3e3c67f645"
+      },
+      "toan": 5,
+      "ngu_van": 5.1,
+      "lich_su": 5.9,
+      "dia_li": 5.8,
+      "tieng_anh": 7,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "616ffa9973b12f3e3c67f651"
+      },
+      "toan": 5.2,
+      "ngu_van": 4.9,
+      "lich_su": 3.5,
+      "dia_li": 5.8,
+      "tieng_anh": 5.6,
+      "_id_hoc_luc": "615d0ac6e319086fdb114ad9"
+    },
+    {
+      "_id": {
+        "$oid": "616ffad073b12f3e3c67f65d"
+      },
+      "toan": 5.3,
+      "ngu_van": 5.1,
+      "lich_su": 3.1,
+      "dia_li": 4.1,
+      "tieng_anh": 6.4,
+      "_id_hoc_luc": "615d0ac6e319086fdb114ad9"
+    }
+  ],
+  "diem_tot_nghiep": 2.27,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616703a043f8917a04cd5350"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616703a043f8917a04cd534d"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616bfc7bd80f842a1cc6edb8"
+      },
+      "toan": 6.6,
+      "ngu_van": 6.7,
+      "lich_su": 8.3,
+      "dia_li": 7.6,
+      "tieng_anh": 6.3,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616bfc8fd80f842a1cc6edc4"
+      },
+      "toan": 8.3,
+      "ngu_van": 7.5,
+      "lich_su": 6.7,
+      "dia_li": 8.4,
+      "tieng_anh": 5.7,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616bfcacd80f842a1cc6edd0"
+      },
+      "toan": 8.3,
+      "ngu_van": 7.3,
+      "lich_su": 7.2,
+      "dia_li": 8.1,
+      "tieng_anh": 6,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.14,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616703df43f8917a04cd5354"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616703df43f8917a04cd5351"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ac3062eaa231698912591"
+      },
+      "toan": 7.1,
+      "vat_li": 6.7,
+      "hoa_hoc": 6.9,
+      "ngu_van": 6.6,
+      "tieng_anh": 6.9,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616ac3062eaa231698912592"
+      },
+      "toan": 7.4,
+      "vat_li": 7.9,
+      "hoa_hoc": 8.5,
+      "ngu_van": 6.7,
+      "tieng_anh": 7.4,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616ac3062eaa231698912593"
+      },
+      "toan": 9.2,
+      "vat_li": 7.5,
+      "hoa_hoc": 7.2,
+      "ngu_van": 6.1,
+      "tieng_anh": 7.4,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.7,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167041a43f8917a04cd5358"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167041a43f8917a04cd5355"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616cf3a83b76141670d78782"
+      },
+      "toan": 3.6,
+      "vat_li": 5.3,
+      "hoa_hoc": 5.3,
+      "sinh_hoc": 5.7,
+      "tieng_anh": 3.8,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "616cf3ea3b76141670d7878e"
+      },
+      "toan": 5,
+      "vat_li": 5.5,
+      "hoa_hoc": 5.1,
+      "sinh_hoc": 6,
+      "tieng_anh": 3.5,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "616cf4093b76141670d7879a"
+      },
+      "toan": 5,
+      "vat_li": 6.1,
+      "hoa_hoc": 4.5,
+      "sinh_hoc": 6.8,
+      "tieng_anh": 3.5,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    }
+  ],
+  "diem_tot_nghiep": 2.5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167045343f8917a04cd535c"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167045343f8917a04cd5359"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ac3872eaa2316989125b4"
+      },
+      "toan": 5.2,
+      "vat_li": 4.8,
+      "hoa_hoc": 6.7,
+      "tieng_anh": 3.9,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ac3872eaa2316989125b5"
+      },
+      "toan": 6,
+      "vat_li": 5.9,
+      "hoa_hoc": 5.4,
+      "tieng_anh": 4.1,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ac3872eaa2316989125b6"
+      },
+      "toan": 6.3,
+      "vat_li": 4.8,
+      "hoa_hoc": 5.9,
+      "tieng_anh": 4.9,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    }
+  ],
+  "diem_tot_nghiep": 2.24,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167048143f8917a04cd5360"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167048143f8917a04cd535d"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ac3f22eaa2316989125d7"
+      },
+      "toan": 5.3,
+      "vat_li": 5.6,
+      "hoa_hoc": 5.8,
+      "tieng_anh": 4.5,
+      "_id_hoc_luc": "615d0ac6e319086fdb114ad9"
+    },
+    {
+      "_id": {
+        "$oid": "616ac3f22eaa2316989125d8"
+      },
+      "toan": 4.2,
+      "vat_li": 6.2,
+      "hoa_hoc": 5.4,
+      "tieng_anh": 6.2,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ac3f22eaa2316989125d9"
+      },
+      "toan": 6.4,
+      "vat_li": 7.1,
+      "hoa_hoc": 7.1,
+      "tieng_anh": 5.6,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    }
+  ],
+  "diem_tot_nghiep": 2.6,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616704b543f8917a04cd5364"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616704b543f8917a04cd5361"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ac45d2eaa2316989125fa"
+      },
+      "toan": 6.6,
+      "vat_li": 6.2,
+      "hoa_hoc": 5.4,
+      "ngu_van": 5.8,
+      "tieng_anh": 5.4,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ac45d2eaa2316989125fb"
+      },
+      "toan": 7.1,
+      "vat_li": 5.7,
+      "hoa_hoc": 5,
+      "ngu_van": 5.5,
+      "tieng_anh": 5.8,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ac45d2eaa2316989125fc"
+      },
+      "toan": 7.1,
+      "vat_li": 6.1,
+      "hoa_hoc": 6.8,
+      "ngu_van": 5.9,
+      "tieng_anh": 6.2,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.59,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616704e643f8917a04cd5368"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616704e643f8917a04cd5365"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ac4de2eaa231698912628"
+      },
+      "toan": 6.2,
+      "vat_li": 7.3,
+      "hoa_hoc": 7,
+      "ngu_van": 7.4,
+      "lich_su": 7,
+      "dia_li": 8.1,
+      "tieng_anh": 6,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616ac4de2eaa231698912629"
+      },
+      "toan": 6.2,
+      "vat_li": 7,
+      "hoa_hoc": 6,
+      "ngu_van": 7.4,
+      "lich_su": 7.2,
+      "dia_li": 7.9,
+      "tieng_anh": 6.5,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616ac4de2eaa23169891262a"
+      },
+      "toan": 7.4,
+      "vat_li": 7.9,
+      "hoa_hoc": 7.5,
+      "ngu_van": 6.9,
+      "lich_su": 6.9,
+      "dia_li": 7.1,
+      "tieng_anh": 6.4,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.59,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167051d43f8917a04cd536c"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167051d43f8917a04cd5369"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ac5e52eaa23169891264b"
+      },
+      "toan": 8.2,
+      "vat_li": 8.2,
+      "hoa_hoc": 7.6,
+      "ngu_van": 8.2,
+      "tieng_anh": 7.6,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "616ac5e52eaa23169891264c"
+      },
+      "toan": 6.9,
+      "vat_li": 7.8,
+      "hoa_hoc": 7.7,
+      "ngu_van": 8.5,
+      "tieng_anh": 7.6,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "616ac5e52eaa23169891264d"
+      },
+      "toan": 9.2,
+      "vat_li": 7.8,
+      "hoa_hoc": 7.1,
+      "ngu_van": 9.1,
+      "tieng_anh": 7.6,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    }
+  ],
+  "diem_tot_nghiep": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167058343f8917a04cd5370"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167058343f8917a04cd536d"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ac6ac2eaa23169891267b"
+      },
+      "toan": 3.5,
+      "vat_li": 5.3,
+      "hoa_hoc": 4.6,
+      "ngu_van": 5,
+      "tieng_anh": 4.2,
+      "_id_hoc_luc": "615d0ac6e319086fdb114ad9"
+    },
+    {
+      "_id": {
+        "$oid": "616ac6ac2eaa23169891267c"
+      },
+      "toan": 4.6,
+      "vat_li": 4.9,
+      "hoa_hoc": 3.9,
+      "ngu_van": 5.2,
+      "tieng_anh": 3.8,
+      "_id_hoc_luc": "615d0ac6e319086fdb114ad9"
+    },
+    {
+      "_id": {
+        "$oid": "616ac6ac2eaa23169891267d"
+      },
+      "toan": 6.9,
+      "vat_li": 5.6,
+      "hoa_hoc": 5.7,
+      "ngu_van": 5.8,
+      "tieng_anh": 5.9,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 7.4,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616705ea43f8917a04cd5374"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616705ea43f8917a04cd5371"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ac71f2eaa23169891269e"
+      },
+      "toan": 8.9,
+      "vat_li": 8.1,
+      "hoa_hoc": 8.2,
+      "sinh_hoc": 9,
+      "tieng_anh": 7.4,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "616ac71f2eaa23169891269f"
+      },
+      "toan": 8.5,
+      "vat_li": 8.6,
+      "hoa_hoc": 8.1,
+      "sinh_hoc": 9,
+      "tieng_anh": 8,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "616ac71f2eaa2316989126a0"
+      },
+      "toan": 8.6,
+      "vat_li": 7.9,
+      "hoa_hoc": 8.8,
+      "sinh_hoc": 8,
+      "tieng_anh": 7.5,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    }
+  ],
+  "diem_tot_nghiep": 3.6,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167062543f8917a04cd5378"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167062543f8917a04cd5375"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ac7812eaa2316989126c1"
+      },
+      "toan": 9.2,
+      "vat_li": 8.5,
+      "hoa_hoc": 7.8,
+      "sinh_hoc": 9.2,
+      "tieng_anh": 7.7,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616ac7812eaa2316989126c2"
+      },
+      "toan": 8.6,
+      "vat_li": 8.7,
+      "hoa_hoc": 9.3,
+      "sinh_hoc": 9,
+      "tieng_anh": 8.8,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "616ac7812eaa2316989126c3"
+      },
+      "toan": 8.6,
+      "vat_li": 8.8,
+      "hoa_hoc": 8,
+      "sinh_hoc": 8.7,
+      "tieng_anh": 7.3,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    }
+  ],
+  "diem_tot_nghiep": 3.18,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167066f43f8917a04cd537c"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167066f43f8917a04cd5379"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ac7fc2eaa2316989126e4"
+      },
+      "toan": 4.2,
+      "vat_li": 5,
+      "hoa_hoc": 4.5,
+      "ngu_van": 7.3,
+      "lich_su": 7.7,
+      "dia_li": 6.4,
+      "tieng_anh": 5.6,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ac7fc2eaa2316989126e5"
+      },
+      "toan": 3.8,
+      "vat_li": 5,
+      "hoa_hoc": 4,
+      "ngu_van": 6.7,
+      "lich_su": 6.7,
+      "dia_li": 6,
+      "tieng_anh": 4.6,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ac7fc2eaa2316989126e6"
+      },
+      "toan": 5.8,
+      "vat_li": 5.2,
+      "hoa_hoc": 5,
+      "ngu_van": 7,
+      "lich_su": 6.2,
+      "dia_li": 7.2,
+      "tieng_anh": 5,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    }
+  ],
+  "diem_tot_nghiep": 3.31,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616706b543f8917a04cd5380"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616706b543f8917a04cd537d"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ac8742eaa231698912707"
+      },
+      "toan": 4.1,
+      "vat_li": 6.1,
+      "hoa_hoc": 5.3,
+      "ngu_van": 6.6,
+      "lich_su": 6,
+      "dia_li": 7.5,
+      "tieng_anh": 4.2,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ac8742eaa231698912708"
+      },
+      "toan": 4.3,
+      "vat_li": 5.7,
+      "hoa_hoc": 5.1,
+      "ngu_van": 7.4,
+      "lich_su": 6.2,
+      "dia_li": 7.1,
+      "tieng_anh": 6,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ac8742eaa231698912709"
+      },
+      "toan": 5.6,
+      "vat_li": 6.4,
+      "hoa_hoc": 7,
+      "ngu_van": 7.3,
+      "lich_su": 7.3,
+      "dia_li": 8,
+      "tieng_anh": 7.8,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.88,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616706f843f8917a04cd5384"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616706f843f8917a04cd5381"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ac8e12eaa231698912735"
+      },
+      "toan": 7,
+      "ngu_van": 6.9,
+      "lich_su": 7.6,
+      "dia_li": 7.6,
+      "tieng_anh": 7.5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616ac8e12eaa231698912736"
+      },
+      "toan": 7.7,
+      "ngu_van": 7,
+      "lich_su": 6.9,
+      "dia_li": 8.4,
+      "tieng_anh": 7.7,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616ac8e12eaa231698912737"
+      },
+      "toan": 7,
+      "ngu_van": 6.1,
+      "lich_su": 6.2,
+      "dia_li": 7.7,
+      "tieng_anh": 8.6,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 3.31,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167073243f8917a04cd5388"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167073243f8917a04cd5385"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ac93f2eaa231698912758"
+      },
+      "toan": 7.7,
+      "ngu_van": 6,
+      "lich_su": 7.7,
+      "dia_li": 7.9,
+      "tieng_anh": 6.5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616ac93f2eaa231698912759"
+      },
+      "toan": 7.8,
+      "ngu_van": 5.7,
+      "lich_su": 7.3,
+      "dia_li": 8.1,
+      "tieng_anh": 6.5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616ac93f2eaa23169891275a"
+      },
+      "toan": 7.5,
+      "ngu_van": 6.5,
+      "lich_su": 6.8,
+      "dia_li": 7.3,
+      "tieng_anh": 6.3,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.59,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167076f43f8917a04cd538c"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167076f43f8917a04cd5389"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616c2915d80f842a1cc6ede0"
+      },
+      "toan": 2.5,
+      "vat_li": 4.4,
+      "hoa_hoc": 3.2,
+      "ngu_van": 4.5,
+      "tieng_anh": 4.6,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "615d0ac6e319086fdb114ad9"
+    },
+    {
+      "_id": {
+        "$oid": "616c2938d80f842a1cc6edec"
+      },
+      "toan": 4.7,
+      "vat_li": 5.4,
+      "hoa_hoc": 4.8,
+      "ngu_van": 5.2,
+      "tieng_anh": 5.2,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616c2959d80f842a1cc6edf8"
+      },
+      "toan": 5,
+      "vat_li": 4.3,
+      "hoa_hoc": 4.2,
+      "ngu_van": 4.9,
+      "tieng_anh": 4.8,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    }
+  ],
+  "diem_tot_nghiep": 7.22,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616707a143f8917a04cd5390"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616707a143f8917a04cd538d"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ac9a32eaa23169891277b"
+      },
+      "toan": 5,
+      "ngu_van": 5.9,
+      "lich_su": 5.7,
+      "dia_li": 7.1,
+      "tieng_anh": 6.6,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ac9a32eaa23169891277c"
+      },
+      "toan": 6.4,
+      "ngu_van": 5.3,
+      "lich_su": 6.5,
+      "dia_li": 7.2,
+      "tieng_anh": 7.1,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ac9a32eaa23169891277d"
+      },
+      "toan": 6.5,
+      "ngu_van": 3.8,
+      "lich_su": 5.2,
+      "dia_li": 6.4,
+      "tieng_anh": 6.2,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    }
+  ],
+  "diem_tot_nghiep": 2.48,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616707e243f8917a04cd5394"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616707e243f8917a04cd5391"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ac9f72eaa23169891279e"
+      },
+      "toan": 7.9,
+      "ngu_van": 7.7,
+      "lich_su": 7.8,
+      "dia_li": 8.6,
+      "tieng_anh": 8.7,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616ac9f72eaa23169891279f"
+      },
+      "toan": 7.5,
+      "ngu_van": 7.5,
+      "lich_su": 9.2,
+      "dia_li": 8.8,
+      "tieng_anh": 8.5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616ac9f72eaa2316989127a0"
+      },
+      "toan": 7.2,
+      "ngu_van": 7.6,
+      "lich_su": 8.6,
+      "dia_li": 8.3,
+      "tieng_anh": 8.5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.99,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167081f43f8917a04cd5398"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167081f43f8917a04cd5395"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616acaeb2eaa2316989127cc"
+      },
+      "toan": 5.8,
+      "ngu_van": 5.9,
+      "lich_su": 7.5,
+      "dia_li": 6.5,
+      "tieng_anh": 7,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616acaeb2eaa2316989127cd"
+      },
+      "toan": 6.8,
+      "ngu_van": 7.1,
+      "lich_su": 7.4,
+      "dia_li": 8.4,
+      "tieng_anh": 6,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616acaeb2eaa2316989127ce"
+      },
+      "toan": 6.9,
+      "ngu_van": 7.6,
+      "lich_su": 7.1,
+      "dia_li": 8,
+      "tieng_anh": 7.7,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.02,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167085b43f8917a04cd539c"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167085b43f8917a04cd5399"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616acbc42eaa2316989127fa"
+      },
+      "toan": 5,
+      "vat_li": 6.4,
+      "hoa_hoc": 4.6,
+      "ngu_van": 5.8,
+      "tieng_anh": 5,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616acbc42eaa2316989127fb"
+      },
+      "toan": 6,
+      "vat_li": 6.8,
+      "hoa_hoc": 5.8,
+      "ngu_van": 6.7,
+      "tieng_anh": 5.5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616acbc42eaa2316989127fc"
+      },
+      "toan": 6.6,
+      "vat_li": 5.9,
+      "hoa_hoc": 6,
+      "ngu_van": 7.1,
+      "tieng_anh": 5.7,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.57,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616708a843f8917a04cd53a0"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616708a843f8917a04cd539d"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616acc6d2eaa231698912828"
+      },
+      "toan": 5.5,
+      "vat_li": 6.2,
+      "hoa_hoc": 5.3,
+      "ngu_van": 6.6,
+      "tieng_anh": 6.2,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616acc6d2eaa231698912829"
+      },
+      "toan": 6.3,
+      "vat_li": 7.1,
+      "hoa_hoc": 5.9,
+      "ngu_van": 7.1,
+      "tieng_anh": 6.4,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616acc6d2eaa23169891282a"
+      },
+      "toan": 6.7,
+      "vat_li": 5.9,
+      "hoa_hoc": 6,
+      "ngu_van": 7.1,
+      "tieng_anh": 5.8,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.46,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616708fe43f8917a04cd53a4"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616708fe43f8917a04cd53a1"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616acd622eaa23169891287b"
+      },
+      "toan": 8.1,
+      "vat_li": 7.1,
+      "hoa_hoc": 8.1,
+      "ngu_van": 7.7,
+      "tieng_anh": 6.4,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616acd622eaa23169891287c"
+      },
+      "toan": 7.5,
+      "vat_li": 7.5,
+      "hoa_hoc": 8,
+      "ngu_van": 6.2,
+      "tieng_anh": 5.9,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616acd622eaa23169891287d"
+      },
+      "toan": 8,
+      "vat_li": 7.9,
+      "hoa_hoc": 8.5,
+      "ngu_van": 5.4,
+      "tieng_anh": 5.9,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.99,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167095a43f8917a04cd53a8"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167095a43f8917a04cd53a5"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616acdc42eaa23169891289e"
+      },
+      "toan": 6.2,
+      "vat_li": 8.2,
+      "hoa_hoc": 5.7,
+      "ngu_van": 6.3,
+      "tieng_anh": 6.3,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616acdc42eaa23169891289f"
+      },
+      "toan": 7.6,
+      "vat_li": 7.4,
+      "hoa_hoc": 6.5,
+      "ngu_van": 7.3,
+      "tieng_anh": 6.2,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616acdc42eaa2316989128a0"
+      },
+      "toan": 7.8,
+      "vat_li": 7.6,
+      "hoa_hoc": 7.3,
+      "ngu_van": 8.6,
+      "tieng_anh": 7.2,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    }
+  ],
+  "diem_tot_nghiep": 2.64,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616709cb43f8917a04cd53ac"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616709cb43f8917a04cd53a9"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ace362eaa2316989128c1"
+      },
+      "toan": 7.8,
+      "vat_li": 8.7,
+      "hoa_hoc": 8.3,
+      "ngu_van": 6.8,
+      "tieng_anh": 7.1,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616ace362eaa2316989128c2"
+      },
+      "toan": 8.9,
+      "vat_li": 8.7,
+      "hoa_hoc": 8.9,
+      "ngu_van": 7.6,
+      "tieng_anh": 7.7,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "616ace362eaa2316989128c3"
+      },
+      "toan": 7.6,
+      "vat_li": 8.3,
+      "hoa_hoc": 8.7,
+      "ngu_van": 6.9,
+      "tieng_anh": 7.7,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.83,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670a0443f8917a04cd53b0"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61670a0443f8917a04cd53ad"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616aceb62eaa2316989128e4"
+      },
+      "toan": 6.9,
+      "vat_li": 6.7,
+      "hoa_hoc": 6.6,
+      "ngu_van": 6.2,
+      "tieng_anh": 6.2,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616aceb62eaa2316989128e5"
+      },
+      "toan": 7,
+      "vat_li": 7.5,
+      "hoa_hoc": 5.3,
+      "ngu_van": 6.3,
+      "tieng_anh": 7.4,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616aceb62eaa2316989128e6"
+      },
+      "toan": 8.2,
+      "vat_li": 8.5,
+      "hoa_hoc": 7.9,
+      "ngu_van": 7.1,
+      "tieng_anh": 8.3,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    }
+  ],
+  "diem_tot_nghiep": 7.3,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670ae943f8917a04cd53b4"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61670ae943f8917a04cd53b1"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ad11d2eaa231698912935"
+      },
+      "toan": 5.5,
+      "vat_li": 5.8,
+      "hoa_hoc": 5.9,
+      "sinh_hoc": 7.3,
+      "tieng_anh": 4.6,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ad11d2eaa231698912936"
+      },
+      "toan": 6.4,
+      "vat_li": 5.5,
+      "hoa_hoc": 5,
+      "sinh_hoc": 6.9,
+      "tieng_anh": 5.3,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616ad11d2eaa231698912937"
+      },
+      "toan": 6.9,
+      "vat_li": 7.1,
+      "hoa_hoc": 6,
+      "sinh_hoc": 6.1,
+      "tieng_anh": 5.7,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.68,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670bb543f8917a04cd53b9"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61670bb543f8917a04cd53b6"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "6169a987940b3c171cc08b97"
+      },
+      "toan": 4.4,
+      "ngu_van": 8.4,
+      "lich_su": 7.7,
+      "dia_li": 6.3,
+      "tieng_anh": 0,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "6169a987940b3c171cc08b98"
+      },
+      "toan": 3.8,
+      "ngu_van": 6.9,
+      "lich_su": 6.3,
+      "dia_li": 7.4,
+      "tieng_anh": 0,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "6169a987940b3c171cc08b99"
+      },
+      "toan": 5.4,
+      "ngu_van": 8.7,
+      "lich_su": 6.1,
+      "dia_li": 8.4,
+      "tieng_anh": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 3.19,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670c7f43f8917a04cd53bd"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61670c7f43f8917a04cd53ba"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ad1ad2eaa231698912963"
+      },
+      "toan": 4.4,
+      "vat_li": 4.9,
+      "hoa_hoc": 4.7,
+      "ngu_van": 5.1,
+      "tieng_anh": 3.5,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ad1ad2eaa231698912964"
+      },
+      "toan": 5.5,
+      "vat_li": 5.4,
+      "hoa_hoc": 4.8,
+      "ngu_van": 6.3,
+      "tieng_anh": 6.3,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ad1ad2eaa231698912965"
+      },
+      "toan": 6.6,
+      "vat_li": 6.9,
+      "hoa_hoc": 6.2,
+      "ngu_van": 6.2,
+      "tieng_anh": 6.2,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.63,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670cdb43f8917a04cd53c1"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61670cdb43f8917a04cd53be"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616e3082598b8033a404c8fa"
+      },
+      "toan": 5.8,
+      "ngu_van": 6.7,
+      "lich_su": 6.6,
+      "dia_li": 7,
+      "tieng_anh": 8.4,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616e309d598b8033a404c906"
+      },
+      "toan": 4.9,
+      "ngu_van": 6.7,
+      "lich_su": 7.8,
+      "dia_li": 6.9,
+      "tieng_anh": 8.6,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "616e30b3598b8033a404c912"
+      },
+      "toan": 7.5,
+      "ngu_van": 7.4,
+      "lich_su": 7.6,
+      "dia_li": 8.1,
+      "tieng_anh": 8,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.86,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670d1843f8917a04cd53c5"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61670d1843f8917a04cd53c2"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ad2032eaa231698912986"
+      },
+      "toan": 8,
+      "ngu_van": 7.4,
+      "lich_su": 8.6,
+      "dia_li": 7.3,
+      "tieng_anh": 7.2,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616ad2032eaa231698912987"
+      },
+      "toan": 4.3,
+      "ngu_van": 7.3,
+      "lich_su": 8.7,
+      "dia_li": 8.3,
+      "tieng_anh": 6.6,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ad2032eaa231698912988"
+      },
+      "toan": 6.1,
+      "ngu_van": 7.5,
+      "lich_su": 7.4,
+      "dia_li": 7.9,
+      "tieng_anh": 6.9,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.32,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670e2d43f8917a04cd53c9"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61670e2d43f8917a04cd53c6"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616a7d252eaa231698911e18"
+      },
+      "toan": 5,
+      "vat_li": 4.4,
+      "hoa_hoc": 3.6,
+      "tieng_anh": 7,
+      "_id_hoc_luc": "615d0ac6e319086fdb114ad9"
+    },
+    {
+      "_id": {
+        "$oid": "616a7d252eaa231698911e19"
+      },
+      "toan": 5.5,
+      "vat_li": 5.6,
+      "hoa_hoc": 4.5,
+      "tieng_anh": 4.2,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616a7d252eaa231698911e1a"
+      },
+      "toan": 5.6,
+      "vat_li": 5.9,
+      "hoa_hoc": 6.1,
+      "tieng_anh": 6.5,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    }
+  ],
+  "diem_tot_nghiep": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670f0143f8917a04cd53cf"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61670f0143f8917a04cd53cc"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ad2a02eaa2316989129a9"
+      },
+      "toan": 5.9,
+      "vat_li": 5.4,
+      "hoa_hoc": 5.1,
+      "ngu_van": 5.5,
+      "tieng_anh": 4.6,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ad2a02eaa2316989129aa"
+      },
+      "toan": 6.1,
+      "vat_li": 5.5,
+      "hoa_hoc": 5.7,
+      "ngu_van": 5.6,
+      "tieng_anh": 4.8,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ad2a02eaa2316989129ab"
+      },
+      "toan": 5.5,
+      "vat_li": 4.4,
+      "hoa_hoc": 5.6,
+      "ngu_van": 6,
+      "tieng_anh": 4.9,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    }
+  ],
+  "diem_tot_nghiep": 2.51,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670f3443f8917a04cd53d3"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61670f3443f8917a04cd53d0"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ad2fe2eaa2316989129cc"
+      },
+      "toan": 5.1,
+      "ngu_van": 6.5,
+      "lich_su": 5.8,
+      "dia_li": 6.6,
+      "tieng_anh": 7.6,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616ad2fe2eaa2316989129cd"
+      },
+      "toan": 4.9,
+      "ngu_van": 6.5,
+      "lich_su": 7.5,
+      "dia_li": 7.1,
+      "tieng_anh": 7.6,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ad2fe2eaa2316989129ce"
+      },
+      "toan": 7,
+      "ngu_van": 7,
+      "lich_su": 7,
+      "dia_li": 7.1,
+      "tieng_anh": 7.5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 3.24,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670faa43f8917a04cd53d7"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61670faa43f8917a04cd53d4"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616d34c735492e11c85e4c90"
+      },
+      "toan": 5.9,
+      "ngu_van": 6.5,
+      "lich_su": 7.2,
+      "dia_li": 5.2,
+      "tieng_anh": 7,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "616d350735492e11c85e4cb2"
+      },
+      "toan": 7,
+      "ngu_van": 6.5,
+      "lich_su": 6.2,
+      "dia_li": 7.2,
+      "tieng_anh": 6.5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616d350a35492e11c85e4cbe"
+      },
+      "toan": 7.4,
+      "ngu_van": 6.5,
+      "lich_su": 6.3,
+      "dia_li": 7.9,
+      "tieng_anh": 6.1,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.55,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61670ff843f8917a04cd53db"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61670ff843f8917a04cd53d8"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ad3792eaa2316989129fa"
+      },
+      "toan": 5.8,
+      "ngu_van": 6,
+      "lich_su": 7.8,
+      "dia_li": 6.3,
+      "tieng_anh": 5.7,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ad3792eaa2316989129fb"
+      },
+      "toan": 4.9,
+      "ngu_van": 5.9,
+      "lich_su": 5.8,
+      "dia_li": 5.9,
+      "tieng_anh": 6,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ad3792eaa2316989129fc"
+      },
+      "toan": 6.1,
+      "ngu_van": 5.5,
+      "lich_su": 5.6,
+      "dia_li": 5.6,
+      "tieng_anh": 5.1,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    }
+  ],
+  "diem_tot_nghiep": 2.51,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167103843f8917a04cd53df"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167103843f8917a04cd53dc"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616cec953b76141670d7873c"
+      },
+      "toan": 7.1,
+      "vat_li": 6.2,
+      "hoa_hoc": 7.8,
+      "ngu_van": 6.1,
+      "lich_su": 8.9,
+      "dia_li": 7.7,
+      "tieng_anh": 6.5,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616cecc13b76141670d78748"
+      },
+      "toan": 7.7,
+      "vat_li": 7.5,
+      "hoa_hoc": 6.5,
+      "ngu_van": 7.3,
+      "lich_su": 8.2,
+      "dia_li": 8.7,
+      "tieng_anh": 8.3,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616cecdd3b76141670d78754"
+      },
+      "toan": 7.8,
+      "vat_li": 7,
+      "hoa_hoc": 7.5,
+      "ngu_van": 7,
+      "lich_su": 8.5,
+      "dia_li": 7.6,
+      "tieng_anh": 7.3,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 3.09,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167108343f8917a04cd53e3"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167108343f8917a04cd53e0"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ad3e12eaa231698912a1d"
+      },
+      "toan": 7.4,
+      "ngu_van": 5.7,
+      "lich_su": 9,
+      "dia_li": 7.4,
+      "tieng_anh": 8,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616ad3e12eaa231698912a1e"
+      },
+      "toan": 8.3,
+      "ngu_van": 6.8,
+      "lich_su": 7.8,
+      "dia_li": 7.6,
+      "tieng_anh": 8.4,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "616ad3e12eaa231698912a1f"
+      },
+      "toan": 7.7,
+      "ngu_van": 8.2,
+      "lich_su": 7.3,
+      "dia_li": 7.4,
+      "tieng_anh": 8.1,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    }
+  ],
+  "diem_tot_nghiep": 2.57,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616710e043f8917a04cd53e7"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616710e043f8917a04cd53e4"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616e30f8598b8033a404c91d"
+      },
+      "toan": 7.7,
+      "ngu_van": 7.5,
+      "lich_su": 7.7,
+      "dia_li": 7.1,
+      "tieng_anh": 8.8,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616e3117598b8033a404c929"
+      },
+      "toan": 8,
+      "ngu_van": 7,
+      "lich_su": 7.5,
+      "dia_li": 8.3,
+      "tieng_anh": 8.7,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616e3137598b8033a404c940"
+      },
+      "toan": 8.6,
+      "ngu_van": 8.4,
+      "lich_su": 8,
+      "dia_li": 8.2,
+      "tieng_anh": 8.8,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    }
+  ],
+  "diem_tot_nghiep": 2.82,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167113143f8917a04cd53eb"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167113143f8917a04cd53e8"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ad45a2eaa231698912a40"
+      },
+      "toan": 6.7,
+      "ngu_van": 6.3,
+      "lich_su": 7.8,
+      "dia_li": 7.5,
+      "tieng_anh": 8.8,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616ad45a2eaa231698912a41"
+      },
+      "toan": 6.5,
+      "ngu_van": 6.8,
+      "lich_su": 7.1,
+      "dia_li": 8.1,
+      "tieng_anh": 8.8,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616ad45a2eaa231698912a42"
+      },
+      "toan": 7.3,
+      "ngu_van": 7.2,
+      "lich_su": 5.9,
+      "dia_li": 6.2,
+      "tieng_anh": 9.1,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.88,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616713c036a4176baf36a689"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616713c036a4176baf36a686"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ad4f72eaa231698912a6e"
+      },
+      "toan": 3.5,
+      "vat_li": 4.3,
+      "hoa_hoc": 4.5,
+      "ngu_van": 6,
+      "lich_su": 6.7,
+      "dia_li": 5.5,
+      "tieng_anh": 5.5,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ad4f72eaa231698912a6f"
+      },
+      "toan": 5,
+      "vat_li": 4.7,
+      "hoa_hoc": 3.6,
+      "ngu_van": 5.3,
+      "lich_su": 6.4,
+      "dia_li": 5,
+      "tieng_anh": 5.4,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ad4f72eaa231698912a70"
+      },
+      "toan": 5.5,
+      "vat_li": 4.6,
+      "hoa_hoc": 4.4,
+      "ngu_van": 6.7,
+      "lich_su": 5.3,
+      "dia_li": 6.9,
+      "tieng_anh": 4.6,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    }
+  ],
+  "diem_tot_nghiep": 2.62,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61678f8c1c414fe1310cb05d"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61678f8c1c414fe1310cb05a"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ad56c2eaa231698912aa7"
+      },
+      "toan": 4.6,
+      "ngu_van": 6.7,
+      "lich_su": 7.9,
+      "dia_li": 7.5,
+      "tieng_anh": 6.2,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ad56c2eaa231698912aa8"
+      },
+      "toan": 6.5,
+      "ngu_van": 6,
+      "lich_su": 8.4,
+      "dia_li": 8.2,
+      "tieng_anh": 6.6,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616ad56c2eaa231698912aa9"
+      },
+      "toan": 6.6,
+      "ngu_van": 7.6,
+      "lich_su": 8.9,
+      "dia_li": 8.3,
+      "tieng_anh": 7.1,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.69,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61678fdc1c414fe1310cb061"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61678fdb1c414fe1310cb05e"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ad6792eaa231698912ada"
+      },
+      "toan": 5.6,
+      "vat_li": 7,
+      "hoa_hoc": 6.5,
+      "tieng_anh": 4.7,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "616ad6792eaa231698912adb"
+      },
+      "toan": 4.4,
+      "vat_li": 5.2,
+      "hoa_hoc": 4.3,
+      "tieng_anh": 4.5,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ad6792eaa231698912adc"
+      },
+      "toan": 4.2,
+      "vat_li": 5.5,
+      "hoa_hoc": 5.7,
+      "tieng_anh": 3.8,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    }
+  ],
+  "diem_tot_nghiep": 5.9,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616790561c414fe1310cb065"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616790561c414fe1310cb062"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ad7472eaa231698912b02"
+      },
+      "toan": 6,
+      "vat_li": 5.2,
+      "hoa_hoc": 7.2,
+      "ngu_van": 6.2,
+      "tieng_anh": 6.3,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ad7472eaa231698912b03"
+      },
+      "toan": 7,
+      "vat_li": 4.7,
+      "hoa_hoc": 5.5,
+      "ngu_van": 6,
+      "tieng_anh": 5.4,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ad7472eaa231698912b04"
+      },
+      "toan": 7,
+      "vat_li": 6.3,
+      "hoa_hoc": 6.7,
+      "ngu_van": 7.1,
+      "tieng_anh": 5.4,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.37,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167908b1c414fe1310cb069"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167908b1c414fe1310cb066"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ad7ad2eaa231698912b25"
+      },
+      "toan": 8.8,
+      "vat_li": 6.1,
+      "hoa_hoc": 5.3,
+      "sinh_hoc": 6.2,
+      "tieng_anh": 6.1,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616ad7ad2eaa231698912b26"
+      },
+      "toan": 6.8,
+      "vat_li": 6.2,
+      "hoa_hoc": 5.5,
+      "sinh_hoc": 7.2,
+      "tieng_anh": 6.7,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616ad7ad2eaa231698912b27"
+      },
+      "toan": 8.1,
+      "vat_li": 6.4,
+      "hoa_hoc": 7.1,
+      "sinh_hoc": 8,
+      "tieng_anh": 6.4,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 3.21,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616790bb1c414fe1310cb06d"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616790bb1c414fe1310cb06a"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ad8022eaa231698912b48"
+      },
+      "toan": 3.8,
+      "vat_li": 4.2,
+      "hoa_hoc": 6.1,
+      "tieng_anh": 4.8,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ad8022eaa231698912b49"
+      },
+      "toan": 5.4,
+      "vat_li": 6,
+      "hoa_hoc": 5.2,
+      "tieng_anh": 5,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ad8022eaa231698912b4a"
+      },
+      "toan": 7.5,
+      "vat_li": 6.9,
+      "hoa_hoc": 7.7,
+      "tieng_anh": 6.2,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.59,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616796361c414fe1310cb071"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616796361c414fe1310cb06e"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ad8532eaa231698912b60"
+      },
+      "toan": 5.7,
+      "ngu_van": 5.8,
+      "lich_su": 6.5,
+      "dia_li": 5.5,
+      "tieng_anh": 5.5,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ad8532eaa231698912b61"
+      },
+      "toan": 6.1,
+      "ngu_van": 6.1,
+      "lich_su": 7.7,
+      "dia_li": 5.9,
+      "tieng_anh": 5.6,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ad8532eaa231698912b62"
+      },
+      "toan": 7.5,
+      "ngu_van": 5.8,
+      "lich_su": 7.9,
+      "dia_li": 9.3,
+      "tieng_anh": 6.8,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.55,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616796841c414fe1310cb075"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616796841c414fe1310cb072"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ad8b92eaa231698912b83"
+      },
+      "toan": 6.9,
+      "vat_li": 5.2,
+      "hoa_hoc": 5.4,
+      "ngu_van": 6.1,
+      "tieng_anh": 4.5,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ad8b92eaa231698912b84"
+      },
+      "toan": 5.4,
+      "vat_li": 7.8,
+      "hoa_hoc": 5.2,
+      "ngu_van": 6.1,
+      "tieng_anh": 5.9,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ad8b92eaa231698912b85"
+      },
+      "toan": 7.6,
+      "vat_li": 7.4,
+      "hoa_hoc": 7.3,
+      "ngu_van": 7.2,
+      "tieng_anh": 7,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.84,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167d7a11c414fe1310cb079"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167d7a11c414fe1310cb076"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ad9452eaa231698912bb1"
+      },
+      "toan": 8.4,
+      "vat_li": 5.9,
+      "hoa_hoc": 6.9,
+      "ngu_van": 6.8,
+      "tieng_anh": 7.2,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616ad9452eaa231698912bb2"
+      },
+      "toan": 6.7,
+      "vat_li": 6.4,
+      "hoa_hoc": 7.2,
+      "ngu_van": 6.5,
+      "tieng_anh": 8.3,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616ad9452eaa231698912bb3"
+      },
+      "toan": 7.7,
+      "vat_li": 5.8,
+      "hoa_hoc": 6,
+      "ngu_van": 7.1,
+      "tieng_anh": 7.4,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 3.24,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167d7f81c414fe1310cb07d"
+  },
+  "_id_thi_sinh": {
+    "$oid": "6167d7f81c414fe1310cb07a"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ad9ac2eaa231698912bd4"
+      },
+      "toan": 5.4,
+      "vat_li": 4.3,
+      "hoa_hoc": 5.5,
+      "ngu_van": 5.8,
+      "tieng_anh": 5,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ad9ac2eaa231698912bd5"
+      },
+      "toan": 4.9,
+      "vat_li": 5.6,
+      "hoa_hoc": 6,
+      "ngu_van": 6.6,
+      "tieng_anh": 5.6,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ad9ac2eaa231698912bd6"
+      },
+      "toan": 6,
+      "vat_li": 5.8,
+      "hoa_hoc": 6,
+      "ngu_van": 6.8,
+      "tieng_anh": 6.1,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.54,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61699ef1e0bd0187d1041f9a"
+  },
+  "_id_thi_sinh": {
+    "$oid": "61699ef1e0bd0187d1041f97"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "6169a11b940b3c171cc08951"
+      },
+      "toan": 5.5,
+      "vat_li": 5.9,
+      "hoa_hoc": 4.7,
+      "ngu_van": 6.8,
+      "lich_su": 6.6,
+      "dia_li": 6.6,
+      "tieng_anh": 0,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "6169a11b940b3c171cc08952"
+      },
+      "toan": 5.1,
+      "vat_li": 5.9,
+      "hoa_hoc": 6.4,
+      "ngu_van": 6,
+      "lich_su": 7.4,
+      "dia_li": 7.1,
+      "tieng_anh": 0,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "6169a11b940b3c171cc08953"
+      },
+      "toan": 8.2,
+      "vat_li": 7.6,
+      "hoa_hoc": 6.4,
+      "ngu_van": 6.2,
+      "lich_su": 6.7,
+      "dia_li": 6.4,
+      "tieng_anh": 0,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.91,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616ae387333889b6d2f111a9"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616ae387333889b6d2f111a6"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ceb6d3b76141670d78719"
+      },
+      "toan": 7,
+      "vat_li": 7.2,
+      "hoa_hoc": 5.9,
+      "ngu_van": 5.9,
+      "tieng_anh": 5.3,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616ceb8d3b76141670d78725"
+      },
+      "toan": 7.2,
+      "vat_li": 6.6,
+      "hoa_hoc": 6.7,
+      "ngu_van": 6.4,
+      "tieng_anh": 7.3,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616ceba73b76141670d78731"
+      },
+      "toan": 6.9,
+      "vat_li": 6.4,
+      "hoa_hoc": 6.2,
+      "ngu_van": 6.6,
+      "tieng_anh": 6.5,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 3.05,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616ae3e3333889b6d2f111ad"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616ae3e3333889b6d2f111aa"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ced153b76141670d7875f"
+      },
+      "toan": 8.2,
+      "vat_li": 7.1,
+      "hoa_hoc": 8,
+      "ngu_van": 6.3,
+      "tieng_anh": 6,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616ced353b76141670d7876b"
+      },
+      "toan": 8.4,
+      "vat_li": 6.8,
+      "hoa_hoc": 6,
+      "ngu_van": 6.5,
+      "tieng_anh": 6.3,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616ced533b76141670d78777"
+      },
+      "toan": 7.2,
+      "vat_li": 6.5,
+      "hoa_hoc": 6.5,
+      "ngu_van": 6.2,
+      "tieng_anh": 6.9,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.79,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616ae43f333889b6d2f111b1"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616ae43f333889b6d2f111ae"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ae7329ab8fc1b5c8fb406"
+      },
+      "toan": 4.6,
+      "vat_li": 6.4,
+      "hoa_hoc": 4.9,
+      "ngu_van": 7.5,
+      "tieng_anh": 4.5,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ae7329ab8fc1b5c8fb407"
+      },
+      "toan": 5.3,
+      "vat_li": 6.4,
+      "hoa_hoc": 5.6,
+      "ngu_van": 6.9,
+      "tieng_anh": 4.6,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616ae7329ab8fc1b5c8fb408"
+      },
+      "toan": 7.2,
+      "vat_li": 6,
+      "hoa_hoc": 5.7,
+      "ngu_van": 7,
+      "tieng_anh": 6.1,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.71,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616ae484333889b6d2f111b5"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616ae484333889b6d2f111b2"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ae7939ab8fc1b5c8fb429"
+      },
+      "toan": 7,
+      "vat_li": 6.9,
+      "hoa_hoc": 7.5,
+      "ngu_van": 7.5,
+      "tieng_anh": 5.6,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616ae7939ab8fc1b5c8fb42a"
+      },
+      "toan": 5.2,
+      "vat_li": 6.8,
+      "hoa_hoc": 6.7,
+      "ngu_van": 8.2,
+      "tieng_anh": 7.1,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616ae7939ab8fc1b5c8fb42b"
+      },
+      "toan": 6.5,
+      "vat_li": 7.1,
+      "hoa_hoc": 6.4,
+      "ngu_van": 8.1,
+      "tieng_anh": 7.8,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.56,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616ae4ec333889b6d2f111b9"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616ae4eb333889b6d2f111b6"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616ae8039ab8fc1b5c8fb457"
+      },
+      "toan": 6.6,
+      "ngu_van": 6.4,
+      "lich_su": 7.6,
+      "dia_li": 8,
+      "tieng_anh": 8.6,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616ae8039ab8fc1b5c8fb458"
+      },
+      "toan": 6.6,
+      "ngu_van": 7.2,
+      "lich_su": 9,
+      "dia_li": 8.1,
+      "tieng_anh": 8.8,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616ae8039ab8fc1b5c8fb459"
+      },
+      "toan": 8,
+      "ngu_van": 7.3,
+      "lich_su": 7.4,
+      "dia_li": 8.2,
+      "tieng_anh": 9.1,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    }
+  ],
+  "diem_tot_nghiep": 2.53,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616ae52f333889b6d2f111bd"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616ae52f333889b6d2f111ba"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616d3c7035492e11c85e4cce"
+      },
+      "toan": 5.6,
+      "vat_li": 5.7,
+      "hoa_hoc": 5.2,
+      "ngu_van": 6.5,
+      "tieng_anh": 5.4,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616d3c8935492e11c85e4cda"
+      },
+      "toan": 6.5,
+      "vat_li": 6.3,
+      "hoa_hoc": 7.3,
+      "ngu_van": 7.7,
+      "tieng_anh": 6.9,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616d3c9f35492e11c85e4ce6"
+      },
+      "toan": 8.4,
+      "vat_li": 7.5,
+      "hoa_hoc": 7.5,
+      "ngu_van": 8.6,
+      "tieng_anh": 8.1,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    }
+  ],
+  "diem_tot_nghiep": 2.73,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616ae6729f46b908e4a7c524"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616ae6729f46b908e4a7c521"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "616fc8d873b12f3e3c67f5d7"
+      },
+      "toan": 6.5,
+      "vat_li": 6.5,
+      "hoa_hoc": 6.5,
+      "ngu_van": 7,
+      "lich_su": 8.5,
+      "dia_li": 8.5,
+      "tieng_anh": 6.5,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    },
+    {
+      "_id": {
+        "$oid": "616fc90273b12f3e3c67f5e3"
+      },
+      "toan": 8,
+      "vat_li": 7.9,
+      "hoa_hoc": 7.1,
+      "ngu_van": 7.3,
+      "lich_su": 8.8,
+      "dia_li": 8.3,
+      "tieng_anh": 7.9,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fec93620ec19c55ac86"
+    },
+    {
+      "_id": {
+        "$oid": "616fcae173b12f3e3c67f618"
+      },
+      "toan": 7.7,
+      "vat_li": 6.7,
+      "hoa_hoc": 7.2,
+      "ngu_van": 6.5,
+      "lich_su": 9.9,
+      "dia_li": 8.1,
+      "tieng_anh": 8.2,
+      "tieng_phap": 0,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.76,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616d216c7576047b29e94fe3"
+  },
+  "_id_thi_sinh": {
+    "$oid": "616d216c7576047b29e94fe0"
+  },
+  "diem_so": [
+    {
+      "_id": {
+        "$oid": "61713560959f6c356c3ffc01"
+      },
+      "toan": 3.8,
+      "vat_li": 4,
+      "hoa_hoc": 5.4,
+      "ngu_van": 6.8,
+      "tieng_anh": 4.8,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "6171357b959f6c356c3ffc0e"
+      },
+      "toan": 5.1,
+      "vat_li": 5.1,
+      "hoa_hoc": 6.5,
+      "ngu_van": 5.6,
+      "tieng_anh": 5.9,
+      "_id_hoc_luc": "61580f8793620ec19c55ac84"
+    },
+    {
+      "_id": {
+        "$oid": "61713666959f6c356c3ffc1c"
+      },
+      "toan": 7.4,
+      "vat_li": 5.8,
+      "hoa_hoc": 5.6,
+      "ngu_van": 6.5,
+      "tieng_anh": 6.9,
+      "_id_hoc_luc": "61580fdf93620ec19c55ac85"
+    }
+  ],
+  "diem_tot_nghiep": 2.83,
+  "__v": 0
+}]
