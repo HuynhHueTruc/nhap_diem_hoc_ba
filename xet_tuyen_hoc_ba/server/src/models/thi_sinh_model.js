@@ -4,19 +4,24 @@ const mongoose = require('mongoose')
 let ThiSinhSchema = new mongoose.Schema({
     _id: mongoose.Schema.ObjectId, 
     so_ho_so: String,
+    so_bao_danh: String,
     ho_ten: String,
     ngay_sinh: Date,
     cmnd_cccd: String,
     gioi_tinh: String,
+    dan_toc: String,
+    noi_sinh: [{
+        xa_phuong: String,
+        huyen_quan: String, 
+        tinh_thanhpho: String
+    }],
+    dien_thoai: String,
+    email: String,
     dia_chi: [{
         xa_phuong: String,
         huyen_quan: String, 
         tinh_thanhpho: String
     }], 
-    dan_toc: String,
-    noi_sinh: String,
-    dien_thoai: String,
-    email: String,
     ngay_tao: Date,
     ngay_cap_nhat: Date
 });

@@ -15,17 +15,20 @@ const NganhTotNghiepModel = require('../src/models/nganh_tot_nghiep_model')
 const DangKyModel = require('../src/models/dang_ky_model')
 const DiemModel = require('../src/models/diem_model')
 
+
+// Get tất cả thí sinh
 route.get('/thisinh/thongtin', async (req, res) => {
     ThiSinhModel.find({}).select({
         _id: 1,
         so_ho_so: 1,
+        so_bao_danh: 1,
         ho_ten: 1,
         ngay_sinh: 1,
         cmnd_cccd: 1,
         gioi_tinh: 1,
-        dia_chi: 1,
         dan_toc: 1,
         noi_sinh: 1,
+        dia_chi: 1,
         dien_thoai: 1,
         email: 1,
         ngay_tao: 1,
@@ -44,6 +47,39 @@ route.get('/thisinh/thongtin', async (req, res) => {
     })
 })
 
+// Get thí sinh theo trang
+route.post('/thisinh/thongtin/page', async (req, res) => {
+    page = 2
+    // console.log(page)
+    // lấy ra 5 document và trả về từ document thứ 2*2 đến hết
+    ThiSinhModel.find({}).limit(5).skip(2*page).select({
+        _id: 1,
+        so_ho_so: 1,
+        so_bao_danh: 1,
+        ho_ten: 1,
+        ngay_sinh: 1,
+        cmnd_cccd: 1,
+        gioi_tinh: 1,
+        dan_toc: 1,
+        noi_sinh: 1,
+        dia_chi: 1,
+        dien_thoai: 1,
+        email: 1,
+        ngay_tao: 1,
+        ngay_cap_nhat: 1
+    }).exec((err, thisinhs) => {
+        if (err) {
+            res.json({
+                result: "failed",
+                data: [],
+                message: `Error is: ${err}`
+            })
+        } else {
+            //Trả về dạng JSON
+            res.json({ thisinhs })
+        }
+    })
+})
 
 route.post('/thisinh/themmoi', async (req, res) => {
     diem_so = []
